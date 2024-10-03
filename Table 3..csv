@@ -1,0 +1,2068 @@
+Minimum, average, and maximum entropy and complexity values.;;;;;;;
+Table 3.  Minimum, average, and maximum entropy and complexity values for all 52 languages.;;;;;;;
+English;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;5;Minimum entropy;0,707;0,471;-7,46%;-4,20%;C. Darwin, “The Different Forms of Flowers on Plants of the Same Species”
+;;Mean entropy;0,764;0,443;0,00%;-2,18;W. Collins, “Little Novels”
+;;;0,764;0,451;0,00%;-0,27%;J. London, “The Night-Born and Mean entropy Other Stories”
+;;;0,765;0,451;0,00%;-0,30%;E. Nesbit, “The Phoenix and the Carpet”
+;;Maximum entropy;0,802;0,398;4,93%;-11,98%;Lord Byron, “Don Juan”
+;;Minimum complexity;0,802;0,398;4,93%;-11,98%;Lord Byron, “Don Juan”
+;;Mean complexity;0,746;0,452;-2,45%;-0,02%;M. Davenport, “The Valley of Decision”
+;;Maximum complexity;0,718;0,503;-6,09%;11,11%;G. K. Chesterton, “The Barbarism of Berlin”
+;;Mean entropy and complexity;0,765;0,452;0,02%;-0,05%;W. Collins, “The Legacy of Cain”
+3;6;Minimum entropy;0,659;0,531;-6,95%;-2,43%;"C. Darwin, ""The Different Forms of Flowers on Plants of the Same Species(Non-Fiction)"""
+;;Mean entropy;0,708;0,536;0,00%;-1,64%;N. Hawthorne, “The Scarlet
+;;;;;;;Letter”
+;;Maximum entropy;0,746;0,507;5,31%;-7,07%;Lord Byron, “Don Juan”
+;;Minimum complexity;0,746;0,507;5,33%;-7,09%;Lord Byron, “Don Juan”
+;;Mean complexity;0,714;0,545;0,82%;-0,01%;S. White, “Blazed Trail Stories”
+;;;0,715;0,545;0,88%;-0,01%;H. MacGrath, “Parrot & Co.”
+;;Maximum complexity;0,694;0,58;-2,02%;6,30%;H. James, “The Marriages”
+;;Mean entropy and complexity;0,708;0,545;-0,05%;-0,03%;G. Keith , “The Man Who Was Thursday”
+3;7;Minimum entropy;0,608;0,572;-7,72%;-2,83%;H.Wadsworth, “Evangeline”
+;;Mean entropy;0,658;0,587;0,00%;-0,28%;R. Barbour, “The Half-Back”
+;;Maximum entropy;0,709;0,585;7,68%;-0,75%;E. Spenser, “The Faerie Queene”
+;;Minimum complexity;0,64;0,559;-2,83%;-5,06%;A.C. Doyle, “The Great Boer War”
+;;Mean complexity;0,626;0,589;-4,91%;0,00%;P. White, “Life in the War Zone”
+;;;0,672;0,589;2,14%;0,00%;H. James, “The Golden Bowl”
+;;;0,679;0,589;3,17%;0,00%;R. Connor, “The Patrol of the Sun
+;;;;;;;Dance Trail”
+;;Maximum complexity;0,673;0,618;2,24%;4,86%;W. Shakespeare, “Midsummer Night's Dream”
+;;Mean entropy and complexity;0,658;0,589;-0,01%;-0,06%;E. Wallace, “Bones”
+4;3;Minimum entropy;0,754;0,506;-8,96%;18,11%;H.Wadsworth, “Evangeline”
+;;Mean entropy;0,829;0,414;0,00%;-3,36%;J. Altsheler, “The Quest of the
+;;;;;;;Four”
+;;;0,829;0,417;0,00%;-2,66%;A.B. Reeve, “The War Terror”
+;;;0,829;0,454;0,01%;6,08%;J.M. Barrie, “Dear Brutus”
+;;Maximum entropy;0,858;0,381;3,59%;-10,88%;H.R. Haggard, “Dawn”
+;;Minimum complexity;0,853;0,362;2,99%;-15,54%;Lord Byron, “Don Juan”
+;;Mean complexity;0,82;0,428;-1,00%;0,00%;S. White, “African Camp Fires”
+;;Maximum complexity;0,754;0,506;-8,96%;18,11%;H.Wadsworth, “Evangeline”
+;;Mean entropy and complexity;0,828;0,428;-0,13%;0,01%;E. Wallace, “The Daffodil Mystery”
+4;4;Minimum entropy;0,66;0,613;-9,98%;-1,45%;H.Wadsworth, “Evangeline”
+;;Mean entropy;0,733;0,628;0,01%;0,85%;A. Johnston, “Joel: A Boy of Galilee”
+;;;0,733;0,617;0,01%;-0,82%;A. Reeve, “The Film Mystery”
+;;Maximum entropy;0,78;0,583;6,47%;-6,30%;Lord Byron, “Don Juan”
+;;Minimum complexity;0,771;0,581;5,19%;-6,67%;A. Trollope, “The Way We Live Now”
+;;Mean complexity;0,674;0,622;-8,01%;0,01%;N. Hawthorne, “Biographical
+;;;;;;;Sketches”
+;;Maximum complexity;0,726;0,643;-0,97%;3,40%;W. Shakespeare, “Twelfth Night”
+;;Mean entropy and complexity;0,733;0,622;0,06%;0,03%;E. Wallace, “The Daffodil Mystery”
+5;3;Minimum entropy;0,624;0,61;-12,04%;-7,18%;G. K. Chesterton, “The Barbarism of Berlin”
+;;Mean entropy;0,71;0,659;0,00%;0,20%;S. Anderson, “Marching Men”
+;;Maximum entropy;0,784;0,653;10,47%;-0,71%;A. Trollope, “Can You Forgive Her?”
+;;Minimum complexity;0,624;0,61;-12,04%;-7,18%;"G. K. Chesterton, “The Barbarism of Berlin"""
+;;Mean complexity;0,698;0,657;-1,65%;0,00%;J. London, “The Strength of the
+;;;;;;;
+;;;0,692;0,657;-2,52%;0,00%;E.P. Roe, “Found Yet Lost”
+;;;0,693;0,657;-2,26%;0,00%;R. Tagore, “Mashi and Other
+;;;;;;;Stories”
+;;;0,761;0,657;7,27%;0,01%;W. Collins, “Man and Wife”
+;;Maximum complexity;0,738;0,673;4,04%;2,37%;H.R. Haggard, “Dawn”
+;;Mean entropy and complexity;0,71;0,659;0,00%;0,20%;S. Anderson, “Marching Men”
+6;2;Minimum entropy;0,672;0,63;-12,69%;-1,05%;H.Wadsworth, “Evangeline”
+;;Mean entropy;0,769;0,652;0,00%;2,49%;H.R. Garis, “The Curlytops on Star
+;;;;;;;Island”
+;;;0,769;0,652;0,00%;2,52%;H.R. Garis, “The Curlytops
+;;;;;;;Snowed In”
+;;;0,769;0,645;0,00%;1,38%;W. Scott, “The Black Dwarf”
+;;Maximum entropy;0,853;0,539;10,84%;-15,23%;A. Trollope, “Can You Forgive Her?”
+;;Minimum complexity;0,852;0,535;10,73%;-15,88%;A. Trollope, “The Way We Live Now”
+;;Mean complexity;0,777;0,636;1,06%;0,00%;D.H. Lawrence, “Sea and
+;;;;;;;Sardinia”
+;;;0,794;0,636;3,20%;0,00%;A. Christie, “The Secret
+;;;;;;;Adversary”
+;;;0,786;0,636;2,15%;0,00%;T. Carlyle, “Latter Day Pamphlets”
+;;Maximum complexity;0,738;0,66;-4,11%;3,67%;W.S. Maugham, “Caesar's Wife”
+;;Mean entropy and complexity;0,769;0,639;-0,02%;0,43%;J. London, “Jerry of the Islands”
+;;;;;;;
+Russian;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;5;Minimum entropy;0,715;0,461;6,68%;1,81%;I. Turgenev “A Month in the Country”
+;;Mean entropy;0,766;0,426;-0,02%;0,36%;A. Pushkin, “The Captain’s
+;;;;;;;Daughter”
+;;;0,766;0,426;-0,02%;-5,94%;I. Goncharov “The Cliff”
+;;Maximum entropy;0,813;0,421;6,06%;-6,85%;S. Bobrov, “Taurica, or My Summer Day at the Taurian Chersonesus”
+;;Minimum complexity;0,799;0,408;4,28%;-9,79%;N. Karamzin, “Letters of a Russian Traveller”
+;;Mean complexity;0,779;0,452;1,59%;0,02%;A. Bestuzhev, “The Test”
+;;Maximum complexity;0,746;0,489;-2,63%;8,04%;A. Remizov, “On Free Bread”
+;;Mean entropy and complexity;0,766;0,453;-0,04%;0,10%;L. Andreev, “Anathema”
+3;6;Minimum entropy;0,649;0,53;-8,01%;-2,66%;I. Turgenev “A Month in the Country”
+;;Mean entropy;0,705;0,534;-0,01%;-2,03%;I. Turgenev “A Nest of the
+;;;;;;;Gentlefolk”
+;;Maximum entropy;0,755;0,551;7,02%;1,18%;S. Bobrov, “Taurica, or My Summer Day at the Taurian Chersonesus”
+;;Minimum complexity;0,72;0,495;2,15%;-9,12%;F. Dostoevsky, “The Brothers Karamazov”
+;;Mean complexity;0,713;0,545;1,18%;0,05%;V. Rozanov, “The First Box”
+;;;0,705;0,545;-0,05%;-0,05%;M. Bulgakov, “A Young Doctor’s
+;;;;;;;Notebook”
+;;Maximum complexity;0,724;0,579;2,74%;6,31%;M. Tsvetaeva, “The Maiden Tsar”
+;;Mean entropy and complexity;0,705;0,545;-0,05%;-0,05%;M. Bulgakov, “A Young Doctor’s
+;;;;;;;Notebook”
+3;7;Minimum entropy;0,599;0,565;-8,49%;-4,13%;L. Tolstoy, “The Living Corpse”
+;;Mean entropy;0,654;0,604;0,00%;2,48%;I. Bunin, “Mitya’s Love”
+;;Maximum entropy;0,712;0,575;8,91%;-2,35%;D. Merezhkovsky, “Leonardo da Vinci: Gods Resurgent”
+;;Minimum complexity;0,687;0,552;4,95%;-6,38%;L. Tolstoy, “War and Peace”
+;;Mean complexity;0,633;0,589;-3,24%;-0,01%;A. Chekhov, “Three Sisters”
+;;Maximum complexity;0,702;0,621;7,29%;5,39%;S. Bobrov, “Taurica, or My Summer Day at the Taurian Chersonesus”
+;;Mean entropy and complexity;0,653;0,591;-0,21%;0,36%;V. Veresaev, “At the Turn”
+4;3;Minimum entropy;0,782;0,465;-4,77%;3,70%;I. Turgenev “A Month in the Country”
+;;Mean entropy;0,821;0,447;0,04%;-0,18%;M. Bulgakov, “A Young Doctor’s
+;;;;;;;Notebook”
+;;Maximum entropy;0,852;0,382;3,67%;-14,82%;N. Karamzin, “Letters of a Russian Traveller”
+;;Minimum complexity;0,852;0,382;3,67%;-14,82%;N. Karamzin, “Letters of a Russian Traveller”
+;;Mean complexity;0,818;0,448;-0,39%;0.00%;L. Tolstoy, “Childhood”
+;;Maximum complexity;0,788;0,494;-4,03%;10,14%;M. Kheraskov, “The Hater”
+;;Mean entropy and complexity;0,821;0,447;-0,04%;-0.18%;M. Bulgakov, “A Young Doctor’s
+;;;;;;;Notebook”
+4;4;Minimum entropy;0,653;0,609;-7,63%;-2,18%;L. Tolstoy, “The Living Corpse”
+;;Mean entropy;0,708;0,628;0,12%;0,88%;M. Bulgakov, “A Young Doctor’s
+;;;;;;;Notebook”
+;;Maximum entropy;0,771;0,596;9,08%;-4,36%;D. Merezhkovsky, “Leonardo da Vinci: Gods Resurgent”
+;;Minimum complexity;0,747;0,573;5,64%;-8,07%;L. Tolstoy, “War and Peace”
+;;Mean complexity;0,676;0,623;-4,45%;0,04%;A. Pisemsky, “A Bitter Fate”
+;;Maximum complexity;0,7;0,641;-1,03%;2,89%;A. Pushkin, “Ruslan and Ludmila”
+;;Mean entropy and complexity;0,706;0,627;-0,20%;0,69%;A. Pushkin, “The Captain’s
+;;;;;;;Daughter”
+5;3;Minimum entropy;0,626;0,612;-8,24%;-5,07%;M. Kheraskov, “The Hater”
+;;Mean entropy;0,683;0,651;0,02%;0,92%;A. Chekhov, “The Duel”
+;;Maximum entropy;0,771;0,654;12,94%;1,46%;I. Goncharov, “The Frigate Pallada”
+;;Minimum complexity;0,626;0,612;-8,24%;-5,07%;M. Kheraskov, “The Hater”
+;;Mean complexity;0,671;0,645;-1,67%;-0,02%;L. Andreev, “The Life of Vasily
+;;;;;;;Fiveysky”
+;;Maximum complexity;0,742;0,672;8,69%;4,24%;D. Furmanov, “Chapayev”
+;;Mean entropy and complexity;0,683;0,651;0,02%;0,92%;A. Chekhov, “The Duel”
+6;2;Minimum entropy;0,689;0,646;-7,99%;0,17%;Z. Gippius, “The Moon”
+;;Mean entropy;0,75;0,657;0,09%;1,98%;S. Bobrov, “Taurica, or My
+;;;;;;;Summer Day at the
+;;;;;;;Taurian Chersonesus”
+;;Maximum entropy;0,839;0,567;12,03%;-11,99%;I. Goncharov, “The Frigate Pallada”
+;;Minimum complexity;0,823;0,552;9,86%;-14,34%;L. Tolstoy, “War and Peace”
+;;Mean complexity;0,785;0,646;4,71%;0,05%;M. Gorky, “Childhfood”
+;;Maximum complexity;0,738;0,659;-1,50%;2,24%;A. Platonov, “The Juvenile Sea”
+;;Mean entropy and complexity;0,75;0,657;0,09%;1,98%;S. Bobrov, “Taurica, or My Summer Day at the Taurian Chersonesus”
+;;;;;;;
+Bengali;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+;;Minimum entropy;0,597;0,38;-14,53%;17,25%;??-??????? ? -??????? ? – ??
+;;Mean entropy;0,698;0,402;-0,07%;23,84%;????-????? ?-?-? ????-???? ????? - ????? ????
+3;3;Maximum entropy;0,8;0,358;14,64%;10,49%;??- ??????? -???????- ??????? – ??????? ???
+;;Minimum complexity;0,8;0,289;14,67%;-10,77%;???? ???? ???? ????
+;;Mean complexity;0,797;0,324;14,20%;-0,22%;?????????? ??- ?????? ?????????? ????? ???? ???????
+;;Maximum complexity;0,776;0,38;11,12%;17,17%;??? ???? -????-????- ?????? ????? ?? ????
+;;Mean entropy and complexity;0,776;0,372;11,21%;14,67%;?????? ???? ????? ???- ???????????? ?????????? ????? ??????
+;;Minimum entropy;0,55;0,48;-16,57%;11,67%;???- ???? ?????
+;;Mean entropy;0,66;0,503;0,08%;17,07%;????? ???? -????-????- ?????? ????? ?? ???? – ???????? ????
+3;4;Maximum entropy;0,795;0,413;20,57%;-3,95%;???? ???? ???? ????????????
+;;Minimum complexity;0,795;0,413;20,57%;-3,95%;???? ???? ???? ????????????
+;;Mean complexity;0,791;0,43;19,85%;0,01%;??? ????????? ????? ???? ????
+;;Maximum complexity;0,775;0,461;17,54%;7,17%;??-???? -John- ???? ??
+;;Mean entropy and complexity;0,624;0,508;-5,49%;18,06%;???? ????
+;;Minimum entropy;0,57;0,465;-20,03%;16,23%;C ?????? ????? ??-????? -????- ???? ???? ???
+;;Mean entropy;0,713;0,473;-0,01%;18,29%;??- ????? ???? ??? ????????? ??????? ??????? ??- ???????? ?????? – ????????? ????? ???????
+;;;0,713;0,465;-0,01%;16,22%;????????? ????? ????????? ?????
+4;2;Maximum entropy;0,851;0,333;19,38%;-16,87%;??- ??????? ?????? - ???-???? -?????? ????- ?? ????? ??
+;;Minimum complexity;0,851;0,333;19,38%;-16,87%;??- ??????? ?????? - ???-???? -?????? ????- ?? ????? ??
+;;Mean complexity;0,801;0,4;12,37%;0,00%;??????? -????- ??- ?????? ????????? ??????? ??
+;;Maximum complexity;0,696;0,48;-2,38%;20,08%;C ???- ???? ?????? 025-063
+;;Mean entropy and complexity;0,796;0,396;11,71%;-0,88%;????? ???? -????-????- ?????? ????? ?? ????
+;;Minimum entropy;0,451;0,439;-17,75%;-7,17%;????? ???? -????-????- ?
+;;Mean entropy;0,548;0,52;0,00%;9,81%;??- ????? ????? ?????? ??????
+4;3;Maximum entropy;0,6;0,554;9,54%;17,02%;??-???????? ???- ??????? ????? ???? ???? ?????? ???? ??????
+;;Minimum complexity;0,451;0,439;-17,75%;-7,17%;????? ???? -????-????- ?
+;;Mean complexity;0,489;0,473;-10,77%;0,00%;C ???- ???? ???????-?? 020-036
+;;Maximum complexity;0,612;0,56;11,69%;18,36%;??????? ???? ??????? ????? – ????? ????? ?????
+;;Mean entropy and complexity;0,547;0,519;-0,09%;9,75%;?- ??????????? ??- ????????? ???????? ?????
+;;;;;;;
+Turkish;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+;;Minimum entropy;0,649;0,536;-18,26%;0,78%;Nilg?n Marmara, “ Sylvia Plath'?n ?airli?inin ?ntihar? Ba?lam?nda Analizi” 
+;;Mean entropy;0,794;0,531;-0,01%;-0,15%;Se?me ?yk?ler, “Guy De Maupassant”
+3;6;Maximum entropy;0,837;0,474;5,46%;-10,87%;Oktay Sinanoglu, “Hedef Turkiye”
+;;Minimum complexity;0,835;0,467;5,23%;-12,23%;Osman Aysu, “?ktidar Merdiveni ” 
+;;Mean complexity;0,804;0,531;1,35%;-0,06%;Ahmet Batman, “Sabah Uykum”
+;;Maximum complexity;0,689;0,609;-13,19%;14,52%;Ahmet G?ntan, “Mahkeme Kitap” 
+;;Mean entropy and complexity;0,799;0,524;0,69%;-1,51%;Mahir Kaynak, “ Komplo Yok” 
+;;Minimum entropy;0,573;0,566;-12,37%;-9,94%;Cahit S?tk? Taranc?, “ Otuz Be? Ya?” 
+;;Mean entropy;0,654;0,631;0,00%;0,47%;Halit Ertu?rul, “A?k B?yle Ya?an?r” 
+3;8;Maximum entropy;0,703;0,656;7,60%;4,49%;Osman Aysu, “?ktidar Merdiveni” 
+;;Minimum complexity;0,573;0,566;-12,37%;-9,94%;Cahit S?tk? Taranc?, “ Otuz Be? Ya?” 
+;;Mean complexity;0,65;0,628;-0,50%;-0,05%;Necip Faz?l K?sak?rek, “Reis Bey” 
+;;Maximum complexity;0,696;0,656;6,48%;4,46%;Ahmet ?mit, “?nsan Ruhunun Haritas?” 
+;;Mean entropy and complexity;0,652;0,631;-0,21%;0,43%;Mehmet Altan, “Mu?'ta Meryem Olmak” 
+;;Minimum entropy;0,649;0,617;-11,63%;-3,14%;Cahit S?tk? Taranc?, “ Otuz Be? Ya?” 
+;;Mean entropy;0,734;0,644;-0,04%;1,00%;S?d?k Hid?yet, “ K?r Bayku?” 
+4;4;Maximum entropy;0,789;0,622;7,41%;-2,43%;U?ur Mumcu, “?a??n Su?u” 
+;;Minimum complexity;0,649;0,617;-11,67%;-3,14%;Cahit S?tk? Taranc?, “ Otuz Be? Ya?” 
+;;Mean complexity;0,716;0,645;-2,55%;1,23%;Erol ?elik, “Heyula ” 
+;;Maximum complexity;0,738;0,648;0,43%;1,73%;Mehmet Altan, “Mu?'ta Meryem Olmak”
+;;Mean entropy and complexity;0,729;0,648;-0,82%;1,58%;Emin Akif Ersoy, “Babam Mehmet Akif ” 
+;;Minimum entropy;0,533;0,531;-13,87%;-12,95%;Cahit S?tk? Taranc?, “ Otuz Be? Ya?” 
+;;Mean entropy;0,619;0,611;0,03%;0,21%;Halide Edip Ad?var, “Sevda Soka?? Komedyas? ” 
+4;5;Maximum entropy;0,673;0,655;8,66%;7,38%;Osman Aysu , “?ktidar Merdiveni” 
+;;Minimum complexity;0,533;0,531;-13,87%;-12,95%;Cahit S?tk? Taranc?, “ Otuz Be? Ya?” 
+;;Mean complexity;0,618;0,61;-0,23%;0,00%;Halit Ertu?rul, “A?k B?yle Ya?an?r” 
+;;Maximum complexity;0,673;0,655;8,66%;7,38%;Osman Aysu , “?ktidar Merdiveni” 
+;;Mean entropy and complexity;0,619;0,612;0,07%;0,24%;?ner ?nalan, “ Darwin Ne Yapt?” 
+;;Minimum entropy;0,586;0,578;-13,57%;-10,47%;Cahit S?tk? Taranc?, “ Otuz Be? Ya?” 
+;;Mean entropy;0,677;0,649;-0,14%;0,50%;Abdullah Ziya Kozano?lu, “ Malko?o?lu - Kopya” 
+5;3;Maximum entropy;0,739;0,676;8,95%;4,68%;U?ur Mumcu, “ ?a??n Su?u” 
+;;Minimum complexity;0,586;0,578;-13,57%;-10,47%;Cahit S?tk? Taranc?, “ Otuz Be? Ya?” 
+;;Mean complexity;0,671;0,646;-0,98%;0,00%;O?uz Atay, “ Eylembilim” 
+;;Maximum complexity;0,739;0,676;8,98%;4,68%;U?ur Mumcu, “ ?a??n Su?u” 
+;;Mean entropy and complexity;0,676;0,649;-0,34%;0,49%;Erol Gungor, “Turkiye'de Misyoner Faaliyetleri” 
+;;Minimum entropy;0,641;0,617;-13,61%;-5,37%;Cahit S?tk? Taranc?, “ Otuz Be? Ya?” 
+;;Mean entropy;0,741;0,661;-0,06%;1,36%;Mehmet G?reli, “Hayaller ve Sokaklar” 
+6;2;Maximum entropy;0,803;0,638;8,33%;-2,04%;U?ur Mumcu, “?a??n Su?u” 
+;;Minimum complexity;0,641;0,617;-13,61%;-5,37%;Cahit S?tk? Taranc?, “ Otuz Be? Ya?” 
+;;Mean complexity;0,706;0,652;-4,86%;0,09%;Yavuz Bahad?ro?lu, “Topal Kas?rga” 
+;;Maximum complexity;0,749;0,661;0,99%;1,42%;Cemal S?reya, “T?rk?e Bilenin ??i Rast Gider” 
+;;Mean entropy and complexity;0,735;0,661;-0,87%;1,35%;Mehmet Altan, “Mu?'ta Meryem Olmak ” 
+;;;;;;;
+Norwegian;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;6;Minimum entropy;0,617;0,578;-19,99%;7,00%;Bjerregaard Henrik Anker, “Folkefesten den de Mai” 
+;;Mean entropy;0,77;0,488;-0,07%;-9,72%;Halvorsen J.B.“Norsk Forfatter Lexikon paa Grundlag af J E K” 
+;;Maximum entropy;0,837;0,446;8,59%;-17,41%;Ongelin Hanna, “Regina pigen fra fiskeveret fortelling” 
+;;Minimum complexity;0,837;0,446;8,59%;-17,41%;Ongelin Hanna, “Regina pigen fra fiskeveret fortelling” 
+;;Mean complexity;0,794;0,54;3,07%;-0,11%;Falck Ytter Oluf Vilhelm, “Don Pedros hule” 
+;;Maximum complexity;0,7;0,61;-9,21%;12,89%;Falsen Christian Magnus, “Hvad har Norge at haabe hvad har det at frygt” 
+;;Mean entropy and complexity;0,723;0,603;-6,20%;11,72%;Ellingseter Anne Lise, “ Merarbeid om arbeid utover ordiner arbeidstid” 
+3;8;Minimum entropy;0,514;0,511;-19,75%;-16,60%;Overland O. A., “ En Bergenser i venetiansk Tjeneste historisk” 
+;;Mean entropy;0,64;0,622;-0,05%;1,50%;Platou J. M., “Norsk eksempelsamling med stykker til analyse” 
+;;Maximum entropy;0,753;0,637;17,50%;3,95%;Overland O. A., “ Illustreret Norges Historie” 
+;;Minimum complexity;0,514;0,511;-19,75%;-16,60%;Overland O. A., “ En Bergenser i venetiansk Tjeneste historisk” 
+;;Mean complexity;0,629;0,613;-1,86%;-0,07%;Pontoppidan Erik, “Udtog af Dr Erich Pontoppidans Forklaring til”
+;;Maximum complexity;0,732;0,661;14,27%;7,83%;Ongelin Hanna, “Regina pigen fra fiskeveret fortelling” 
+;;Mean entropy and complexity;0,638;0,62;-0,47%;1,07%;Gran Jens, “Skizzer af bergenske Forholde fra eldre og yn” 
+4;4;Minimum entropy;0,58;0,567;-19,52%;-9,12%;Overland O. A., “ En Bergenser i venetiansk Tjeneste historisk” 
+;;Mean entropy;0,721;0,644;-0,02%;3,24%;Broch Lars, “ Jordbeskrivelse for Almueskolen” 
+;;Maximum entropy;0,817;0,548;13,29%;-12,22%;Overland O. A., “ Illustreret Norges Historie” 
+;;Minimum complexity;0,817;0,548;13,29%;-12,22%;Overland O. A., “ Illustreret Norges Historie” 
+;;Mean complexity;0,659;0,624;-8,54%;0,00%;Lokke Jakob, “ Kortfattet Engelsk Grammatik” 
+;;Maximum complexity;0,73;0,649;1,28%;4,00%;Moli re, Jean Baptiste, “Den gjerrige komedie i fem akter og paa prosa” 
+;;Mean entropy and complexity;0,705;0,645;-2,24%;3,33%;Jeger Henrik, “ Arvegods Skuespil i to Handlinger” 
+4;5;Minimum entropy;0,549;0,545;-18,92%;-10,64%;Botten Hansen Paul, “ Paul Bottens St Hansnats eventyr ” 
+;;Mean entropy;0,677;0,649;-0,01%;6,49%;Krogh G., “ Lerebog i Praktisk Regning efter det nye Mynt” 
+;;Maximum entropy;0,81;0,647;19,64%;6,12%;Overland O. A., “ Illustreret Norges Historie” 
+;;Minimum complexity;0,549;0,545;-18,92%;-10,64%;Botten Hansen Paul, “ Paul Bottens St Hansnats eventyr ” 
+;;Mean complexity;0,623;0,61;-8,03%;0,03%;Clausen Sten Erik, “Barne og ungdomskriminalitet i Norge” 
+;;Maximum complexity;0,762;0,679;12,51%;11,42%;Paus Hans, “Naturens Ret som en Grundvold til den danske” 
+;;Mean entropy and complexity;0,643;0,626;-5,06%;2,72%;Holme Edin, “ Ildprofeten et episk digt” 
+;;;;;;;
+German;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;5;Minimum entropy;0,628;0,556;-19,72%;19,67%;Eduard M?rike, “Traumseele” 
+;;;0,762;0,491;-2,58%;5,67%;K. Moritz, “Andreas Hartknopfs Predigerjahre”
+;;;0,762;0,49;-2,58%;5,48%;O.Wildermuth, “Ein sonnenloses Leben”
+;;;0,762;0,496;-2,57%;6,83%;L. Kompert, “Gottes Annehmerin”
+;;Maximum entropy;0,815;0,427;4,26%;-8,05%;Neffe Juergen, “Darwin - Das Abenteuer Des Lebens” 
+;;Minimum complexity;0,813;0,417;3,99%;-10,17%;August L?bben, “Mittelniederdeutsches Handw?rterbuch”
+;;Mean complexity;0,791;0,464;1,20%;0,00%;S. Orth, “Sorry, wir haben die Landebahn verfehlt”
+;;Maximum complexity;0,673;0,565;-13,89%;21,60%;S. Ulrich, “Hoffnung”
+;;Mean entropy and complexity;0,754;0,485;-3,59%;4,43%;G. Keller, “Pankraz, der Schmoller”
+3;6;Minimum entropy;0,583;0,556;-17,55%;1,97%;Albrecht D?rer, “Deutsche Landschaften”
+;;Mean entropy;0,706;0,571;-0,19%;4,80%;F. Blei , “Liebesgeschichten des Orients”
+;;Maximum entropy;0,788;0,511;11,39%;-6,26%;A. L?bben, C.Walther , “Mittelniederdeutsches Handw?rterbuch”
+;;Minimum complexity;0,788;0,511;11,39%;-6,26%;August L?bben, “Mittelniederdeutsches Handw?rterbuch”
+;;Mean complexity;0,742;0,545;5,00%;0,00%;S. Laurens, “Mein ungez?hmtes Herz”
+;;Maximum complexity;0,684;0,601;-3,21%;10,24%;S. Hessel, “Emp?rt Euch!” 
+;;Mean entropy and complexity;0,696;0,566;-1,60%;3,90%;F. Dahn, “Sind G?tter” 
+3;7;Minimum entropy;0,557;0,546;-18,10%;-9,70%;Ludwig Aurbacher, “Die schw?bische Bauernhochzeit”
+;;Mean entropy;0,68;0,622;0,00%;2,94%;Ewald Hecker, “Die Physiologie und Psychologie des Lachens und des Komischen” 
+;;Maximum entropy;0,755;0,598;10,93%;-1,08%;A. L?bben, C.Walther , “Mittelniederdeutsches Handw?rterbuch”
+;;Minimum complexity;0,557;0,546;-18,10%;-9,70%;Ludwig Aurbacher, “Die schw?bische Bauernhochzeit”
+;;Mean complexity;0,663;0,605;-2,51%;0,00%;Bernhard Schlink, “Der Vorleser” 
+;;Maximum complexity;0,685;0,628;0,71%;3,83%;J. Stettenheim, “Muckenich's Reden Und Thaten”
+;;Mean entropy and complexity;0,648;0,606;-4,70%;0,19%;B. Schwarz, “Marcus Geliebter Afrikaner” 
+4;3;Minimum entropy;0,634;0,552;-20,28%;18,22%;Johann Wolfgang von Goethe, “Die natuerliche Tochter”
+;;Mean entropy;0,796;0,465;0,00%;-0,39%;Kasimir Edschmid, “Das B?cher-Dekameron” 
+;;Maximum entropy;0,855;0,378;7,44%;-19,00%;J.Bugenhagen, “Dat Nie Testament Vun Unsen Herrn Un Heiland Jesus Christus: Na De Plattd?tsche Oewersettung Vun Johann Bugenhagen”
+;;Minimum complexity;0,855;0,378;7,44%;-19,00%;J.Bugenhagen, “Dat Nie Testament Vun Unsen Herrn Un Heiland Jesus Christus: Na De Plattd?tsche Oewersettung Vun Johann Bugenhagen”
+;;Mean complexity;0,788;0,467;-1,02%;0,00%;Friedrich Maximilian Klinger, “Faust s Leben, Taten und H?llenfahrt”
+;;Maximum complexity;0,741;0,558;-6,88%;19,53%;Fritz Mauthner, “Ein Abend im Irrenhause”
+;;Mean entropy and complexity;0,804;0,437;1,01%;-6,53%;Stephen King, “The Stand. Das letze Gefecht”
+4;4;Minimum entropy;0,605;0,555;-16,05%;19,08%;Anne McCaffrey, “Master Harper Of Pern”
+;;Mean entropy;0,774;0,509;7,48%;9,33%;H. Knackfu? , “Murillo”
+;;;0,774;0,508;7,47%;9,08%;J . Alois Meier, “Begegnisse eines jungen Thierqu?lers oder Der Gerechte erbarmt sich auch seines Thieres. Eine neue Erz?hlung f?r die Jugend”
+;;;0,774;0,497;7,47%;6,61%;R. Huch, “Lebenslauf des heiligen Wonnebald P?ck: eine Erz?hlung”
+;;Maximum entropy;0,859;0,394;19,27%;-15,46%;Hoffmann von Fallersleben, “Niederl?ndische Volkslieder”
+;;Minimum complexity;0,859;0,394;19,27%;-15,46%;Hoffmann von Fallersleben, “Niederl?ndische Volkslieder”
+;;Mean complexity;0,798;0,466;10,77%;0,00%;M. Gei?ler, “Jockele und seine Frau”
+;;Maximum complexity;0,605;0,555;-16,05%;19,08%;Anne McCaffrey, “Master Harper Of Pern”
+;;Mean entropy and complexity;0,702;0,505;-2,59%;8,46%;A. Schnitzler, “Die Braut”
+;;;;;;;
+Tuvan;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+3;2;Minimum entropy;0,48;0,35;-19,07%;7,45%;Хайнак сарлык
+;;Mean entropy;0,593;0,342;-0,03%;4,85%;Гнатенко Мария Алексеевна
+;;Maximum entropy;0,7;0,314;18,00%;-3,72%;Майык
+;;Minimum complexity;0,7;0,301;17,96%;-7,52%;К? далай лама
+;;Mean complexity;0,668;0,326;12,58%;-0,02%;А?гылал х?гж?м
+;;Maximum complexity;0,58;0,372;-2,22%;14,12%;Кара ха к?р?нези
+;;Mean entropy and complexity;0,6;0,334;1,16%;2,42%;Майык
+3;3;Minimum entropy;0,362;0,331;-19,46%;-7,36%;Санчат Саян
+;;Mean entropy;0,449;0,354;-0,01%;-0,99%;Кло Мирослав
+;;Maximum entropy;0,523;0,42;16,29%;17,32%;Бара
+;;Minimum complexity;0,362;0,331;-19,46%;-7,36%;Санчат Саян
+;;Mean complexity;0,45;0,358;0,03%;0,00%;Пикассо пабло
+;;Maximum complexity;0,512;0,422;13,89%;17,89%;Майык
+;;Mean entropy and complexity;0,465;0,357;3,35%;-0,14%;Тыва цирк
+4;2;Minimum entropy;0,402;0,372;-17,94%;-8,25%;А?гылал турк ыраажы
+;;Mean entropy;0,49;0,431;-0,13%;6,49%;Ал маадыр
+;;Maximum entropy;0,582;0,438;18,61%;8,24%;Монотеизм
+;;Minimum complexity;0,402;0,372;-17,94%;-8,25%;А?гылал турк ыраажы
+;;Mean complexity;0,46;0,404;-6,18%;-0,27%;Он бир ай
+;;Maximum complexity;0,575;0,472;17,25%;16,55%;Чодураа
+;;Mean entropy and complexity;0,493;0,43;0,51%;6,11%;Кызыл даг школазы
+;;;;;;;
+Ukrainian;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+;;Minimum entropy;0,601;0,415;-19,67%;1,71%;Bogdan-Igor Antonich, “Big — 1000 meters”
+;;Mean entropy;0,748;0,42;0,00%;2,98%;Igor Pavluk, “Treshina” 
+3;4;Maximum entropy;0,799;0,386;6,76%;-5,30%;Mikola Rydenko, “Golos morya” 
+;;Minimum complexity;0,791;0,367;5,72%;-10,08%;"Tatiana Malyarchuk, ""Biografiya vipadkovogo chyda"""
+;;Mean complexity;0,762;0,408;1,85%;0,00%;Stepan Rydanskii, “Ti ne moya”
+;;Maximum complexity;0,608;0,479;-18,74%;17,45%;Irena Karpa, “Poluvannia v Helsinki”
+;;Mean entropy and complexity;0,757;0,407;1,17%;-0,18%;Taras Petrinenko, “Vesna i ti”
+;;Minimum entropy;0,556;0,463;-19,81%;-8,17%;Mikola Rydenko, “Gerodot i tavri”
+;;Mean entropy;0,693;0,511;0,03%;1,28%;Pavlo Movchan, “Vesnya na solnce”
+3;5;Maximum entropy;0,783;0,449;12,92%;-10,95%;Vitaute Zhylinskajte, “Podorozh u Tandadryku”
+;;Minimum complexity;0,556;0,463;-19,81%;-8,17%;Mikola Rydenko, “Gerodot i tavri”
+;;Mean complexity;0,739;0,505;6,70%;0,02%;Pavlo Movchan, “Do jittya”
+;;Maximum complexity;0,664;0,56;-4,20%;11,06%;Mihaila Orest, “Perekladi”
+;;Mean entropy and complexity;0,691;0,511;-0,24%;1,35%;Urii Andryhovich, “Zamok”
+;;Minimum entropy;0,523;0,51;-12,56%;-10,91%;Mikola Rydenko, “Gerodot i tavri”
+;;Mean entropy;0,598;0,577;0,01%;0,80%;Pavlo Movchan, “Vesna”
+3;7;Maximum entropy;0,709;0,606;18,55%;5,96%;Ihor Skorin, “Hlopci z karnoho rozshuku”
+;;Minimum complexity;0,523;0,51;-12,56%;-10,91%;Mikola Rydenko, “Gerodot i tavri”
+;;Mean complexity;0,591;0,572;-1,26%;-0,02%;Petro Karmanski, “Kilca roji”
+;;Maximum complexity;0,681;0,621;13,87%;8,51%;Vasily Berezhnoy, “Demianko Derevianko”
+;;Mean entropy and complexity;0,596;0,576;-0,31%;0,62%;Mikola Voronii, “Mandrivna Elegiya”
+;;Minimum entropy;0,629;0,565;-16,26%;5,22%;Grigor Tyutyunnik, “Tri zozyli z poklonom” 
+;;Mean entropy;0,751;0,545;0,00%;1,56%;Vladimir Drozd, “Krik ptaha v sytinkah”
+4;3;Maximum entropy;0,835;0,426;11,21%;-20,70%;Alyeksandr Bogdanov, “Chervona zorya”
+;;Minimum complexity;0,835;0,426;11,21%;-20,70%;Alyeksandr Bogdanov, “Chervona zorya”
+;;Mean complexity;0,761;0,537;1,42%;0,00%;Urii Tarnavskii, “Jinka ide v sad”
+;;Maximum complexity;0,687;0,582;-8,46%;8,42%;Vasil Gerasimuk, “Skripka”
+;;Mean entropy and complexity;0,728;0,57;-3,01%;6,05%;V. P. Berezhny, “Brate miy Orle”
+;;Minimum entropy;0,627;0,566;-20,24%;8,91%;Grigor Tyutyunnik, “Tri zozyli z poklonom” 
+;;Mean entropy;0,787;0,537;0,11%;3,47%;Platon Voronka, “Donya hoche spati” 
+5;2;Maximum entropy;0,864;0,396;9,86%;-23,83%;Taras Prokhasko, “NieprOsti ” 
+;;Minimum complexity;0,864;0,396;9,86%;-23,83%;Taras Prokhasko, “NieprOsti ” 
+;;Mean complexity;0,793;0,524;0,86%;0,93%;Bogdan-Igor Antonich, “Kinec sveta” 
+;;Maximum complexity;0,707;0,587;-10,10%;13,03%;A.Lesin, “Derzhavna vira ”
+;;Mean entropy and complexity;0,784;0,531;-0,25%;2,17%;I. Malkovich, “Son iz vesilnim hlobom”
+;;Minimum entropy;0,411;0,411;-3,50%;-3,58%;Oleksa Stefanovich, “Plach Yaroslavni”
+;;Mean entropy;0,426;0,426;0,06%;-0,02%;I. Franko, “Moya lubov”
+6;3;Maximum entropy;0,491;0,491;15,45%;15,33%;Evgenia Kononenko , “Jovta zirka v snigah”
+;;Minimum complexity;0,411;0,411;-3,50%;-3,58%;I. Povluk, “Sopilka”
+;;Mean complexity;0,426;0,426;0,05%;-0,03%;Urii Andryhovich, “Zamok” 
+;;Maximum complexity;0,491;0,491;15,45%;15,33%;Evgenia Kononenko , “Jovta zirka v snigah”
+;;Mean entropy and complexity;0,428;0,428;0,49%;0,41%;Ivan Franko, “Privid”
+;;;;;;;
+Romanian;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+;;Minimum entropy;0,603;0,436;-19,56%;8,96%;"Mihai Eminescu, ""Stai deasupr?-mi (N Lenau)"""
+;;Mean entropy;0,756;0,376;0,76%;-6,10%;"Mihai Eminescu, ""Cum universu-n stele…"""
+3;3;Maximum entropy;0,809;0,324;7,86%;-19,10%;"Mihai Eminescu, ""Ce s-alegea de doi nebuni, iubito"""
+;;Minimum complexity;0,809;0,324;7,86%;-19,10%;"Mihai Eminescu, ""Ce s-alegea de doi nebuni, iubito"""
+;;Mean complexity;0,611;0,409;-18,54%;2,26%;"Mihai Eminescu, ""Leb?da (Eminescu)"""
+;;Maximum complexity;0,648;0,443;-13,56%;10,64%;"Otilia Cazimir, ""Pe-o diminea??"""
+;;Mean entropy and complexity;0,734;0,412;-2,13%;2,92%;"Mihai Eminescu, ""Cu penetul ca sideful"""
+;;Minimum entropy;0,6;0,491;-14,53%;8,61%;"Mihai Eminescu, ""Via?a mea fu ziu?"""
+;;Mean entropy;0,702;0,491;-0,06%;8,68%;"Mihai Eminescu, ""T?ce?i Cearta amu?easc?"""
+3;4;Maximum entropy;0,808;0,365;15,02%;-19,27%;"""Tragedia OmuluiTabloul XI - La Londra'"
+;;Minimum complexity;0,774;0,379;10,20%;-16,12%;"""O via?? de om a?a cum a fostSupt dictatura mascat? a lui Ion I Br?tianu"""
+;;Mean complexity;0,72;0,453;2,54%;0,17%;"Mihai Eminescu, ""?n c?utarea ?eherazadei"""
+;;Maximum complexity;0,664;0,512;-5,48%;13,21%;"Mateiu I. Caragialem, ""?ntoarcerea ?nvinsului"""
+;;Mean entropy and complexity;0,683;0,496;-2,84%;9,73%;"Mihai Eminescu, ""Amorul unei marmure"""
+;;Minimum entropy;0,501;0,476;-18,28%;-6,78%;"Mihai Eminescu, ""De ce m?-ndrept ?-acum"""
+;;Mean entropy;0,612;0,535;-0,11%;4,80%;"Mihai Eminescu, ""Venin ?i farmec"""
+3;5;Maximum entropy;0,721;0,479;17,61%;-6,19%;"Mihai Eminescu, ""Din periodice/Din Timpul, octombrie 1880?"""
+;;Minimum complexity;0,721;0,479;17,61%;-6,19%;"Mihai Eminescu, ""Din periodice/Din Timpul, octombrie 1880?"""
+;;Mean complexity;0,544;0,509;-11,29%;-0,19%;"Mateiu I. Caragialem, ""?ntoarcerea ?nvinsului"""
+;;Maximum complexity;0,652;0,552;6,33%;8,21%;"Anton Bacalba?a, ""Iubirea ?n poezie"" "
+;;Mean entropy and complexity;0,598;0,534;-2,35%;4,54%;"Mihai Eminescu, ""Basmul ce i l-a? spune ei"""
+;;Minimum entropy;0,649;0,482;-17,91%;14,79%;"Mihai Eminescu, ""La steaua"""
+;;Mean entropy;0,789;0,401;-0,16%;-4,57%;"Yorgos Seferis, ""Sase nopti pe Acropole"""
+4;2;Maximum entropy;0,805;0,39;1,80%;-7,12%;"Anton Bacalba?a, ""Acel ce tace"""
+;;Minimum complexity;0,805;0,39;1,80%;-7,12%;"Anton Bacalba?a, ""Acel ce tace"""
+;;Mean complexity;0,76;0,424;-3,90%;0,94%;"Ion Creanga, ""Mielu?ica"""
+;;Maximum complexity;0,649;0,482;-17,91%;14,79%;"Mihai Eminescu, ""La steaua"""
+;;Mean entropy and complexity;0,771;0,416;-2,46%;-0,87%;"Mihai Eminescu, ""Somnoroase p?s?rele"""
+;;Minimum entropy;0,42;0,418;-18,90%;-15,99%;"Mihai Eminescu, ""?i oare tot n-a?i ?n?eles"""
+;;Mean entropy;0,518;0,512;0,00%;2,73%;"Mihai Eminescu, ""Ca o f?clie"""
+4;4;Maximum entropy;0,61;0,588;17,83%;17,99%;"Ion Creang?, ""Ivan Turbinc?"""
+;;Minimum complexity;0,42;0,418;-18,90%;-15,99%;"Mihai Eminescu, ""?i oare tot n-a?i ?n?eles"""
+;;Mean complexity;0,502;0,497;-2,98%;-0,13%;"Mihai Eminescu, ""Femeia m?r de ceart?"""
+;;Maximum complexity;0,61;0,588;17,83%;17,99%;"Ion Creang?, ""Ivan Turbinc?"""
+;;Mean entropy and complexity;0,518;0,512;0,00%;2,73%;"Mihai Eminescu, ""Ca o f?clie"""
+;;;;;;;
+Tabasaran;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+3;4;Minimum entropy;0,578;0,498;-18,69%;1,63%;Жвуван пишекарвал тасдикь гъапIну
+;;Mean entropy;0,711;0,507;-0,02%;3,47%;Жигьиларин арайиъ
+;;Maximum entropy;0,824;0,407;15,91%;-16,94%;Дюн'яйик пай кивуз кюмек апIура
+;;Minimum complexity;0,821;0,4;15,49%;-18,37%;Ватандин Аьхю дявдин ветеран Мягьямед Аьлиханов
+;;Mean complexity;0,739;0,491;3,99%;0,27%;Агъакерим Агъададашевдин – 100 йис
+;;Maximum complexity;0,648;0,516;-8,85%;5,31%;Вертолет кюмекназ гъюра
+;;Mean entropy and complexity;0,701;0,51;-1,39%;3,99%;Москвайиъ табасаран чIал
+3;5;Minimum entropy;0,469;0,453;-20,25%;-14,53%;Жвуван пишекарвал тасдикь гъапIну
+;;Mean entropy;0,588;0,538;0,01%;1,50%;Гьарсаб уьлкейиз чан Йифун Аба а
+;;Maximum entropy;0,699;0,569;18,93%;7,38%;А.Шихимиев НичIрас 1-пи сентябриз цIийи мектеб шул кIури, умуд кайиз
+;;Minimum complexity;0,469;0,453;-20,25%;-14,53%;Жвуван пишекарвал тасдикь гъапIну
+;;Mean complexity;0,576;0,532;-1,98%;0,28%;БицIи эскрар
+;;Maximum complexity;0,687;0,571;16,82%;7,74%;Милли медениятдиз артмиш’вал
+;;Mean entropy and complexity;0,587;0,537;-0,27%;1,36%;Баяр, армияйиз гъягъюз гьязур йихьай
+4;2;Minimum entropy;0,643;0,486;-17,55%;18,54%;Жвуван пишекарвал тасдикь гъапIну
+;;Mean entropy;0,78;0,423;-0,03%;3,14%;АПК-йин хабрар
+;;Maximum entropy;0,886;0,261;13,60%;-36,34%;ГъуштIилна гъач дустарихьна
+;;Minimum complexity;0,886;0,261;13,60%;-36,34%;ГъуштIилна гъач дустарихьна
+;;Mean complexity;0,796;0,409;2,04%;-0,15%;Литературайин Табасаран
+;;Maximum complexity;0,658;0,488;-15,63%;19,02%;Грантдин пул харж апIбан теклифар
+;;Mean entropy and complexity;0,769;0,436;-1,38%;-16,06%;Къанундихьна наразивал улупуз гъич саб далилра адар
+4;3;Minimum entropy;0,45;0,44;-19,15%;-15,38%;Инвалидарин йигъаз
+;;Mean entropy;0,556;0,526;-0,05%;1,13%;Коронавирусдихъди арайиз дуфнайи аьгьвалат къайдайиз гъюра
+;;Maximum entropy;0,662;0,58;18,94%;11,54%;Исамудин-эфенди Ич метлеб – инсанарин аьлакьйир мюгькам апIуб ву
+;;Minimum complexity;0,45;0,44;-19,15%;-15,38%;Инвалидарин йигъаз
+;;Mean complexity;0,551;0,522;-0,94%;0,46%;Даршлуб апIин кIурадар
+;;Maximum complexity;0,662;0,58;18,94%;11,54%;Исамудин-эфенди Ич метлеб – инсанарин аьлакьйир мюгькам апIуб ву
+;;Mean entropy and complexity;0,557;0,526;0,00%;1,13%;АбцIу фун
+6;1;Minimum entropy;0,63;0,492;-19,11%;17,14%;Наркотикар хьади гъидисну
+;;Mean entropy;0,778;0,441;-0,07%;5,02%;Гизаф мертебйирин хуларин гьялнакан
+;;Maximum entropy;0,843;0,362;8,23%;-13,81%;Кронштадтдиз сиягьят
+;;Minimum complexity;0,843;0,362;8,23%;-13,81%;Кронштадтдиз сиягьят
+;;Mean complexity;0,8;0,42;2,78%;0,06%;Мялимарин яркьу совещание
+;;Maximum complexity;0,65;0,497;-16,54%;18,33%;ЕГЭ ккебгъру йигъ дивну
+;;Mean entropy and complexity;0,767;0,45;-1,47%;7,15%;Конкурсдин иштиракчйирихъди гюрюш
+;;;;;;;
+Belarusian;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;5;Minimum entropy;0,6;0,504;-19,92%;-5,13%;"Сымон Кандыбовіч, ""Разгром нацыянальнага руху ў Беларусі"""
+;;Mean entropy;0,749;0,55;-0,03%;3,56%;"Уладзімір Арлоў, ""Тунэль зь Серабранкі ў Бэрлін"""
+;;Maximum entropy;0,79;0,513;5,44%;-3,35%;"Іван і Валодзька, ""Іван і Валодзька"""
+;;Minimum complexity;0,787;0,451;5,00%;-15,12%;"Урбан Паўла, ""У сьвятле гістарычных фактаў"""
+;;Mean complexity;0,772;0,531;3,07%;-0,04%;"Вячаслаў Адамчык, ""І скажа той, хто народзіцца"""
+;;Maximum complexity;0,692;0,571;-7,68%;7,49%;"Іван Кудраўцаў, ""Разгневаная зямля"""
+;;Mean entropy and complexity;0,73;0,562;-2,57%;5,72%;"Зіновій Прыгодзіч, ""Ноч перад нядзеляю"""
+;;Minimum entropy;0,54;0,523;-16,71%;-10,33%;"Леанід Левановіч, ""Паводка сярод зімы"""
+;;Mean entropy;0,648;0,595;0,00%;2,09%;"Маргарыта Прохар, ""Сіняя птушка, альбо Спроба несур'ёзнага дэтэктыва"""
+3;6;Maximum entropy;0,771;0,59;18,83%;1,21%;"Уладзіслаў Рубанаў, ""Светлы ручай любві"""
+;;Minimum complexity;0,78;0,581;20,28%;-0,30%;"Леанід Левановіч, ""Паводка сярод зімы"""
+;;Mean complexity;0,623;0,583;-3,90%;0,00%;"Анатоль Кудравец, ""Марута і Зіна"""
+;;Maximum complexity;0,716;0,613;10,42%;5,13%;"Васіль Гарбацэвіч, ""Максім Саравітан"""
+;;Mean entropy and complexity;0,642;0,593;-0,95%;1,71%;"Васіль Хомчанка, ""Крэсла з гербам і розныя крымінальныя гісторыі"""
+;;Minimum entropy;0,604;0,553;-16,54%;-1,60%;"Паводле Мацвея, ""Святое Дабравесце"""
+;;Mean entropy;0,724;0,58;0,00%;3,12%;"Іван Грамовіч, ""Пад сонцам усё грае..."""
+4;3;Maximum entropy;0,84;0,468;16,00%;-16,72%;"Уладзіслаў Рубанаў, ""Светлы ручай любві"""
+;;Minimum complexity;0,839;0,453;15,92%;-19,42%;"Галіна Дзербіна, ""Права і сям'я ў Беларусі эпохі Рэнесансу"""
+;;Mean complexity;0,759;0,562;4,78%;0,00%;"Вячаслаў Адамчык, ""Год нулявы"""
+;;Maximum complexity;0,702;0,586;-3,05%;4,30%;"Кастусь Тарасаў, ""Апошняе каханне князя Міндоўга"""
+;;Mean entropy and complexity;0,71;0,584;-1,93%;3,90%;"Уладзімір Дамашэвіч, ""Камень з гары"""
+;;Minimum entropy;0,371;0,371;-18,12%;-17,99%;Паводле Мацвея Святое Дабравесце2
+;;Mean entropy;0,453;0,453;-0,01%;0,06%;"Вінцэсь Мудроў, ""Сьветлай ноччу"""
+4;5;Maximum entropy;0,54;0,538;19,14%;18,88%;"Вітаўт Чаропка, ""Уладары Вялікага Княства"""
+;;Minimum complexity;0,371;0,371;-18,12%;-17,99%;Паводле Мацвея Святое Дабравесце
+;;Mean complexity;0,453;0,452;-0,07%;0,00%;"Тодар Лебяда, ""Песьні выгнаньня"""
+;;Maximum complexity;0,54;0,538;19,14%;18,88%;"Вітаўт Чаропка, ""Уладары Вялікага Княства"""
+;;Mean entropy and complexity;0,453;0,453;-0,01%;0,06%;"Якуб Колас, ""Забастоўшчыкі"""
+;;Minimum entropy;0,602;0,554;-17,84%;-1,08%;"Мікола Ермаловіч, ""Па слядах аднаго міфа"""
+;;Mean entropy;0,732;0,582;0,00%;4,04%;"Уладзімір Дамашэвіч, ""Між двух агнёў"""
+5;2;Maximum entropy;0,8;0,539;9,26%;-3,79%;"Вячаслаў Адамчык, ""Год нулявы"""
+;;Minimum complexity;0,8;0,539;9,26%;-3,79%;"Вячаслаў Адамчык, ""Год нулявы"""
+;;Mean complexity;0,779;0,559;6,33%;-0,06%;"Вітаўт Чаропка, ""Імя ў летапісе"""
+;;Maximum complexity;0,705;0,588;-3,76%;5,04%;"Уладзімір Глыбінны, ""Вялікія дарогі (пра мінулае)"""
+;;Mean entropy and complexity;0,716;0,587;-2,22%;4,84%;"Кузьма Чорный, ""Літаратурныя творы прозай вясковых аўтараў"""
+;;Minimum entropy;0,351;0,351;-17,07%;-17,02%;"Мікола Ермаловіч, ""Па слядах аднаго міфа"""
+;;Mean entropy;0,423;0,423;0,04%;0,07%;"Янка Брыль, ""Муштук і папка"""
+7;2;Maximum entropy;0,5;0,499;18,26%;18,18%;"Уладзімір Арлоў, ""Пішу вам у Масковію"""
+;;Minimum complexity;0,351;0,351;-17,07%;-17,02%;"Мікола Ермаловіч, ""Па слядах аднаго міфа"""
+;;Mean complexity;0,423;0,423;0,04%;0,07%;"Янка Брыль, ""Муштук і папка"""
+;;Maximum complexity;0,5;0,499;18,26%;18,18%;"Уладзімір Арлоў, ""Пішу вам у Масковію"""
+;;Mean entropy and complexity;0,425;0,425;0,62%;0,65%;"Уладзімір Карпаў, ""Пачуты стогн. Спроба уявіць імгненне. Апавяданне"""
+;;;;;;;
+Sinhala;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+;;Minimum entropy;0,401;0,355;-17,95%;-2,60%;???? ?????
+;;Mean entropy;0,488;0,395;-0,06%;8,31%;?????????? ????
+3;3;Maximum entropy;0,56;0,411;14,69%;12,73%;???????
+;;Minimum complexity;0,403;0,36;-17,55%;-1,31%;?????
+;;Mean complexity;0,413;0,365;-15,42%;0,24%;????? ????? ??????
+;;;0,413;0,365;-15,42%;0,24%;??????????? ???????
+;;Maximum complexity;0,534;0,431;9,40%;18,13%;???? ??????? ????????
+;;Mean entropy and complexity;0,495;0,401;1,27%;9,98%;???? ??????-??? ???? ??????
+;;Minimum entropy;0,42;0,387;-16,26%;-1,67%;????? ?????? ???????????
+;;Mean entropy;0,502;0,439;0,00%;11,62%;???? ??? ?????????
+4;2;Maximum entropy;0,6;0,476;19,61%;21,02%;?????????? ????????? ?????
+;;Minimum complexity;0,42;0,387;-16,26%;-1,67%;????? ?????? ???????????
+;;Mean complexity;0,441;0,394;-12,15%;0,00%;????? ???? ???? ??????????????
+;;Maximum complexity;0,6;0,476;19,61%;21,02%;?????????? ????????? ?????
+;;Mean entropy and complexity;0,504;0,44;0,54%;11,74%;???????????
+;;Minimum entropy;0,445;0,38;-15,86%;-4,16%;????? ?????? ??????? ????????????
+;;Mean entropy;0,529;0,458;0,00%;15,62%;?????? ?????????
+6;1;Maximum entropy;0,628;0,476;18,59%;20,18%;???? ???? ??????
+;;Minimum complexity;0,445;0,38;-15,86%;-4,16%;????? ?????? ??????? ????????????
+;;Mean complexity;0,434;0,395;-17,97%;-0,25%;????? ?????? ?????? ????? ???? ?????? ?????????
+;;Maximum complexity;0,628;0,476;18,59%;20,18%;???? ???? ??????
+;;Mean entropy and complexity;0,524;0,458;-1,12%;15,64%;???? ?????
+;;;;;;;
+Tatar;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+;;Minimum entropy;0,581;0,489;-16,36%;-0,33%;Башкортостан Республикасы Башлыгы
+;;Mean entropy;0,695;0,504;0,00%;2,61%;Шамил Галиев (1942)
+3;4;Maximum entropy;0,831;0,395;19,55%;-19,53%;Марксизм
+;;Minimum complexity;0,831;0,395;19,55%;-19,53%;Марксизм
+;;Mean complexity;0,734;0,491;5,72%;0,00%;С?хиб?амал Гыйзз?туллина-Волжская
+;;Maximum complexity;0,652;0,517;-6,15%;5,34%;Фазыл Фасиев
+;;Mean entropy and complexity;0,685;0,51;-1,37%;3,83%;Камил Ф?ткуллин
+;;Minimum entropy;0,48;0,462;-16,59%;-11,52%;Градиент (математика)
+;;Mean entropy;0,575;0,53;0,00%;1,52%;Беренче б?тенд?нья сугышы хроникасы/1914 елны? августы
+3;5;Maximum entropy;0,688;0,571;19,54%;9,37%;?б? Насыйр ?л-Фараби
+;;Minimum complexity;0,489;0,454;-15,01%;-12,94%;Б?ек Ватан сугышы хроникасы/1941 елны? сентябре
+;;Mean complexity;0,561;0,522;-2,41%;0,00%;Илм?н к?ле
+;;;0,561;0,521;-2,41%;-0,15%;Сергей Юшко
+;;Maximum complexity;0,688;0,571;19,58%;9,43%;?б? Насыйр ?л-Фараби
+;;Mean entropy and complexity;0,573;0,529;-0,35%;1,29%;Радиацион билбау
+;;Minimum entropy;0,624;0,474;-18,31%;13,06%;«Хокинс» т?ренд?ге авыр крейсерлар
+;;Mean entropy;0,763;0,433;0,00%;3,33%;Х?н?фи Б?дигый
+;;;0,763;0,434;0,01%;3,54%;Валентин Ерашов
+4;2;Maximum entropy;0,843;0,35;10,38%;-16,46%;Чил?бе ?лк?се
+;;Minimum complexity;0,843;0,35;10,38%;-16,46%;Чил?бе ?лк?се
+;;Mean complexity;0,786;0,419;3,04%;-0,01%;Тамара Сёмина
+;;Maximum complexity;0,644;0,487;-15,63%;16,09%;Юлдаш радиосы
+;;Mean entropy and complexity;0,754;0,444;-1,17%;5,92%;За?ир Бигиев
+;;Minimum entropy;0,45;0,44;-18,15%;-14,61%;Астана Геде язмалары
+;;Mean entropy;0,55;0,521;0,00%;1,17%;Т?м?н ?лк?се
+4;3;Maximum entropy;0,54;0,514;-1,78%;-0,13%;Т?б?н Кама ??мигъ м?чете
+;;Minimum complexity;0,54;0,514;-1,78%;-0,13%;Т?б?н Кама ??мигъ м?чете
+;;Mean complexity;0,541;0,514;-1,60%;-0,05%;Акмулла исеменд?ге Башкортстан д??л?т педагогика университеты
+;;;0,541;0,515;-1,60%;-0,01%;Алексей Недогонов
+;;;0,541;0,515;-1,60%;-0,01%;З?ф?р Гаянов
+;;Maximum complexity;0,659;0,58;19,93%;12,70%;Галим?ан Ш?р?ф (берл?штер?, 2)
+;;Mean entropy and complexity;0,549;0,521;-0,12%;1,15%;Геннадий Матвеев
+;;;;;;;
+Serbian;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+;;Minimum entropy;0,632;0,422;-10,23%;4,13%;Jovan Sterija Popovi?, “?enidba i udadba”
+;;Mean entropy;0,703;0,406;-0,08%;0,23%;Dobrica ?osi?, “Koreni”
+3;4;Maximum entropy;0,802;0,34;13,92%;-16,10%;Jovan Sterija Popovi?, “Pokondirena tikva”
+;;Minimum complexity;0,802;0,34;13,92%;-16,10%;Jovan Sterija Popovi?, “Pokondirena tikva”
+;;Mean complexity;0,699;0,405;-0,75%;-0,15%;Borisav Stankovi?, “Kostana”
+;;Maximum complexity;0,661;0,479;-6,11%;18,20%;Sima Pandurovi?, “Pesme”
+;;Mean entropy and complexity;0,713;0,391;1,25%;-3,55%;Ivo ?ipiko, “Pauci”
+;;Minimum entropy;0,557;0,534;-15,12%;-0,72%;Sima Pandurovi?, “Pesme”
+;;Mean entropy;0,656;0,578;-0,09%;7,50%;Branko Miljkovi?, “Pesme”
+3;6;Maximum entropy;0,718;0,547;9,42%;1,70%;Petar Njego? Petrovi?, “Gorski vijenac”
+;;Minimum complexity;0,684;0,494;4,23%;-8,15%;Ljubomir Simovi?, “Najlep?e pesme” 
+;;Mean complexity;0,623;0,538;-4,99%;-0,02%;Jovan Skerli?, “Istorija nove srpske knji?evnosti” 
+;;Maximum complexity;0,644;0,584;-1,86%;8,58%;Lirika Itake, “Milo? Crnjanski”
+;;Mean entropy and complexity;0,646;0,551;-1,51%;2,36%;Borisav Stankovi?, “ Iz Starog Jevan?elja I Stari Dani” 
+;;Minimum entropy;0,455;0,453;-28,19%;-25,57%;Sima Pandurovi?, “Pesme”
+;;Mean entropy;0,632;0,615;-0,19%;1,09%;Ivan V. Lali?, “Pismo”
+3;8;Maximum entropy;0,69;0,635;8,91%;4,33%;Ljubomir Simovi?, “Najlep?e pesme”
+;;Minimum complexity;0,455;0,453;-28,19%;-25,57%;Sima Pandurovi?, “Pesme”
+;;Mean complexity;0,627;0,609;-0,97%;-0,01%;Novica Petkovi?, “Slovenske p?ele u Gra?anici”
+;;Maximum complexity;0,684;0,641;7,96%;5,31%;Jovan Sterija Popovi?, “Roman bez romana” 
+;;Mean entropy and complexity;0,629;0,613;-0,70%;0,66%;Ljubomir Simovic, “Putujuce Pozoriste Sopalovic”
+;;Minimum entropy;0,694;0,405;-5,51%;5,21%;Aleksa ?anti?, “Pesme”
+;;Mean entropy;0,734;0,386;-0,07%;0,19%;Teodosije, Zitija
+4;2;Maximum entropy;0,766;0,37;4,24%;-3,91%;Bogdan Popovi?, “Antologija novije srpske lirike”
+;;Minimum complexity;0,805;0,324;9,56%;-15,77%;Jovan Sterija Popovi?, “Pokondirena tikva”
+;;Mean complexity;0,735;0,385;0,06%;-0,12%;Pera Todorovi?, “Dnevni jednog dobrovoljca” 
+;;Maximum complexity;0,703;0,436;-4,34%;13,23%;Sima Pandurovi?, “Pesme”
+;;Mean entropy and complexity;0,735;0,385;0,02%;0,08%;Branislav Nu?i?, “Sumnjivo lice”
+;;Minimum entropy;0,656;0,576;-15,72%;17,30%;Sima Pandurovi?, “Pesme”
+;;Mean entropy;0,777;0,501;-0,22%;1,98%;Dobrica ?osi?, “Koreni”
+4;3;Maximum entropy;0,827;0,449;6,25%;-8,57%;Petar Njego? Petrovi?, “Gorski vijenac”
+;;Minimum complexity;0,816;0,431;4,83%;-12,23%;Veselin ?ajkanovi?, “Re?nik srpskih narodnih verovanja o biljkama”
+;;Mean complexity;0,802;0,491;3,04%;-0,04%;Branko ?opi?, “?arobna ?uma”
+;;Maximum complexity;0,693;0,579;-10,97%;17,91%;Branko ?opic, “Do?ivljaji Ma?ka To?e”
+;;Mean entropy and complexity;0,768;0,508;-1,32%;3,53%;Branko ?opi?, “Ba?ta sljezove boje”
+;;Minimum entropy;0,417;0,417;-19,64%;-19,56%;Sima Pandurovi?, “Pesme”
+;;Mean entropy;0,517;0,517;-0,42%;-0,39%;Ivo ?ipiko, “Pauci”
+5;4;Maximum entropy;0,592;0,59;13,97%;13,71%;Ljubomir Simovi?, “Najlep?e pesme” 
+;;Minimum complexity;0,417;0,417;-19,64%;-19,56%;Sima Pandurovi?, “Pesme”
+;;Mean complexity;0,517;0,517;-0,42%;-0,39%;Ivo ?ipiko, “Pauci”
+;;Maximum complexity;0,592;0,59;13,97%;13,71%;Ljubomir Simovi?, “Najlep?e pesme” 
+;;Mean entropy and complexity;0,517;0,517;-0,42%;-0,39%;Ivo ?ipiko, “Pauci”
+;;;;;;;
+Hungarian;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;3;Minimum entropy;0,507;0,418;-16,70%;-5,26%;"Fazekas Mih?ly , ""Gr?f Gvad?nyi J?zsef ?s Fazekas Mih?ly (Magyar remekir?k 6. k?tet)"""
+;;Mean entropy;0,608;0,444;-0,03%;0,59%;"M?r J?kai, ""Targallyak"""
+;;Maximum entropy;0,698;0,432;14,69%;-2,09%;"M?r J?kai, ""Mire megv?n?l?nk (1. k?tet)"""
+;;Minimum complexity;0,523;0,404;-14,07%;-8,44%;"L?szl? Mer?nyi, ""Saj?v?lgyi eredeti n?pmes?k (1. k?tet)"""
+;;Mean complexity;0,598;0,441;-1,79%;0,00%;"Maurus J?kai, ""Nincsen ?rd?g; A Magl?y csal?d; A ki holta ut?n ?ll boszut"""
+;;Maximum complexity;0,624;0,449;2,53%;1,76%;"M?r J?kai, ""Az ?let kom?di?sai (2. r?sz)"""
+;;Mean entropy and complexity;0,606;0,445;-0,50%;0,94%;"M?r J?kai, ""Megt?rt?nt reg?k"""
+3;4;Minimum entropy;0,425;0,401;-12,12%;-9,67%;"Gaal J?zsef, ""Szirmay Ilona"""
+;;Mean entropy;0,484;0,445;-0,01%;0,24%;"M?r J?kai, ""D?lvir?gok; Oce?nia"""
+;;Maximum entropy;0,553;0,487;14,35%;9,71%;"Lajos Bir?, ""Don Juan h?rom ?jszak?ja"""
+;;Minimum complexity;0,425;0,401;-12,12%;-9,67%;"Gaal J?zsef, ""Szirmay Ilona"""
+;;Mean complexity;0,482;0,444;-0,34%;-0,06%;"Br?dy S?ndor, ""Emberek"""
+;;Maximum complexity;0,553;0,487;14,35%;9,71%;"Lajos Bir?, ""Don Juan h?rom ?jszak?ja"""
+;;Mean entropy and complexity;0,484;0,445;-9,77%;0,24%;"M?r J?kai, ""D?lvir?gok; Oce?nia"""
+4;2;Minimum entropy;0,474;0,425;-11,49%;-7,15%;"L?szl? Arany, Pal Gyulai, ""Elegyes gy?jt?sek Magyarorsz?g ?s Erd?ly k?l?nb?z? r?szeib?l"""
+;;Mean entropy;0,536;0,458;-0,07%;0,21%;"Istv?n ?rk?ny, ""Novell?k"""
+;;Maximum entropy;0,614;0,485;14,56%;6,07%;"M?r J?kai, ""Mire megv?n?l?nk (1. k?tet)"""
+;;Minimum entropy;0,474;0,425;-11,49%;-7,15%;"L?szl? Arany, Pal Gyulai, ""Elegyes gy?jt?sek Magyarorsz?g ?s Erd?ly k?l?nb?z? r?szeib?l"""
+;;Mean complexity;0,534;0,457;-0,29%;0,00%;"M?r J?kai, ""Politikai divatok"""
+;;Maximum complexity;0,614;0,485;14,56%;6,07%;"M?r J?kai, ""Mire megv?n?l?nk (1. k?tet)"""
+;;Mean entropy and complexity;0,535;0,459;-0,16%;0,45%;"M?r J?kai, ""N?vtelen v?r (1. r?sz)"""
+5;1;Minimum entropy;0,597;0,421;-12,99%;3,99%;"K?lm?n Thaly, ""R?gi magyar vit?zi ?nekek ?s elegyes dalok (2. k?tet)"""
+;;Mean entropy;0,686;0,412;-0,06%;1,79%;"M?r J?kai, ""Magn?ta; T?gy j?t"""
+;;Maximum entropy;0,778;0,355;13,39%;-12,31%;"K?lm?n Miksz?th, ""Mikor a m?cses m?r csak pislog"""
+;;Minimum complexity;0,778;0,355;13,39%;-12,31%;"K?lm?n Miksz?th, ""Mikor a m?cses m?r csak pislog"""
+;;Mean complexity;0,686;0,404;0,01%;-0,18%;"L?szl? Mer?nyi, ""Saj?v?lgyi eredeti n?pmes?k (2. k?tet)"""
+;;Maximum complexity;0,615;0,425;-10,36%;4,98%;"Szemere Gy?rgy, ""A Kont-eset"""
+;;Mean entropy and complexity;0,683;0,412;-0,40%;1,67%;"Br?dy S?ndor, ""Elbesz?l?sek"""
+;;;;;;;
+;;;;;;;
+Finnish;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;5;Minimum entropy;0,686;0,571;-14,31%;11,19%;Aaro Hellaakoski, “Nimett?mi? lauluja”
+;;Mean entropy;0,802;0,519;0,12%;0,97%;Heikki Reijonen, “Kuvaus vanhan kansan el?m?st?” 
+;;Maximum entropy;0,844;0,458;5,41%;-10,78%;"Aho Juhani, ""Helsinkiin"""
+;;Minimum complexity;0,844;0,458;5,41%;-10,78%;"Aho Juhani, ""Helsinkiin"""
+;;Mean complexity;0,804;0,515;0,46%;0,28%;Santeri Ivalo, “Pietari S?rkilahti: Historiallinen romaani” 
+;;Maximum complexity;0,695;0,572;-13,23%;11,33%;"Eino Leino, “Kangastuksia; Talvi-y?; Halla; T?htitarha” "
+;;Mean entropy and complexity;0,793;0,526;-0,93%;2,47%;Aleksis Kivi, “Nummisuutarit” 
+3;6;Minimum entropy;0,579137;0,55412;-14,71%;-8,75%;Jacob Fredrik Lagervall, “Kaini: Murhekuvaus 2:ssa Kohtauksessa” 
+;;Mean entropy;0,679;0,609;0,00%;0,34%;Jalmari Hahl, “Surun tie Romaani” 
+;;Maximum entropy;0,72;0,616;6,07%;1,39%;Pietari P?iv?rinta, “ El?m?ni” 
+;;Minimum complexity;0,581;0,552;-14,43%;-9,10%;Elias L?nnrot, “Suomen kansan muinaisia loitsurunoja” 
+;;Mean complexity;0,673;0,607;-0,88%;0,00%;M?r J?kai, “Kiusaaja Romaani” 
+;;;0,673;0,607;-0,88%;0,00%;M?r J?kai, “Kiusaaja Romaani” 
+;;Maximum complexity;0,711;0,616;4,69%;1,40%;Yrj? Sakari Yrj?-Koskinen, “Pohjan-Piltti: Kuvaus lopulta 13:tta vuosisataa” 
+;;Mean entropy and complexity;0,679;0,609;-0,02%;0,33%;Pietari P?iv?rinta, “Pikku kuvia el?m?st?” 
+4;3;Minimum entropy;0,651;0,578;-14,39%;1,73%;Jacob Fredrik Lagervall, “Murhekuvaus 2:ssa Kohtauksessa” 
+;;Mean entropy;0,762;0,572;0,12%;0,61%;B. F. Godenhjelm, “Runous ja runouden muodot” 
+;;Maximum entropy;0,807;0,534;6,08%;-5,97%;Pietari P?iv?rinta, “ El?m?ni” 
+;;Minimum complexity;0,807;0,534;6,08%;-5,97%;Pietari P?iv?rinta, “ El?m?ni” 
+;;Mean complexity;0,768;0,568;0,89%;0,05%;"Arvid J?rnefelt, ""Is?nmaa"""
+;;Maximum complexity;0,706;0,587;-7,21%;3,33%;Larin-Ky?sti, “Aslak Hetta Kertova lappalaisrunoelma” 
+;;Mean entropy and complexity;0,758;0,573;-0,39%;0,88%;Canth Minna, “Lehtori Hellmanin vaimo” 
+4;4;Minimum entropy;0,491;0,487;-14,97%;-13,78%;Jacob Fredrik Lagervall, “Murhekuvaus 2:ssa Kohtauksessa” 
+;;Mean entropy;0,577;0,565;-0,05%;0,02%;Ervast Pekka, “Kalevalan avain”
+;;Maximum entropy;0,614;0,595;6,37%;5,34%;Pietari P?iv?rinta, “ El?m?ni” 
+;;Minimum complexity;0,491;0,487;-14,97%;-13,78%;Jacob Fredrik Lagervall, “Murhekuvaus 2:ssa Kohtauksessa” 
+;;Mean complexity;0,577;0,565;0,02%;0,09%;Alfred Saukkonen, “Kultainen linna: Satuja Suomen lapsille” 
+;;Maximum complexity;0,614;0,595;6,37%;5,34%;Pietari P?iv?rinta, “ El?m?ni” 
+;;Mean entropy and complexity;0,579;0,566;0,27%;0,31%;Santeri Alkio, “Palvelusv?ke?” 
+5;2;Minimum entropy;0,65;0,578;-14,35%;1,27%;Jacob Fredrik Lagervall, “Murhekuvaus 2:ssa Kohtauksessa” 
+;;Mean entropy;0,758;0,575;0,00%;0,70%;Rex Beach, “Seikkailijoita”
+;;;;;;;Romaani
+;;Maximum entropy;0,802;0,54;5,81%;-5,38%;Pietari P?iv?rinta, “ El?m?ni” 
+;;Minimum complexity;0,802;0,54;5,81%;-5,38%;Pietari P?iv?rinta, “ El?m?ni” 
+;;Mean complexity;0,766;0,571;0,95%;0,02%;Jaakko Nikkinen, “Leppirannan Lauri: Romaani”
+;;Maximum complexity;0,706;0,588;-6,87%;3,07%;Martti Wuori, “Historiallinen 5-n?yt?ksinen murhen?ytelm? ” 
+;;Mean entropy and complexity;0,755;0,577;-0,44%;1,09%;Robert Kiljander, “Sulhasen luona” 
+;;;;;;;
+Vietnamese;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;6;Minimum entropy;0,575;0,499;-11,57%;-3,90%;N? N?n - Nguy?n C?ng Hoan
+;;Mean entropy;0,651;0,55;0,00%;5,77%;L??c kh?o Vi?t ng? - L? V?n N??u
+;;Maximum entropy;0,707;0,51;8,71%;-1,81%;Ploy - Trai dat tron - Ploy
+;;Minimum complexity;0,671;0,472;3,17%;-9,16%;Truyen ngan Dac sac Viet Nam - Nhieu tac gia
+;;Mean complexity;0,648;0,519;-0,42%;-0,01%;NH? X?A C? HOA MIMOSA V?NG-Nguy?n ??c T?ng
+;;Maximum complexity;0,649;0,564;-0,25%;8,59%;Chi Can Mot Nguoi Hieu Em Trong Doi - Thao Xu
+;;Mean entropy and complexity;0,649;0,521;-0,18%;0,37%;H?y t?m t?i gi?a c?nh ??ng - ??ng Nguy?n ??ng Vy
+3;7;Minimum entropy;0,527;0,509;-11,83%;-6,72%;Qu?c s? ng?m - Nguy?n T?ng San
+;;Mean entropy;0,598;0,544;-0,01%;-0,26%;L?u t?nh m?ng - B? T?ng Long
+;;Maximum entropy;0,652;0,566;9,10%;3,77%;Ploy - Trai dat tron - Ploy
+;;Minimum complexity;0,527;0,499;-11,81%;-8,40%;N? N?n - Nguy?n C?ng Hoan
+;;Mean complexity;0,587;0,545;-1,79%;0,00%;Hai Vo - Ho Bieu Chanh
+;;Maximum complexity;0,64;0,576;7,13%;5,64%;Canh trai - Phan Hon Nhien
+;;Mean entropy and complexity;0,618;0,523;3,41%;-4,17%;Chu Lai tuyen tap - Chu Lai
+4;3;Minimum entropy;0,607;0,5;-9,80%;-1,48%;N? N?n - Nguy?n C?ng Hoan
+;;Mean entropy;0,673;0,5;0,00%;-1,48%;Tu Truyen Bong - Hoang Nguyen, Doan Trang
+;;Maximum entropy;0,743;0,518;10,51%;1,97%;L?i Ti?n Tri C?a Gi?t S??ng - Nh?t Chi?u
+;;Minimum complexity;0,71;0,459;5,61%;-9,70%;NHL-DuongTongbatDaiGia
+;;Mean complexity;0,684;0,508;1,73%;0,00%;?I?U VALSE ??A NG?C
+;;Maximum complexity;0,645;0,553;-4,04%;8,91%;Vo Cung Xua Cu - Bao Ninh
+;;Mean entropy and complexity;0,665;0,518;-1,10%;1,95%;M?Y M?A THU
+4;5;Minimum entropy;0,505;0,504;-17,27%;-16,10%;Am Ban - Pham Viet Long
+;;Mean entropy;0,611;0,602;-0,04%;0,24%;Nguoi Co Mot Thoi - KhoiVu
+;;Maximum entropy;0,682;0,64;11,56%;6,48%;Ty vet tam linh-tuyen truyen vua - Binh-nguyen Loc
+;;Minimum complexity;0,505;0,504;-17,27%;-16,10%;Am Ban - Pham Viet Long
+;;Mean complexity;0,61;0,601;-0,19%;-0,01%;Giao th?a - Nguy?n Ng?c T?
+;;;0,61;0,601;-0,19%;0,09%;H?y t?m t?i gi?a c?nh ??ng - ??ng Nguy?n ??ng Vy
+;;Maximum complexity;0,671;0,645;9,89%;7,35%;Sachvui.Com-dieu-bi-mat-han-nhu
+;;Mean entropy and complexity;0,61;0,602;-0,11%;0,23%;?o Ti?u Th? - Duy?n Anh
+9;1;Minimum entropy;0,658;0,626;-19,27%;2,84%;Huong Phi, moi tinh tuyet vong - Nguyen Van Ly
+;;Mean entropy;0,815;0,625;-0,02%;2,58%;Khoc tham - Ho Bieu Chanh
+;;Maximum entropy;0,883;0,503;8,29%;-17,36%;Vet seo va cai dau hoi - Vo Van Truc
+;;Minimum complexity;0,883;0,503;8,29%;-17,36%;Vet seo va cai dau hoi - Vo Van Truc
+;;Mean complexity;0,829;0,609;1,68%;-0,02%;Ben-Bo-Hien-Luong-Phan-Cao-Toai
+;;Maximum complexity;0,746;0,657;-8,58%;7,85%;Toi Tam - Nhat Linh
+;;Mean entropy and complexity;0,79;0,644;-3,16%;5,84%;Vua nham mat vua mo cua so - Nguyen Ngoc Thuan
+;;;;;;;
+Basque;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+3;3;Minimum entropy;0,617;0,38;-15,00%;2,67%;Biktoriano Iraola Aristegieta Gipuzkoa
+;;Mean entropy;0,726;0,381;0,00%;3,02%;Errealaren historia
+;;Maximum entropy;0,831;0,303;14,48%;-18,18%;Gasteizko garraiobideak
+;;Minimum complexity;0,831;0,303;14,48%;-18,18%;Gasteizko garraiobideak
+;;Mean complexity;0,72;0,37;-0,81%;-0,01%;Aucamvila Okzitaniako
+;;Maximum complexity;0,64;0,439;-11,92%;18,70%;Euskal Herria
+;;Mean entropy and complexity;0,743;0,365;2,25%;-1,30%;Perihelion
+3;4;Minimum entropy;0,588;0,477;-14,35%;-1,90%;KISS New Yorken sortutako
+;;Mean entropy;0,686;0,489;0,00%;0,60%;Alexander Graham Bell
+;;Maximum entropy;0,776;0,456;13,00%;-6,15%;Felix Aranzabal 
+;;Minimum complexity;0,776;0,456;13,00%;-6,15%;Felix Aranzabal 
+;;Mean complexity;0,702;0,5;2,33%;2,73%;Arbois Frantziako
+;;Maximum complexity;0,668;0,511;-2,65%;4,97%;Nozay
+;;Mean entropy and complexity;0,686;0,488;-0,03%;0,30%;Dred Scott 
+4;2;Minimum entropy;0,561;0,451;-12,77%;1,20%;Digestio-aparatua edo aparatu digestiboa
+;;Mean entropy;0,643;0,438;0,00%;-1,85%;Sobietar Batasuneko
+;;Maximum entropy;0,763;0,369;18,71%;-17,13%;Zenbakizko kontrola
+;;Minimum complexity;0,763;0,369;18,71%;-17,13%;Zenbakizko kontrola
+;;Mean complexity;0,617;0,446;-4,00%;0,00%;Pringy Frantziako 
+;;Maximum complexity;0,655;0,478;1,85%;7,13%;Reggio di Calabria 
+;;Mean entropy and complexity;0,641;0,452;-0,34%;1,44%;Lux Interior 
+7;1;Minimum entropy;0,639;0,552;-8,99%;0,56%;Canteleu Frantziako 
+;;Mean entropy;0,702;0,559;0,00%;1,82%;Ameriketako Estatu Batuetako Gerra Zibila
+;;Maximum entropy;0,835;0,456;18,95%;-16,80%;Hidrogenoa
+;;Minimum complexity;0,835;0,456;18,90%;-16,81%;Bangor Galesko
+;;Mean complexity;0,74;0,549;5,36%;-0,01%;Shaka Virgokoa
+;;Maximum complexity;0,691;0,56;-1,63%;2,13%;Frantziako
+;;Mean entropy and complexity;0,696;0,559;-0,90%;1,86%;Frantziako udalerria
+;;;;;;;
+Esperanto;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;5;Minimum entropy;0,802;0,47;-5,81%;12,65%;"Zamenhof Ludoviko, ""Esenco kaj estonteco de la ideo de Lingvo Internacia"""
+;;Mean entropy;0,85;0,431;-0,17%;3,37%;"Orzeszkowa Eliza, ""La bona sinjorino"""
+;;Maximum entropy;0,885;0,344;3,94%;-17,49%;"L. L. Zamenhof , ""Proverbaro Esperanta"""
+;;Minimum complexity;0,861;0,408;1,14%;-2,16%;"Hjalmarj S?derberg, ""La kiso kaj dek tri aliaj noveloj"""
+;;Mean complexity;0,856;0,408;0,86%;-2,23%;"Piron Claude, ""Lasu min paroli plu!"""
+;;Maximum complexity;0,804;0,499;-5,56%;19,73%;"V. Stankievi?, ""El la vivo de esperantistoj"""
+;;Mean entropy and complexity;0,841;0,446;-1,21%;6,92%;"Roberto Tresoldi, ""Kronikoj pri Badik"""
+3;6;Minimum entropy;0,687;0,603;-13,00%;8,10%;"Saussure Ren?, ""Fundamentaj reguloj de la vort-teorio en Esperanto"""
+;;Mean entropy;0,787;0,58;-0,27%;3,97%;"Boker, ""El la vivo de bervala sentaugulo"""
+;;Maximum entropy;0,861;0,448;9,11%;-19,75%;"L. L. Zamenhof, ""Fundamenta Krestomatio"""
+;;Minimum complexity;0,861;0,448;9,11%;-19,75%;"L. L. Zamenhof, ""Fundamenta Krestomatio"""
+;;Mean complexity;0,809;0,555;2,48%;-0,46%;"Jen? Rejt?, ""Bill Teksaso, la temeraruloo"""
+;;Maximum complexity;0,722;0,613;-8,57%;9,88%;"Franti?ek Omelka, ""Aventuroj de Antonio"""
+;;Mean entropy and complexity;0,756;0,604;-4,27%;8,32%;"Reyto, ""Kiuj inter?an?is vivon"""
+4;3;Minimum entropy;0,776;0,548;-7,10%;14,71%;"Saussure Ren?, ""Fundamentaj reguloj de la vort-teorio en Esperanto"""
+;;Mean entropy;0,838;0,486;0,33%;1,72%;"Piron Claude, ""La bona lingvo"""
+;;Maximum entropy;0,879;0,395;5,21%;-17,18%;"L. L. Zamenhof , ""Proverbaro Esperanta"""
+;;Minimum complexity;0,879;0,395;5,21%;-17,18%;"L. L. Zamenhof , ""Proverbaro Esperanta"""
+;;Mean complexity;0,846;0,471;1,26%;-1,38%;"Hjalmarj S?derberg, ""La kiso kaj dek tri aliaj noveloj"""
+;;Maximum complexity;0,776;0,548;-7,10%;14,71%;"Saussure Ren?, ""Fundamentaj reguloj de la vort-teorio en Esperanto"""
+;;Mean entropy and complexity;0,793;0,545;-5,10%;14,15%;"V. Stankievi?, ""El la vivo de esperantistoj"""
+4;4;Minimum entropy;0,6;0,584;-15,98%;-7,53%;"Fabeloj al Helenjo, ""Fabeloj al Helenjo"""
+;;Mean entropy;0,714;0,65;-0,10%;3,00%;"Baum Frank, ""La Eksterordinara Lando Oz"""
+;;Maximum entropy;0,831;0,576;16,40%;-8,68%;"Lajos K?k?ny, ""Enciklopedio de esperanto"" "
+;;Minimum complexity;0,831;0,576;16,40%;-8,68%;"Lajos K?k?ny, ""Enciklopedio de esperanto"" "
+;;Mean complexity;0,667;0,63;-6,65%;-0,18%;"Jen? Rejt?, ""Reen en la inferon!"""
+;;Maximum complexity;0,744;0,654;4,13%;3,64%;"Reyto, ""Mar?i au morti"""
+;;Mean entropy and complexity;0,704;0,646;-1,49%;2,30%;"Piron Claude, ""La bona lingvoo"" "
+5;2;Minimum entropy;0,803;0,536;-5,44%;17,65%;"Saussure Ren?, ""Fundamentaj reguloj de la vort-teorio en Esperanto"""
+;;Mean entropy;0,848;0,47;-0,17%;3,28%;"Gomer, ""Biblioteca de la Lingvo Internacia Esperanto"" "
+;;Maximum entropy;0,893;0,366;5,11%;-19,53%;"Georges Simenon, ""Maigret hezitas"""
+;;Minimum complexity;0,893;0,366;5,11%;-19,53%;"Georges Simenon, ""Maigret hezitas"""
+;;Mean complexity;0,86;0,448;1,23%;-1,62%;"Claude Piron, ""?u ?i mortu tra-fike?"""
+;;Maximum complexity;0,803;0,536;-5,44%;17,65%;"Saussure Ren?, ""Fundamentaj reguloj de la vort-teorio en Esperanto"""
+;;Mean entropy and complexity;0,883;0,391;3,98%;-14,13%;"L. L. Zamenhof, ""Proverbaro Esperanta"""
+;;;;;;;
+Amharic;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+3;5;Minimum entropy;0,651;0,472;-15,58%;12,21%;?????-???-??
+;;Mean entropy;0,77;0,464;-0,13%;10,26%;?????-
+;;Maximum entropy;0,866;0,347;12,31%;-17,62%;??? ???? ?? ????
+;;Minimum complexity;0,857;0,345;11,06%;-18,12%;????? ??? ?????
+;;Mean complexity;0,786;0,421;1,92%;-0,07%;???-???-????
+;;Maximum complexity;0,703;0,508;-8,88%;20,79%;???? ?????? ???
+;;Mean entropy and complexity;0,779;0,409;0,96%;-2,90%;???? ??????
+3;6;Minimum entropy;0,662;0,599;-10,74%;11,79%;???-????
+;;Mean entropy;0,741;0,517;-0,09%;-3,49%;???? ???? ???? ?????.
+;;Maximum entropy;0,841;0,446;13,32%;-16,69%;????? ??? by ??? ??
+;;Minimum complexity;0,776;0,435;4,56%;-18,83%;????? ???
+;;Mean complexity;0,775;0,534;4,51%;-0,32%;????-777-?????
+;;Maximum complexity;0,724;0,608;-2,35%;13,62%;???? ???.
+;;Mean entropy and complexity;0,695;0,597;-6,28%;11,40%;???? ???
+4;3;Minimum entropy;0,633;0,477;-17,58%;1,87%;??? ? ????
+;;Mean entropy;0,768;0,465;-0,02%;-0,83%;???? ??? ?? ????? ???? ???? ??? ??? ???
+;;Maximum entropy;0,866;0,392;12,79%;-16,35%;??? ???? ?? ????
+;;Minimum complexity;0,834;0,386;8,67%;-17,71%;?????
+;;Mean complexity;0,782;0,468;1,82%;-0,10%;??? (???? ???
+;;Maximum complexity;0,711;0,567;-7,46%;20,99%;??????? ??.
+;;Mean entropy and complexity;0,773;0,464;0,63%;-1,01%;??? ? ????
+4;4;Minimum entropy;0,569;0,558;-18,31%;-9,40%;????
+;;Mean entropy;0,696;0,606;-0,09%;-1,60%;? ? ???? ???? ?????
+;;Maximum entropy;0,803;0,604;15,21%;-1,93%;????? ??? by ??? ??
+;;Minimum complexity;0,715;0,549;2,60%;-10,91%;???? ??????
+;;Mean complexity;0,682;0,616;-2,19%;-0,02%;????? ?????? ????
+;;Maximum complexity;0,736;0,65;5,57%;5,56%;???? ?? ??? ????? ??????
+;;Mean entropy and complexity;0,689;0,626;-1,06%;1,64%;????? ?????? ??????
+6;2;Minimum entropy;0,608;0,591;-14,29%;-7,03%;???? ???? ???? ???? ????
+;;Mean entropy;0,71;0,64;0,00%;0,78%;?? ????? ???? ?????? ???? ??????
+;;Maximum entropy;0,815;0,607;14,92%;-4,55%;?????
+;;Minimum complexity;0,771;0,582;8,68%;-8,48%;???? ??????
+;;Mean complexity;0,671;0,635;-5,37%;-0,03%;????? ????
+;;Maximum complexity;0,75;0,66;5,67%;3,91%;??? ???? ?? ????
+;;Mean entropy and complexity;0,703;0,644;-0,93%;1,29%;????-??-???-???-????
+;;;;;;;
+Chechen;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+3;3;Minimum entropy;0,512;0,374;-16,98%;-1,40%;Починок каменниковскан йуьртан
+;;Mean entropy;0,616;0,386;-0,02%;1,77%;Бибиков 
+;;Maximum entropy;0,737;0,39;19,56%;2,62%;Большая коклала
+;;Minimum complexity;0,714;0,33;15,82%;-13,19%;Азербайджанийн Совет Социалист Республика
+;;Mean complexity;0,611;0,379;-0,77%;-0,22%;Мадар туьрк меттан
+;;Maximum complexity;0,642;0,426;4,12%;12,15%;Бутиково Тулин
+;;Mean entropy and complexity;0,626;0,369;1,54%;-2,86%;Абано казбегин муниципалитет 
+3;4;Minimum entropy;0,434;0,384;-19,00%;-8,56%;Мали язовка
+;;Mean entropy;0,535;0,446;-0,20%;6,16%;Екатериновка юхнован 
+;;Maximum entropy;0,629;0,433;17,41%;3,17%;Истамгулово Башкирийчоьнан
+;;Minimum complexity;0,451;0,378;-15,92%;-10,04%;Хорупино
+;;Mean complexity;0,541;0,418;0,90%;-0,41%;Наумовка орёлан
+;;Maximum complexity;0,59;0,483;10,01%;15,10%;Лесной Исаклин
+;;Mean entropy and complexity;0,531;0,429;-14,56%;2,14%;Палутино ярославлан
+4;2;Minimum entropy;0,52;0,4;-16,35%;-3,30%;Починок каменниковскан йуьртан
+;;Mean entropy;0,619;0,403;-0,38%;-2,57%;Мамаева
+;;Maximum entropy;0,735;0,372;18,22%;-10,11%;Хирийчоь
+;;Minimum complexity;0,729;0,367;17,32%;-11,31%;Азербайджанийн Совет Социалист Республик
+;;Mean complexity;0,659;0,413;5,95%;-0,27%;Жмакино Оренбурган
+;;Maximum complexity;0,663;0,464;6,73%;12,16%;Левинка Тулин
+;;Mean entropy and complexity;0,609;0,436;-2,03%;5,31%;Перещепни
+6;1;Minimum entropy;0,618;0,379;-11,96%;-0,99%;Расловино 
+;;Mean entropy;0,69;0,374;-1,59%;-2,46%;Алай
+;;Maximum entropy;0,765;0,319;9,00%;-16,83%;Полеводство
+;;Minimum complexity;0,765;0,319;9,00%;-16,83%;Полеводство
+;;Mean complexity;0,655;0,381;-6,67%;-0,65%;Алексеевск Брянскан
+;;Maximum complexity;0,676;0,463;-3,61%;20,78%;Бутиково Тулин
+;;Mean entropy and complexity;0,686;0,415;-2,20%;8,39%;Фироновка Белгородан
+;;;;;;;
+Swahili;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+3;4;Minimum entropy;0,658;0,503;-12,88%;5,47%;Historia ya Afrika
+;;Mean entropy;0,755;0,487;-0,07%;2,00%;Malenga wa kirani
+;;Maximum entropy;0,852;0,372;12,73%;-22,09%;Mfumo wa hatimiliki wa Torrens
+;;Minimum complexity;0,852;0,372;12,73%;-22,09%;Mfumo wa hatimiliki wa Torrens
+;;Mean complexity;0,767;0,477;1,57%;-0,03%;Shule ya Upili ya Wavulana ya Starehe
+;;Maximum complexity;0,677;0,515;-10,34%;8,03%;Wamassai
+;;Mean entropy and complexity;0,748;0,491;-0,93%;2,81%;Hes
+3;5;Minimum entropy;0,536;0,502;-14,77%;-9,04%;Hinabuluu
+;;Mean entropy;0,629;0,558;-0,03%;1,11%;Tuzo la Headies kwa Msanii Bora wa Mwaka
+;;Maximum entropy;0,757;0,554;20,37%;0,39%;Anselmo wa Aosta
+;;Minimum complexity;0,536;0,502;-14,77%;-9,04%;Hinabuluu
+;;Mean complexity;0,613;0,552;-2,50%;-0,04%;East African Community
+;;Maximum complexity;0,693;0,572;10,20%;3,61%;Damu
+;;Mean entropy and complexity;0,626;0,557;-0,44%;0,94%;Kilimanjaro (mlima)
+4;3;Minimum entropy;0,513;0,493;-13,70%;-9,83%;Hubert camarillo
+;;Mean entropy;0,594;0,551;-0,06%;0,72%;Louis de Montfort
+;;Maximum entropy;0,715;0,586;20,35%;7,20%;Christopher Richard Mwashinga
+;;Minimum complexity;0,513;0,493;-13,70%;-9,83%;Hubert camarillo
+;;Mean complexity;0,587;0,546;-1,17%;-0,08%;Samuel Ajayi Crowser
+;;Maximum complexity;0,702;0,587;18,06%;7,43%;Ugonjwa wa mapafu
+;;Mean entropy and complexity;0,593;0,55;-0,22%;0,62%;Katerina wa Siena
+5;2;Minimum entropy;0,509;0,49;-13,74%;-10,08%;Kujiua
+;;Mean entropy;0,59;0,549;-0,05%;0,64%;Samuel Ajayi Crowser
+;;Maximum entropy;0,711;0,588;20,33%;7,76%;Muungano wa Tanganyika na Zanzibar
+;;Minimum complexity;0,509;0,49;-13,74%;-10,08%;Kujiua
+;;Mean complexity;0,585;0,545;-1,01%;-0,13%;Kiwango cha metaboli msingi
+;;Maximum complexity;0,697;0,588;18,06%;7,86%;German East Africa
+;;Mean entropy and complexity;0,589;0,548;-0,24%;0,52%;Mwanamalundi
+;;;;;;;
+Kazakh;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;5;Minimum entropy;0,654;0,54;-15,01%;14,97%;Сатбекова A.A., “?аза? тілін о?ыту ?дістемесі” 
+;;Mean entropy;0,769;0,446;-0,01%;-5,13%;"Ар?ынбаева А. А. , ""Химиядан есптер шы?ару ?дістемесі"""
+;;Maximum entropy;0,831;0,374;8,03%;-20,35%;"Абдраев Н.К., ""?ытай ж?не ?аза? тілдеріндегі табу мен эвфемизмдерді сал?астырмалы зерттеу"""
+;;Minimum complexity;0,831;0,374;8,03%;-20,35%;"Абдраев Н.К., ""?ытай ж?не ?аза? тілдеріндегі табу мен эвфемизмдерді сал?астырмалы зерттеу"""
+;;Mean complexity;0,772;0,469;0,38%;-0,07%;"А?ан сері ?орамса?лы, ""?ле?дер жина?ы"""
+;;Maximum complexity;0,696;0,569;-9,49%;21,10%;"Т. Айбергенов, ""Шыгармалар"" (4 том)"
+;;Mean entropy and complexity;0,717;0,554;-6,79%;18,04%;"Егизбаева М.К., ""?аза? хал?ыны? д?ст?рлі материалды? м?дениеті"""
+3;6;Minimum entropy;0,6;0,566;-16,73%;3,75%;"Ільяс Есенберлин, ""К?шпенділер"""
+;;Mean entropy;0,72;0,581;-0,03%;6,49%;"М?хтар ?уезов, ""Абай жолы"" (2-кітап)"
+;;Maximum entropy;0,84;0,435;16,51%;-20,27%;"Карабаева Х.А.,""?аза? тілі"""
+;;Minimum complexity;0,831;0,432;15,37%;-20,85%;"Т?рсын ?., ""?аза? тележурналистикасы: ?алыптасу, даму проблемалары"""
+;;Mean complexity;0,799;0,545;10,80%;-0,03%;"Бокейханов А., ""Шыгармаларын 9 томдык толык жынагы"" (7-том)"
+;;Maximum complexity;0,712;0,61;-1,14%;11,80%;"М?хтар ?уезов, ""Абай жолы"" (1-кітап)"
+;;Mean entropy and complexity;0,68;0,601;-5,61%;10,13%;"Бокейханов А., ""Шыгармаларын 9 томдык толык жынагы"" (6-том)"
+4;3;Minimum entropy;0,714;0,456;-11,22%;-2,68%;"Мустафа Шо?ай, ""Шы?армаларыны? толы? жина?ы"" (6 - том)"
+;;Mean entropy;0,804;0,498;0,00%;6,24%;"Аубакиров Б.У., ""Аналитикалы? функциялар теориясыны? негіздері"""
+;;Maximum entropy;0,844;0,376;4,98%;-19,70%;"Аймауытов Ж., ""Алты томды? шы?армалар жина?ы. 2 том"""
+;;Minimum complexity;0,844;0,376;4,98%;-19,70%;"Аймауытов Ж., ""Алты томды? шы?армалар жина?ы. 2 том"""
+;;Mean complexity;0,803;0,468;-0,04%;-0,09%;"Ештаева Н.А., ""О?у кітабы: о?у-?дістемелік ??ралы"""
+;;Maximum complexity;0,762;0,566;-5,25%;20,72%;"Умбетаев М., ""С?йінбaйтaну: о?у ??рaлы"" "
+;;Mean entropy and complexity;0,769;0,533;-4,28%;13,78%;"?ортабаева Г.?. ,""?аза? ономастикасы: поэтонимдерді? этнолингвистикалы? сипаты"""
+4;4;Minimum entropy;0,538;0,531;-20,75%;-11,73%;"Дулат Бабатай?лы, ""?ле?дер жина?ы"" "
+;;Mean entropy;0,679;0,633;-0,03%;5,23%;"?абдуллин Б.Т., Байбашева Г.?, Шарифьянова Л.Т., ""Мемлекет ж?не ???ы? теориясы"""
+;;Maximum entropy;0,816;0,557;20,16%;-7,33%;"Салкынбай А.Б., ""?аза? тіл білімі тарихы"""
+;;Minimum complexity;0,538;0,531;-20,75%;-11,73%;"Дулат Бабатай?лы, ""?ле?дер жина?ы"" "
+;;Mean complexity;0,769;0,601;13,25%;-0,02%;"Сакен Жунусов, ""К?п томды? шы?армалар жина?ы"""
+;;Maximum complexity;0,727;0,649;7,02%;8,01%;"Суюндуков Б.Т., Низаматдинова Ж.С., ""Туризм инфра??рылымы"""
+;;Mean entropy and complexity;0,662;0,623;-2,57%;3,66%;"А?ан сері ?орамса?лы, ""?ле?дер жина?ы"""
+6;2;Minimum entropy;0,556;0,548;-20,59%;-11,55%;"Алькебаева Д.А., ""С?з м?дениеті"""
+;;Mean entropy;0,701;0,651;0,00%;4,99%;"М?хтар ?уезов, ""?араш-?араш о?и?асы"""
+;;Maximum entropy;0,82;0,62;17,08%;-0,03%;"Абай ??нанбай?лы , ""?зім ??гімесі"""
+;;Minimum complexity;0,556;0,548;-20,59%;-11,55%;"Алькебаева Д.А., ""С?з м?дениеті"""
+;;Mean complexity;0,819;0,62;16,97%;-0,02%;"Есім ?арифолла, ""Дін философиясы"""
+;;Maximum complexity;0,75;0,661;7,12%;6,69%;"Иманкулова С.М., ""К?сіби ба?дарлы ?аза? тілі"""
+;;Mean entropy and complexity;0,683;0,641;-2,45%;3,38%;"Абдезулы К., ""Т?уелсіздік кезе?і ж?не ?аза? ?дебиеті"""
+;;;;;;;
+Udmurt;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece 
+3;4;Minimum entropy;0,58;0,431;-16,52%;-3,17%;"Обрезкова Н. А., ""Мон кышкасько..."""
+;;Mean entropy;0,694;0,493;-0,04%;10,71%;Яркыт но вакчи улон
+;;Maximum entropy;0,786;0,389;13,13%;-12,61%;Уроке - выль амалъес
+;;Minimum complexity;0,772;0,382;11,12%;-14,18%;Пуньы буясь коньы
+;;Mean complexity;0,749;0,444;7,78%;-0,34%;Пинал гумыр ортче ведь 
+;;Maximum complexity;0,665;0,508;-4,28%;14,13%;Шунды урод верос
+;;Mean entropy and complexity;0,694;0,451;-0,13%;1,26%;Малпанам - ортчылем дауръес
+3;5;Minimum entropy;0,501;0,466;-19,52%;-7,82%;Волак усьто ай укноме
+;;Mean entropy;0,622;0,536;-0,02%;6,01%;Кин вае ?ардонэз
+;;Maximum entropy;0,739;0,481;18,72%;-4,85%;Уроке - выль амалъес
+;;Minimum complexity;0,506;0,409;-18,71%;-19,09%;Бадьпуос ортчемзэ бугырто
+;;Mean complexity;0,562;0,505;-9,66%;-0,11%;Капкае усьтэмын
+;;Maximum complexity;0,643;0,554;3,30%;9,59%;?еч сюлэмызлэн шунытэз
+;;Mean entropy and complexity;0,599;0,539;-3,84%;6,57%;Майбыр УЛ?СЬКО яке эмеспи
+4;2;Minimum entropy;0,672;0,388;-16,76%;15,45%;Йыбыртты музъемлы
+;;Mean entropy;0,807;0,373;0,00%;10,88%;Павилэн выль ?укнаез
+;;Maximum entropy;0,868;0,269;7,64%;-19,91%;Молот 1964 №04
+;;Minimum complexity;0,868;0,269;7,64%;-19,91%;Молот 1964 №04
+;;Mean complexity;0,834;0,333;3,39%;-0,91%;?еч сюлэмызлэн шунытэз
+;;Maximum complexity;0,726;0,4;-10,05%;19,08%;Зарни
+;;Mean entropy and complexity;0,782;0,399;-3,08%;18,77%;Тон лымыя
+8;1;Minimum entropy;0,6;0,567;-14,54%;-2,21%;Илляпиысь кышкасьтэм воргорон 
+;;Mean entropy;0,702;0,61;-0,01%;5,17%;Кольйич - Мольйоток
+;;Maximum entropy;0,841;0,525;19,73%;-9,44%;Улон Тубатъес
+;;Minimum complexity;0,777;0,471;10,68%;-18,76%;Молот 1956 №03
+;;Mean complexity;0,798;0,579;13,67%;-0,13%;Кион котьку сютэм 
+;;Maximum complexity;0,717;0,613;2,13%;5,73%;Машина миськизы
+;;Mean entropy and complexity;0,683;0,608;-2,73%;4,86%;Сюрес вожъем
+;;;;;;;
+Dutch;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;2;Minimum entropy;0,578;0,34;-4,65%;3,23%;"Theo Blakensee, Kurt Matull, Felix Hageman, ""Lord Lister"""
+;;Mean entropy;0,611;0,33;0,00%;0,29%;"J.J. Cremer, ""Overbetuwsche novellen"""
+;;Maximum entropy;0,708;0,285;13,87%;-13,47%;"Constantijn Huygens, ""Hofwyck en Spaansche Wijsheit"""
+;;Minimum complexity;0,704;0,285;13,30%;-13,47%;"Willem Bilderdijk, ""Kort verhaal van eene aanmerkelijke luchtreis en nieuwe planeetontdekking"""
+;;Mean complexity;0,608;0,329;-0,36%;-0,02%;"Frederik Van Eeden, ""Dante en Beatrice"
+;;;;;;;"En andere verzen"""
+;;Maximum complexity;0,578;0,34;-4,65%;3,23%;"Theo Blakensee, Kurt Matull, Felix Hageman, ""Lord Lister"""
+;;Mean entropy and complexity;0,612;0,328;0,15%;-0,45%;"F. Hadland Davis, ""Mythen & Legenden van Japan"""
+3;4;Minimum entropy;0,507;0,405;-13,97%;-7,45%;"Dr. J. G. Schlimmer, ""Woordenboek der Grieksche en Romeinsche oudheid"""
+;;Mean entropy;0,589;0,44;0,00%;0,64%;"Louis Couperus, ""Dionyzos"""
+;;Maximum entropy;0,679;0,422;15,21%;-3,57%;"Dante Alighieri, ""Dante's Hel"""
+;;Minimum complexity;0,523;0,402;-11,26%;-8,14%;"Henri Louis de Beaufort, ""Het Auteursrecht in het Nederlandsche en internationale recht"
+;;;;;;;""""
+;;Mean complexity;0,59;0,437;0,15%;-0,03%;"Johannes Diderik Bierens de Haan, ""Goethe's Faust"""
+;;Maximum complexity;0,636;0,471;7,92%;7,63%;"Heinrich Heine, ""De Beurs lacht"""
+;;Mean entropy and complexity;0,588;0,44;-0,16%;0,51%;"Ellen Karolina Sofia Key, ""De moedige vrouw"""
+3;5;Minimum entropy;0,468;0,407;-13,29%;-11,46%;"Dr. J. G. Schlimmer, ""Woordenboek der Grieksche en Romeinsche oudheid"""
+;;Mean entropy;0,54;0,462;0,00%;0,46%;"Arthur van Schendel, ""Een Zwerver Verliefd"""
+;;Maximum entropy;0,601;0,501;11,35%;8,99%;"Jean Baptiste Racine, ""De Pleiters"""
+;;Minimum complexity;0,468;0,407;-13,29%;-11,46%;"Dr. J. G. Schlimmer, ""Woordenboek der Grieksche en Romeinsche oudheid"""
+;;Mean complexity;0,539;0,459;-0,07%;-0,08%;"Henri Borel, ""Vlindertje"
+;;;;;;;"een Haagsche roman"""
+;;Maximum complexity;0,582;0,513;7,83%;11,60%;"Heinrich Heine, ""De Beurs lacht"""
+;;Mean entropy and complexity;0,54;0,46;0,10%;0,03%;"Alexander Kielland, ""Vergif: Een Roman uit het Noorsch"""
+4;5;Minimum entropy;0,416;0,416;-12,50%;-12,16%;"Paul van Ostayen, ""Bezette stad"""
+;;Mean entropy;0,475;0,472;-0,01%;-0,37%;"A. E. Brehm, ""Het Leven der Dieren: Deel 2, Inleiding; Hoofdstuk 1: De Boomvogels"""
+;;Maximum entropy;0,52;0,517;9,37%;9,17%;"Hoffmann Von Fallersleben, ""Niederl?ndische Volkslieder"""
+;;Minimum complexity;0,416;0,416;-12,50%;-12,16%;"Paul van Ostayen, ""Bezette stad"""
+;;Mean complexity;0,475;0,473;-0,09%;-0,07%;"Frans Berding, ""De Edda"""
+;;Maximum complexity;0,52;0,517;9,37%;9,17%;"Hoffmann Von Fallersleben, ""Niederl?ndische Volkslieder"""
+;;Mean entropy and complexity;0,475;0,474;-0,04%;0,09%;"Ida Heijermans, ""Zoo mooi als zonneschijn. Het Kaarsemannetje"""
+;;;;;;;
+French;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;7;Minimum entropy;0,63;0,601;-14,52%;-1,95%;"L?on Alexandre Heuzey, ""Mythes chaldeens"""
+;;Mean entropy;0,737;0,62;-0,01%;1,21%;"George Sand, ""Contes d'une grand-mere"""
+;;Maximum entropy;0,789;0,573;7,05%;-6,52%;"Honor? de Balzac, ""La Comedie humaine - Volume IX"""
+;;Minimum complexity;0,786;0,57;6,65%;-7,01%;"Honor? de Balzac, ""La Comedie humaine - Volume VIII"""
+;;Mean complexity;0,756;0,613;2,55%;-0,01%;"Andre Beaunier, ""Picrate et Sim?on"""
+;;Maximum complexity;0,721;0,639;-2,17%;4,25%;"Pierre Augustin Caron de Beaumarchais, ""L'autre Tartuffe, ou La m?re coupable"""
+;;Mean entropy and complexity;0,743;0,607;0,78%;-1,01%;"Andre Grellet Dumazeau, ""L'Affaire Du Bonnet Et Les Memoires De Saint-Simon"""
+3;8;Minimum entropy;0,561;0,555;-16,18%;-12,18%;"J.-B. P?r?s, ""Comme quoi Napol?on n'a jamais exist?"""
+;;Mean entropy;0,669;0,639;-0,01%;1,13%;"Michel Corday, ""Plaisirs d'auto"""
+;;Maximum entropy;0,731;0,642;9,23%;1,60%;"Emile Gaboriau, ""Les esclaves de Paris"""
+;;Minimum complexity;0,561;0,554;-16,18%;-12,34%;"Louis Guibert, ""De l'importance des livres de raison au point de vue arch?ologique"""
+;;Mean complexity;0,66;0,632;-1,39%;0,00%;"Pierre de Lano, ""Carnet d'une femme"""
+;;Maximum complexity;0,713;0,655;6,53%;3,64%;"Guy de Maupassant, ""?uvres compl?tes de Guy de Maupassant"""
+;;Mean entropy and complexity;0,667;0,635;-0,27%;0,41%;"Pierre Loti, ""La troisi?me jeunesse de Madame Prune"""
+4;4;Minimum entropy;0,661;0,62;-15,48%;0,86%;"Ulysse Chevalier, ""Un tournoi ? Romans en 1484"""
+;;Mean entropy;0,782;0,634;-0,05%;3,16%;"Marcel Boulenger, ""Lettres de Chantilly"""
+;;Maximum entropy;0,851;0,517;8,81%;-15,90%;"Dumas Alexandre, ""Vingt ans apres"""
+;;Minimum complexity;0,851;0,511;8,81%;-16,87%;"Madame de S?vign?, ""Lettres de Madame de S?vign?"""
+;;Mean complexity;0,793;0,615;1,38%;0,00%;"Jean-Baptiste Joseph Champagnac, ""Chronique du Crime Et de l’Innocence"""
+;;Maximum complexity;0,739;0,651;-5,51%;5,90%;"Pierre Augustin Caron de Beaumarchais, ""L'autre Tartuffe, ou La m?re coupable"""
+;;Mean entropy and complexity;0,851;0,517;8,80%;-15,82%;"Dumas Alexandre, ""Vingt ans apres"""
+4;5;Minimum entropy;0,531;0,529;-18,68%;-16,97%;"Jean Saint-Denis, ""Tres utile et compendieulx Traicte de l'art et science d'orthographie gallicane…"""
+;;Mean entropy;0,652;0,639;-0,12%;0,26%;"M. Capefigue, ""Diane de Poitiers"""
+;;Maximum entropy;0,745;0,687;14,09%;7,82%;"Eug?ne Fran?ois Vidocq, ""Les vrais myst?res de Paris"""
+;;Minimum complexity;0,531;0,529;-18,68%;-16,97%;"Jean Saint-Denis, ""Tres utile et compendieulx Traicte de l'art et science d'orthographie gallicane…"""
+;;Mean complexity;0,649;0,637;-0,55%;-0,01%;"Gautier Judith, ""Le paravent de soie et d'or"""
+;;Maximum complexity;0,738;0,689;13,09%;8,16%;"Emile Gaboriau, ""Les esclaves de Paris"""
+;;Mean entropy and complexity;0,653;0,64;-0,05%;0,39%;"Ulrich von Hutten, ""Epitres des hommes obscurs"""
+5;3;Minimum entropy;0,6;0,591;-17,22%;-11,09%;"Th?odore Hannon, ""Au clair de la dune"""
+;;Mean entropy;0,724;0,672;-0,12%;1,06%;"L?o Taxil, Antonio Mar?a Claret, Pierre Jean Corneille Debreyne and Jean-Baptiste Bouvier, "" La confession et les confesseurs"""
+;;Maximum entropy;0,821;0,639;13,27%;-3,87%;"Miguel de Cervantes Saavedra, ""L'ing?nieux chevalier Don Quichotte de la Manche"""
+;;Minimum complexity;0,6;0,591;-17,22%;-11,09%;"Th?odore Hannon, ""Au clair de la dune"""
+;;Mean complexity;0,703;0,673;-2,95%;1,31%;"Duchaussois Pierre Jean Baptiste, ""Aux glaces polaires"""
+;;Maximum complexity;0,756;0,679;4,25%;2,16%;"Marie-Louise Gagneur , ""Le calvaire des femmes"""
+;;Mean entropy and complexity;0,703;0,664;-2,95%;-0,05%;"Jules Sandeau, ""Mademoiselle de la Seigliere - Volume I"""
+6;2;Minimum entropy;0,651;0,624;-17,65%;-1,31%;"Jean de La V?prie, ""Les proverbes communs"""
+;;Mean entropy;0,79;0,651;-0,09%;2,90%;"Vicente Blasco Ib??ez, ""Contes espagnols d'amour et de mort"""
+;;Maximum entropy;0,876;0,515;10,82%;-18,55%;"Marie de S?vign?, ""Lettres de madame de S?vign?, de sa famille et de ses amis"""
+;;Minimum complexity;0,876;0,515;10,82%;-18,55%;"Marie de S?vign?, ""Lettres de madame de S?vign?, de sa famille et de ses amis"""
+;;Mean complexity;0,813;0,632;2,83%;-0,03%;"Octave Mirbeau, ""Le Calvaire"""
+;;Maximum complexity;0,753;0,662;-4,74%;4,70%;"Brada, ""Lettres d'une amoureuse"""
+;;Mean entropy and complexity;0,772;0,657;-2,40%;3,96%;"Gustave Reynier, ""La Vie Universitaire dans l'Ancienne Espagne"""
+;;;;;;;
+Spanish;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;5;Minimum entropy;0,7;0,485;-13,63%;12,47%;"Tomas Salvador, ""Martin Lord 02"""
+;;Mean entropy;0,81;0,441;-0,01%;2,34%;"Jon Arretxe P?rez, ""Shahmar?n"""
+;;Maximum entropy;0,854;0,363;5,35%;-15,86%;"Francisco Altable, ""El Dios de los Jilgueros"""
+;;Minimum complexity;0,852;0,35;5,12%;-18,83%;"Lope de Vega, ""Del pan y del Palo"""
+;;Mean complexity;0,809;0,432;-0,20%;0,18%;"Daniel de la Pe?a, ""La locura de rimar contigo"""
+;;Maximum complexity;0,759;0,521;-6,35%;20,82%;"Irene Mendoza, ""Las cosas bellas"""
+;;Mean entropy and complexity;0,809;0,435;-0,15%;0,91%;"Laura G. Miranda, ""Despu?s del abismo"" "
+3;6;Minimum entropy;0,66;0,52;-13,77%;-7,39%;"Jos? Luis Sampedro, ""El caballo desnudo"""
+;;Mean entropy;0,765;0,562;-0,02%;0,09%;"Manuel Mart?nez Velasco, ""Cosas que no debes hacer la noche antes de casarte"""
+;;Maximum entropy;0,827;0,469;8,03%;-16,47%;"Anne Marie Cross, Christine Cross, ""El perfecto mayordomo"""
+;;Minimum complexity;0,827;0,469;8,03%;-16,47%;"Anne Marie Cross, Christine Cross, ""El perfecto mayordomo"""
+;;Mean complexity;0,774;0,561;1,16%;0,00%;"Sof?a Guadarrama Collado, ""ezahualc?yotl: El Despertar del Coyote"""
+;;Maximum complexity;0,705;0,61;-7,89%;8,64%;"Mauricio Garc?a Villegas, ""El pa?s de las emociones tristes"""
+;;Mean entropy and complexity;0,744;0,591;-2,76%;5,22%;"Camucha Escobar, ""Tierra en Sombras"""
+4;2;Minimum entropy;0,703;0,387;-9,19%;15,90%;"Lorena Grande, ""M?s all? del deseo"""
+;;Mean entropy;0,774;0,333;0,00%;-0,25%;"Laura Chivite , ""Gente que r?e"""
+;;Maximum entropy;0,83;0,304;7,26%;-9,03%;"Boris Quercia, ""La sangre no es agua"""
+;;Minimum complexity;0,83;0,269;7,26%;-19,50%;"Tara Pammi, ""El pr?ncipe sin coraz?n"""
+;;Mean complexity;0,776;0,334;0,23%;0,09%;"Martina D'Antiochia, ""Diario de sue?os"""
+;;Maximum complexity;0,766;0,399;-1,02%;19,39%;"Ortega y Gasset, ""Ideas y Creencias"" "
+;;Mean entropy and complexity;0,777;0,326;0,42%;-2,35%;"David Luna Lorenzo, ""Ponzo?a"""
+4;4;Minimum entropy;0,6;0,583;-14,54%;-7,59%;"Valeriam ?mar, ""Un beso para mi vizcondesa"""
+;;Mean entropy;0,702;0,637;-0,02%;0,98%;"Alfredo G?mez Cerd?, ""El mago del paso subterraneo"""
+;;Maximum entropy;0,79;0,609;12,57%;-3,49%;"Lope de Vega, ""Del pan y del palo"""
+;;Minimum complexity;0,773;0,555;10,08%;-12,04%;"Pam Mu?oz Ryan, ""Pinta el viento"""
+;;Mean complexity;0,674;0,631;-3,95%;-0,01%;"Isabel Keats, ""En un rinc?n perdido del mundo"""
+;;Maximum complexity;0,727;0,646;3,53%;2,38%;"Jo?o Calazans Filho, ""El ?rbol de cacao encantado"""
+;;Mean entropy and complexity;0,697;0,638;-0,75%;1,09%;"Julia Alvarez, ""De c?mo t?a Lola vino de visita a quedarse"""
+6;3;Minimum entropy;0,384;0,384;-20,70%;-20,67%;"Jos? Luis Navajo, ""Misterio En El Campamento"""
+;;Mean entropy;0,484;0,484;-0,03%;-0,02%;"Gregorio Le?n , ""La princesa de Macao"""
+;;Maximum entropy;0,58;0,579;19,78%;19,62%;"Andres Diaz Sanchez, ""El Templo Del Deseo de Sat?n"""
+;;Minimum complexity;0,384;0,384;-20,70%;-20,67%;"Jos? Luis Navajo, ""Misterio En El Campamento"""
+;;Mean complexity;0,484;0,484;-0,03%;-0,02%;"Gregorio Le?n , ""La princesa de Macao"""
+;;Maximum complexity;0,58;0,579;19,78%;19,62%;"Andres Diaz Sanchez, ""El Templo Del Deseo de Sat?n"""
+;;Mean entropy and complexity;0,486;0,486;0,29%;0,29%;"Jordi Sierra i Fabra, ""Pesadillas vivas"""
+;;;;;;;
+Malalyam;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;3;Minimum entropy;0,509;0,348;-15,53%;-5,13%;???????? (Jayaprakash Panoor) 
+;;Mean entropy;0,587;0,371;-2,52%;1,17%;???????????? ???????? (???????? ???? ???????) 
+;;Maximum entropy;0,706;0,373;17,18%;1,92%;??? ??????? (Naseel Voici) 
+;;Minimum complexity;0,511;0,326;-15,15%;-11,02%;??????? ????????? (K. R. Meera) 
+;;Mean complexity;0,629;0,366;4,45%;-0,23%;????????????? ?????_????????_ (M. P. Narayana Pillai)
+;;Maximum complexity;0,534;0,427;-11,33%;16,54%;????? (Sujeesh) 
+;;Mean entropy and complexity;0,608;0,357;0,99%;-2,48%;??????????? ??????? (O.V. Vijayan)
+3;4;Minimum entropy;0,423;0,348;-17,84%;-15,34%;????? ????????????_ (Khaled Hosseini) 
+;;Mean entropy;0,5;0,381;-2,94%;-7,26%;??????????????? ????????? (M. Mukundan) 
+;;Maximum entropy;0,614;0,453;19,30%;10,13%;????? ????????????_ (Sreekumaran Thampi) 
+;;Minimum complexity;0,43;0,345;-16,45%;-16,13%;??????? ????????? (K. R. Meera)
+;;Mean complexity;0,526;0,411;2,13%;-0,14%;?????????? (E Santhosh Kumar)
+;;Maximum complexity;0,549;0,473;6,60%;15,07%;????????? ????_??????? (Vaikom Muhammad Basheer) 
+;;Mean entropy and complexity;0,517;0,41;0,37%;-0,23%;?????????????? (K Vivekanandan) 
+4;2;Minimum entropy;0,518;0,369;-15,13%;-11,55%;?????? ????? (The Bible Society of India) 
+;;Mean entropy;0,603;0,418;-1,22%;0,31%;??????????? (Benyamin) 
+;;Maximum entropy;0,7;0,41;14,69%;-1,73%;?????? (V.K.N)
+;;Minimum complexity;0,524;0,373;-14,21%;-10,60%;??????? ????????? (K. R. Meera) 
+;;Mean complexity;0,679;0,416;11,23%;-0,18%;????? ????????????_ (Sreekumaran Thampi)
+;;Maximum complexity;0,626;0,479;2,56%;14,81%;??????????? ?? (Akhil Das, Adi Mithra)
+;;Mean entropy and complexity;0,6;0,435;-1,71%;4,29%;???? ???????????????? 1885-1957 (A. Sreedhara Menon) 
+6;1;Minimum entropy;0,683;0,362;-13,50%;10,25%;??????????? (Thakazhi Sivasankara Pillai) 
+;;Mean entropy;0,777;0,3;-1,59%;-8,51%;????? ????????????_ (Khaled Hosseini) 
+;;Maximum entropy;0,865;0,264;9,55%;-19,60%;Sabarimala and Women ????????? ?????????? (Lekshmy Rajeev) 
+;;Minimum complexity;0,822;0,263;4,11%;-19,90%;???? 13 (Ravichandran C)
+;;Mean complexity;0,829;0,327;4,98%;-0,27%;?????????? (E Santhosh Kumar) 
+;;Maximum complexity;0,801;0,39;1,45%;18,77%;??? ??????? (Naseel Voici) 
+;;Mean entropy and complexity;0,786;0,328;-0,43%;-0,12%;??????????? ??????? (O.V. Vijayan) 
+;;;;;;;
+Ossetian;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;7;Minimum entropy;0,6;0,583;-18,43%;-6,72%;"Мамсуров Д.Х., ""Эльдорадо"""
+;;Mean entropy;0,736;0,648;-0,01%;3,71%;"Хаблиев С.М., ""?нам? мын чи бадзурдз?н"""
+;;Maximum entropy;0,846;0,537;14,96%;-14,08%;"Айларты И.Х., ""Ирон фарн"""
+;;Minimum complexity;0,846;0,537;14,96%;-14,08%;"Айларты И.Х., ""Ирон фарн"""
+;;Mean complexity;0,787;0,624;6,92%;-0,03%;"Булкъаты Михал, ""Терк?й Туркм?"""
+;;Maximum complexity;0,742;0,649;0,88%;3,83%;"Шанаев Уари, ""Партизант?"""
+;;Mean entropy and complexity;0,719;0,647;-2,30%;3,60%;"Ситохаты Саламджери, ""?мдз?вг?ты тафс"""
+3;8;Minimum entropy;0,541;0,537;-18,18%;-14,90%;"Хетагуров Д., ""Гоцци"""
+;;Mean entropy;0,66;0,638;-0,11%;1,12%;"Ходов К.Х., ""Балс?джы цалх"""
+;;Maximum entropy;0,774;0,668;17,10%;5,86%;"Айларты И.Х., ""Ирон фарн"""
+;;Minimum complexity;0,541;0,537;-18,18%;-14,90%;"Хетагуров Д., ""Гоцци"""
+;;Mean complexity;0,648;0,63;-1,91%;-0,19%;"Епхиты Т., ""Радзырдтае"""
+;;Maximum complexity;0,752;0,677;13,72%;7,32%;"Калоты Г., ""Ирон ад?мон сф?лдыстад"""
+;;Mean entropy and complexity;0,659;0,634;-0,38%;0,53%;"Тахъазти Федар, ""Ислам"""
+4;4;Minimum entropy;0,601;0,584;-17,10%;-7,30%;"Нафи, ""Фыдаелты туг"""
+;;Mean entropy;0,725;0,65;-0,09%;3,07%;"Епхиев Т.А., ""Уацмыст? ?рт? том?й"""
+;;Maximum entropy;0,832;0,563;14,67%;-10,64%;"Айларты И.Х., ""Ирон фарн"""
+;;Minimum complexity;0,832;0,563;14,67%;-10,64%;"Айларты И.Х., ""Ирон фарн"""
+;;Mean complexity;0,782;0,63;7,86%;-0,05%;"Кайтуков А.Б., ""Таур?гът? ?м? цард"""
+;;Maximum complexity;0,747;0,652;3,04%;3,34%;"Хъазиты М.Р., ""Къоста"""
+;;Mean entropy and complexity;0,712;0,646;-1,87%;2,40%;"Сланты Ахм?т, ""С?рдыгон райсом"""
+4;5;Minimum entropy;0,49;0,489;-18,76%;-17,82%;"Тигиев Ю.А., ""Эхо"""
+;;Mean entropy;0,603;0,597;-0,11%;0,28%;"Агънаты Г., ""С?ууон хуры тын"""
+;;Maximum entropy;0,705;0,676;16,87%;13,59%;"""Ирон ад?мон сф?лдыстад"""
+;;Minimum complexity;0,49;0,489;-18,76%;-17,82%;"Тигиев Ю.А., ""Эхо"""
+;;Mean complexity;0,599;0,593;-0,78%;-0,34%;"Шанаев Уари, ""Партизант?"""
+;;Maximum complexity;0,705;0,676;16,87%;13,59%;"""Ирон ад?мон сф?лдыстад"""
+;;Mean entropy and complexity;0,604;0,597;0,09%;0,36%;"Гурджибети Блашка., ""Уаджимисти ?мбурдгонд"""
+5;3;Minimum entropy;0,55;0,546;-17,18%;-13,99%;"Бицъоты Гриш, ""Уыцы баестаем нанамае"""
+;;Mean entropy;0,664;0,641;-0,09%;1,05%;"Ходов К.Х., ""Балс?джы цалх"""
+;;Maximum entropy;0,784;0,67;17,95%;5,58%;"""Ирон ад?мон сф?лдыстад"""
+;;Minimum complexity;0,55;0,546;-17,18%;-13,99%;"Бицъоты Гриш, ""Уыцы баестаем нанамае"""
+;;Mean complexity;0,653;0,633;-1,71%;-0,15%;"Епхиев Т.А., ""Уацмыст? ?рт? том?й"""
+;;Maximum complexity;0,749;0,678;12,72%;6,82%;"""Ирон ад?мон сф?лдыстад"""
+;;Mean entropy and complexity;0,661;0,639;-0,49%;0,71%;"Бицъоты Г.Х., ""Газгайы чындз"""
+;;;;;;;
+Thai;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;4;Minimum entropy;0,634;0,408;-13,28%;-7,89%;?????????? ?
+;;Mean entropy;0,728;0,443;-0,44%;-0,16%;?????????
+;;Maximum entropy;0,838;0,356;14,60%;-19,65%;??????????? ??????? ? ???????? ?
+;;Minimum complexity;0,828;0,351;13,30%;-20,87%;??????????????????? ?.1 ???? 2
+;;Mean complexity;0,728;0,443;-0,44%;-0,16%;????????? 
+;;Maximum complexity;0,662;0,512;-9,40%;15,49%;???????????????????????????
+;;Mean entropy and complexity;0,756;0,4;3,47%;-9,70%;???????????? ?????-?????-????????
+3;6;Minimum entropy;0,502;0,482;-15,29%;-12,01%;??????????????
+;;Mean entropy;0,592;0,562;-0,18%;2,52%;?????????? ?????????????????? ????????????????? 
+;;Maximum entropy;0,705;0,581;18,85%;6,00%;???????
+;;Minimum complexity;0,504;0,47;-15,06%;-14,30%;??????????
+;;Mean complexity;0,569;0,546;-4,07%;-0,42%;?????????? 
+;;Maximum complexity;0,7;0,605;17,99%;10,37%;????????????????????? 
+;;Mean entropy and complexity;0,589;0,556;-0,72%;1,50%;?????????
+4;3;Minimum entropy;0,601;0,514;-15,16%;-4,64%;?????????? ???????
+;;Mean entropy;0,704;0,582;-0,55%;8,05%;?????????????????????????????????? 
+;;Maximum entropy;0,846;0,428;19,44%;-20,62%;??????????? ??????? ?? ????????????????????
+;;Minimum complexity;0,846;0,428;19,44%;-20,62%;??????????? ??????? ?? ????????????????????
+;;Mean complexity;0,791;0,539;11,64%;-0,01%;?????????????? ?????? 
+;;Maximum complexity;0,693;0,584;-2,15%;8,48%;????????????????????
+;;Mean entropy and complexity;0,684;0,573;-3,39%;6,38%;???????????? ????????
+5;2;Minimum entropy;0,602;0,555;-12,52%;-0,62%;??????????????????????????????? - ?????????????????????????
+;;Mean entropy;0,685;0,554;-0,52%;-0,89%;???????????? ???-????????????
+;;Maximum entropy;0,809;0,523;17,60%;-6,40%;?????????????????? 
+;;Minimum complexity;0,786;0,506;14,17%;-9,53%;???????????
+;;Mean complexity;0,701;0,559;1,85%;-0,03%;??????????? ?????????????
+;;Maximum complexity;0,703;0,586;2,15%;4,95%;??????????????????????????????????? 
+;;Mean entropy and complexity;0,669;0,583;-2,75%;4,40%;?????????? ???????????????????????? ???????
+;;;;;;;
+Persian;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;6;Minimum entropy;0,7;0,601;-12,97%;19,39%;"???????? ?????? ?????? ????? ?????? ?????? ????? ?? ??? ????? ???? ???? ???????? ""??? ? ?? ?? ??????? ?????"""
+;;Mean entropy;0,804;0,491;-0,01%;-2,61%;"?????? ??????? ""????????? ????? ? ????? ???"""
+;;Maximum entropy;0,868;0,409;7,93%;-18,88%;"??? ???? ????? ""????? ??? (?? ???? ????? ????? ???? ??? ??? ????? ????)"""
+;;Minimum complexity;0,855;0,401;6,29%;-20,46%;"?.??.????????? ""????? ?? ?????? ???? ??????"""
+;;Mean complexity;0,814;0,504;1,20%;-0,01%;"???? ????? ""????? ? ??????? ???? ?? ??? ????? ???"""
+;;Maximum complexity;0,704;0,606;-12,45%;20,25%;"??? ????? ?""?????? ???????"""
+;;Mean entropy and complexity;0,852;0,424;5,88%;-15,91%;"???? ??????? ""?????? ?? ????? ????? ? ???? ????? ?? ????"""
+3;8;Minimum entropy;0,57;0,564;-15,89%;-11,73%;"???? ?????? ""????? ???? ???? ?????"""
+;;Mean entropy;0,678;0,644;-0,03%;0,83%;"???? ?? ?????????? ""?????????? ????? ???? ??????? ???????? ?????"""
+;;Maximum entropy;0,783;0,648;15,51%;1,51%;"??? ??? ??????? ""????? ??? ?????? ????? ??????? ? ??? ??? ?????"""
+;;Minimum complexity;0,571;0,559;-15,80%;-12,54%;"????? ?? ?????????, ?????? ??????? ?????? ""????? ?????? ????? ??? ??????? ??????"""
+;;Mean complexity;0,665;0,639;-2,02%;-0,03%;"??????????? ????????? ""????????? ??? ????? - ????? ? ??????"""
+;;Maximum complexity;0,741;0,672;9,27%;5,18%;"???? ???????? ""??? ???? ??? ?????"""
+;;Mean entropy and complexity;0,675;0,645;-0,52%;0,91%;"???????? ??????? ""????? ?????? ????????? ? ????? ?????"""
+4;4;Minimum entropy;0,631;0,6;-15,52%;-3,88%;"???? ?????? ""????? ?????? ??? ????? (??????? ?? ??????? ?????? ?????????????)"""
+;;Mean entropy;0,747;0,631;0,00%;1,00%;"???? ?? ?????????? ""???? ???? (?????? ?????? ?????? ????? ? ?????????)"""
+;;Maximum entropy;0,836;0,536;11,92%;-14,20%;"??? ??? ??????? ""????? ??? ?????? ????? ??????? ? ??? ??? ?????"""
+;;Minimum complexity;0,832;0,526;11,43%;-15,81%;"???? ??????? ""??? ?? ??????? ??"""
+;;Mean complexity;0,785;0,625;5,14%;0,00%;"???? ???????? ""????? ?? ???? ??? ????? ? ?????"""
+;;Maximum complexity;0,733;0,651;-1,85%;4,14%;"??????? ""??????? ??????? ?????? ?????? 1345"""
+;;Mean entropy and complexity;0,73;0,646;-2,26%;3,44%;"????????? ???????????? ""?????? ???????? ?????"""
+4;5;Minimum entropy;0,522;0,521;-17,26%;-15,88%;"???? ?????? ""????? ???? ???? ?????"""
+;;Mean entropy;0,631;0,622;0,00%;0,46%;"?????? ????????? ?????: ??????? ???? ?????? ""???? ????? ?? ????? ?????"""
+;;Maximum entropy;0,738;0,689;16,83%;11,31%;"???? ?? ?????????? ""?????? ????? ????? ???????"""
+;;Minimum complexity;0,522;0,521;-17,26%;-15,88%;"???? ?????? ""????? ???? ???? ?????"""
+;;Mean complexity;0,628;0,619;-0,45%;-0,03%;"??????? ???? ?? ????: ????? ????? (???????)? ""??????? ?? ?????? ?????? ?????? ????? ???? ??????? ????"""
+;;Maximum complexity;0,737;0,689;16,67%;11,32%;"???? ???? ????? ""??? ?????"""
+;;Mean entropy and complexity;0,632;0,622;0,04%;0,43%;"????? ????????? ""????? ??? ??? ????????"""
+5;3;Minimum entropy;0,59;0,582;-15,68%;-10,99%;"?????? ?????, ???? ??????, ???? ?????? ""????????? (??? ?? ?? ???? ? ????? ??? ?? ??? ?? ???????)"""
+;;Mean entropy;0,7;0,663;-0,03%;1,37%;"????? ?????? ??????????? ??????? ????? ""????? ???????"""
+;;Maximum entropy;0,801;0,656;14,41%;0,25%;"???? ???? ????? ""??? ?????"""
+;;Minimum complexity;0,59;0,582;-15,68%;-10,99%;"?????? ?????, ???? ??????, ???? ?????? ""????????? (??? ?? ?? ???? ? ????? ??? ?? ??? ?? ???????)"""
+;;Mean complexity;0,684;0,654;-2,26%;-0,01%;"?????? ?????????? ""?????? ?????? ?? ?????"""
+;;Maximum complexity;0,753;0,679;7,51%;3,84%;"???? ??????? ????? ???????? ????? ?????? ""????? ???? ?? ?????? ??????? - ????? (????? ??????)"""
+;;Mean entropy and complexity;0,696;0,661;-0,65%;1,06%;"??????? ??? ??????? ""????? ?????? - ????? ????? ? ?????????"""
+;;;;;;;
+Uzbek;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+3;4;Minimum entropy;0,617;0,501;-13,88%;1,13%;Ona plata
+;;Mean entropy;0,716;0,503;0,00%;1,63%;Imom Abu Dovud
+;;Maximum entropy;0,836;0,396;16,79%;-19,99%;Kara brassica
+;;Minimum complexity;0,835;0,396;16,62%;-20,03%;Baliqchi tumani
+;;Mean complexity;0,737;0,495;2,89%;0,00%;Islombekov Rajab
+;;Maximum complexity;0,668;0,518;-6,72%;4,50%;Yuksak qisqichbaqasimonlar
+;;Mean entropy and complexity;0,71;0,506;-0,79%;2,24%;Petrodvorets
+3;5;Minimum entropy;0,505;0,479;-13,59%;-9,95%;Hinokitiol
+;;Mean entropy;0,584;0,536;0,00%;0,68%;Forobiy
+;;Maximum entropy;0,687;0,57;17,67%;7,02%;Darvishbek Rahmonov
+;;Minimum complexity;0,505;0,479;-13,59%;-9,95%;Hinokitiol
+;;Mean complexity;0,577;0,532;-1,12%;0,00%;Smorodina
+;;Maximum complexity;0,686;0,572;17,54%;7,39%;Bug? qozoni
+;;Mean entropy and complexity;0,583;0,535;-0,11%;0,52%;Sur tuproqlar
+4;3;Minimum entropy;0,47;0,457;-14,94%;-12,32%;O?zbekiston Xalq demokratik partiyasi
+;;Mean entropy;0,553;0,524;-0,01%;0,47%;Izmaylova Galiya
+;;Maximum entropy;0,658;0,58;19,07%;11,31%;Birja
+;;Minimum complexity;0,47;0,457;-14,94%;-12,32%;O?zbekiston Xalq demokratik partiyasi
+;;Mean complexity;0,55;0,521;-0,51%;-0,01%;Mebel sanoati
+;;Maximum complexity;0,658;0,58;19,01%;11,32%;Ubuntu
+;;Mean entropy and complexity;0,553;0,524;0,04%;0,49%;Chang (cholg?u asbobi)
+5;2;Minimum entropy;0,467;0,453;-15,33%;-12,89%;O?zbekiston Respublikasi Ichki ishlar vazirligi
+;;Mean entropy;0,551;0,523;-0,02%;0,41%;O?zbekiston milliy universitetining ilmiy kutubxonasi
+;;Maximum entropy;0,659;0,58;19,52%;11,52%;O?zbekiston Respublikasi Vazirlar Mahkamasi
+;;Minimum complexity;0,467;0,453;-15,33%;-12,89%;O?zbekiston Respublikasi Ichki ishlar vazirligi
+;;Mean complexity;0,548;0,52;-0,55%;0,00%;Ibrohim oxund madrasasi
+;;Maximum complexity;0,659;0,581;19,48%;11,70%;Molla Panah Vogif
+;;Mean entropy and complexity;0,551;0,522;-0,02%;0,39%;Istehzo madrasasi
+6;1;Minimum entropy;0,69;0,487;-9,40%;8,52%;Uchqun kamera (Fizika)
+;;Mean entropy;0,762;0,455;0,00%;1,34%;O?rta paleolit
+;;Maximum entropy;0,844;0,362;10,85%;-19,22%;Elektr bilan davolash
+;;Minimum complexity;0,843;0,362;10,71%;-19,29%;Veterinariya xizmati
+;;Mean complexity;0,769;0,449;0,93%;0,07%;Mineral suvlar
+;;Maximum complexity;0,696;0,491;-8,57%;9,48%;Erich Neumann
+;;Mean entropy and complexity;0,757;0,46;-0,65%;2,47%;Udi
+;;;;;;;
+Hindi;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+3;4;Minimum entropy;0,62;0,508;-13,06%;4,88%;???
+;;Mean entropy;0,713;0,503;-0,03%;3,84%;??????
+;;Maximum entropy;0,814;0,409;14,18%;-15,53%;???
+;;Minimum complexity;0,781;0,393;9,44%;-18,80%;???
+;;Mean complexity;0,711;0,484;-0,36%;-0,01%;???
+;;Maximum complexity;0,654;0,516;-8,30%;6,60%;????
+;;Mean entropy and complexity;0,697;0,51;-2,24%;5,35%;?? (??????)
+3;5;Minimum entropy;0,522;0,493;-13,37%;-8,29%;????????
+;;Mean entropy;0,603;0,545;-0,02%;1,41%;?????????? ???????? '??????'
+;;Maximum entropy;0,7;0,566;16,21%;5,17%;???
+;;Minimum complexity;0,522;0,492;-13,35%;-8,46%;?????
+;;Mean complexity;0,591;0,538;-1,91%;-0,03%;???????, ????? ?? ??????
+;;Maximum complexity;0,693;0,57;15,04%;5,94%;??????
+;;Mean entropy and complexity;0,6;0,543;-0,40%;0,94%;??????
+4;2;Minimum entropy;0,682;0,463;-11,00%;9,16%;???
+;;Mean entropy;0,766;0,44;0,00%;3,72%;???
+;;Maximum entropy;0,847;0,341;10,61%;-19,56%;?????
+;;Minimum complexity;0,841;0,34;9,80%;-19,86%;????? ???
+;;Mean complexity;0,778;0,424;1,53%;-0,01%;????
+;;Maximum complexity;0,686;0,484;-10,44%;13,96%;???????? ????? '??????'
+;;Mean entropy and complexity;0,759;0,441;-0,88%;3,84%;?????
+4;3;Minimum entropy;0,509;0,49;-13,54%;-9,55%;????? (?????????)
+;;Mean entropy;0,589;0,547;-0,05%;0,98%;??????
+;;Maximum entropy;0,71;0,572;20,66%;5,58%;??????
+;;Minimum complexity;0,509;0,49;-13,54%;-9,55%;????? (?????????)
+;;Mean complexity;0,58;0,541;-1,46%;-0,02%;???
+;;;;;-100,00%;-100,00%;?? (??????)
+;;Maximum complexity;0,703;0,585;19,42%;8,10%;????
+;;Mean entropy and complexity;0,588;0,546;-0,22%;0,75%;????
+6;1;Minimum entropy;0,744;0,466;-7,63%;15,30%;?????
+;;Mean entropy;0,805;0,409;-0,04%;1,22%;??????
+;;Maximum entropy;0,866;0,32;7,56%;-20,74%;??????
+;;Minimum complexity;0,866;0,32;7,56%;-20,74%;??????
+;;Mean complexity;0,813;0,404;0,93%;-0,21%;???
+;;Maximum complexity;0,744;0,466;-7,63%;15,30%;?????
+;;Mean entropy and complexity;0,803;0,413;-0,34%;2,20%;??
+;;;;;;;
+Latin;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;6;Minimum entropy;0,7;0,614;-11,34%;7,71%;Gregorius I,
+;;;;;;;"""Incipiunt decreta Gregorii Papae"""
+;;Mean entropy;0,79;0,588;0,00%;3,18%;"Marcus Tullius Cicero, ""Laelius de Amicitia"""
+;;Maximum entropy;0,874;0,461;10,64%;-19,00%;"""Calixtus II"
+;;;;;;;"Epistolae et privilegia"""
+;;Minimum complexity;0,873;0,46;10,53%;-19,23%;"Alcuinus, ""De dialectica"""
+;;Mean complexity;0,811;0,57;2,71%;0,00%;"Richardus Venusinus, ""De Paulino et Polla"""
+;;Maximum complexity;0,721;0,616;-8,64%;8,17%;Sextus Pompeius Festus,
+;;;;;;;"""Fragmentum de significatione verborum"""
+;;Mean entropy and complexity;0,773;0,595;-2,07%;4,48%;Ado Viennensis,
+;;;;;;;"""Chronicon"""
+3;7;Minimum entropy;0,6;0,583;-15,29%;-7,22%;"""De rerum naturis"""
+;;Mean entropy;0,708;0,642;0,00%;2,16%;Lucius Apuleius,
+;;;;;;;"""Apologia sive pro se de magia"""
+;;Maximum entropy;0,831;0,588;17,31%;-6,44%;Quintus Horatius Flaccus,
+;;;;;;;"""Epistvlarvm"""
+;;Minimum complexity;0,811;0,53;14,45%;-15,53%;Stephanus VI,
+;;;;;;;"""Epistolae et privilegia"""
+;;Mean complexity;0,67;0,628;-5,45%;0,00%;Bernardus Claraevallensis,
+;;;;;;;"""Sermones in Canticum Canticorum"""
+;;Maximum complexity;0,745;0,652;5,19%;3,78%;Aurelius Prudentius Clemens,
+;;;;;;;"""Contra Symmachum"""
+;;Mean entropy and complexity;0,699;0,642;-1,35%;2,20%;Petrus Abaelardus,
+;;;;;;;"""Praedicamenta de praedicamentis Aristotelis"""
+4;4;Minimum entropy;0,6;0,584;-15,00%;-7,67%;Sophronius Eusebius Hieronymus,
+;;;;;;;"""Liber Ieremiae"""
+;;Mean entropy;0,706;0,648;-0,01%;2,49%;Aurelius Augustinus,
+;;;;;;;"""Contra Adimantum Manichaei discipulum"""
+;;Maximum entropy;0,83;0,604;17,57%;-4,47%;Quintus Horatius Flaccus,
+;;;;;;;"""Epistvlarvm"""
+;;Minimum complexity;0,822;0,533;16,42%;-15,70%;Stephanus VI,
+;;;;;;;"""Epistolae et privilegia"""
+;;Mean complexity;0,671;0,632;-4,97%;0,00%;Ambrosius,
+;;;;;;;"""De poenitentia"""
+;;Maximum complexity;0,744;0,655;5,35%;3,60%;Dudo Sancti Quintini,
+;;;;;;;"""De moribus et actis primorum Normannorum ducum"""
+;;Mean entropy and complexity;0,697;0,645;-1,24%;2,03%;Hyginus Mythographus,
+;;;;;;;"""Genealogiarum liber"""
+4;5;Minimum entropy;0,484;0,483;-15,04%;-14,48%;Nicetas Aquileiensis,
+;;;;;;;"""Explanatio symboli"""
+;;Mean entropy;0,57;0,566;0,00%;0,20%;Mamertus Claudianus,
+;;;;;;;"""Hymnus de passione Domini"""
+;;Maximum entropy;0,675;0,658;18,47%;16,41%;Lucius Annaeus Seneca,
+;;;;;;;"""Epistulae morales ad Lucilium"""
+;;Minimum complexity;0,484;0,483;-15,04%;-14,48%;Nicetas Aquileiensis,
+;;;;;;;"""Explanatio symboli"""
+;;Mean complexity;0,568;0,565;-0,25%;0,00%;Sophronius Eusebius Hieronymus,
+;;;;;;;"""Commentaria in Epistolam ad Titum"""
+;;Maximum complexity;0,675;0,658;18,47%;16,41%;Lucius Annaeus Seneca,
+;;;;;;;"""Epistulae morales ad Lucilium"""
+;;Mean entropy and complexity;0,571;0,568;0,26%;0,48%;Ausonius,
+;;;;;;;"""Idyllia"""
+5;3;Minimum entropy;0,521;0,518;-15,61%;-13,91%;Marcus Fabius Quintilianus,
+;;;;;;;"""Declamationes maiores"""
+;;Mean entropy;0,617;0,605;0,00%;0,64%;Alcuinus,
+;;;;;;;"""Carmina 2"""
+;;Maximum entropy;0,726;0,675;17,58%;12,20%;Ambrosius,
+;;;;;;;"""Explanatio symboli ad initiandos"""
+;;Minimum complexity;0,521;0,518;-15,61%;-13,91%;Marcus Fabius Quintilianus,
+;;;;;;;"""Declamationes maiores"""
+;;Mean complexity;0,613;0,602;-0,76%;-0,02%;Eucherius Lugdunensis,
+;;;;;;;"""Passio Agaunensium martyrum"""
+;;Maximum complexity;0,726;0,675;17,58%;12,20%;Ambrosius,
+;;;;;;;"""Explanatio symboli ad initiandos"""
+;;Mean entropy and complexity;0,618;0,606;0,02%;0,66%;Cassiodorus Vivariensis,
+;;;;;;;"""De orthographia"""
+6;2;Minimum entropy;0,6;0,586;-13,10%;-8,11%;"""Evangelium secundum Ioannem"""
+;;Mean entropy;0,691;0,647;-0,02%;1,51%;Bonaventura,
+;;;;;;;"""Collationes de septem donis Spiritus Sancti - Collatio VII"""
+;;Maximum entropy;0,8;0,644;15,81%;0,98%;Aurelius Augustinus,
+;;;;;;;"""De Anima et eius Origine"""
+;;Minimum complexity;0,6;0,586;-13,10%;-8,11%;"""Evangelium secundum Ioannem"""
+;;Mean complexity;0,672;0,638;-2,68%;-0,01%;Sophronius Eusebius Hieronymus,
+;;;;;;;"""Epistulae"""
+;;Maximum complexity;0,749;0,663;8,50%;3,95%;Rufinus Aquileiensis,
+;;;;;;;"""Historia ecclesiastica"""
+;;Mean entropy and complexity;0,686;0,645;-0,66%;1,18%;Sophronius Eusebius Hieronymus,
+;;;;;;;"""Commentaria in Epistolam ad Titum"""
+;;;;;;;
+Bulgarian;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;6;Minimum entropy;0,667;0,6;-14,16%;13,59%;"Велков Крум, ""Водител"""
+;;Mean entropy;0,777;0,535;-0,02%;1,19%;"Георги Марков, ""Задочни репортажи за България"""
+;;Maximum entropy;0,826;0,442;6,30%;-16,32%;"Бинка Пеева, ""Наръчник за кандидат-министерши"""
+;;Minimum complexity;0,826;0,442;6,30%;-16,32%;"Бинка Пеева, ""Наръчник за кандидат-министерши"""
+;;Mean complexity;0,787;0,528;1,29%;-0,03%;"Делиян Маринов, """
+;;;;;;;"Пътуване през спомени"" Част 2"
+;;Maximum complexity;0,709;0,61;-8,75%;15,48%;"Йордан Милев, ""От малката до голямата планина"""
+;;Mean entropy and complexity;0,792;0,507;1,98%;-3,96%;"Георги Коновски, ""С храна си живял"""
+3;8;Minimum entropy;0,518;0,515;-20,08%;-16,59%;"Велков Крум, ""Водител"""
+;;Mean entropy;0,648;0,621;-0,01%;0,64%;"Кирил Христов, ""Трепети"""
+;;Maximum entropy;0,719;0,636;10,93%;3,00%;"Ради Царев, ""Меча бърлога"""
+;;Minimum complexity;0,518;0,515;-20,08%;-16,59%;"Велков Крум, ""Водител"""
+;;Mean complexity;0,639;0,617;-1,39%;-0,01%;"Цончо Родев, ""Наричаха ме Желязната ръка"""
+;;Maximum complexity;0,702;0,649;8,30%;5,11%;"Марко Семов, ""И за Америка като за Америка"""
+;;Mean entropy and complexity;0,647;0,62;-0,16%;0,47%;"Цончо Родев, ""Мечът на непримиримите"""
+4;4;Minimum entropy;0,613;0,593;-18,25%;-4,82%;"Иван Мариновски, ""Руфо, червенокосия"""
+;;Mean entropy;0,75;0,645;-0,05%;3,45%;"Светомир Бабаков, ""Червеният автобус"""
+;;Maximum entropy;0,824;0,549;9,88%;-11,88%;"Бинка Пеева, ""Наръчник за кандидат-министерши"""
+;;Minimum complexity;0,824;0,549;9,88%;-11,88%;"Бинка Пеева, ""Наръчник за кандидат-министерши"""
+;;Mean complexity;0,659;0,623;-12,09%;0,00%;"Петя Дубарова, ""Лястовица"""
+;;Maximum complexity;0,725;0,648;-3,32%;4,01%;"Алекс Болдин, ""Песента на токачката"""
+;;Mean entropy and complexity;0,733;0,644;-2,25%;3,40%;"Чудомир, ""Под шарената черга"""
+4;5;Minimum entropy;0,501;0,5;-20,82%;-19,33%;"Пейо Яворов, ""Подир сенките на облаците"""
+;;Mean entropy;0,633;0,623;-0,01%;0,47%;"Константин Константинов, ""Сърдцето въ картонената кутия"""
+;;Maximum entropy;0,72;0,675;13,79%;8,90%;"Атанас Далчев, ""И сърцето най-сетне умира"""
+;;Minimum complexity;0,501;0,5;-20,82%;-19,33%;"Пейо Яворов, ""Подир сенките на облаците"""
+;;Mean complexity;0,629;0,62;-0,54%;-0,01%;"Александър Белтов, ""Фосикър"""
+;;Maximum complexity;0,719;0,677;13,63%;9,23%;"Бинка Пеева, ""Наръчник за кандидат-министерши"""
+;;Mean entropy and complexity;0,633;0,623;-0,01%;0,47%;"Константин Константинов, ""Сърдцето въ картонената кутия"""
+5;3;Minimum entropy;0,564;0,558;-19,93%;-14,80%;"Георги Караджов, ""Звънчето"""
+;;Mean entropy;0,704;0,663;0,00%;1,19%;"Цончо Родев, ""Мечът на непримиримите"""
+;;Maximum entropy;0,797;0,654;13,15%;-0,14%;"Бинка Пеева, ""Наръчник за кандидат-министерши"""
+;;Minimum complexity;0,564;0,558;-19,93%;-14,80%;"Георги Караджов, ""Звънчето"""
+;;Mean complexity;0,687;0,655;-2,49%;-0,02%;"Светослава Славова, ""Мразя клишетата"""
+;;Maximum complexity;0,743;0,676;5,48%;3,22%;"Явор Цанев, ""Избраникът"""
+;;Mean entropy and complexity;0,7;0,662;-0,67%;1,07%;"Никола Вапцаров, ""Моторни песни"""
+6;2;Minimum entropy;0,609;0,593;-19,17%;-7,34%;"Александър Драганов, ""Перлата на феникса"""
+;;Mean entropy;0,753;0,65;-0,04%;1,61%;"Павел Вежинов, ""Голямата стъпка"""
+;;Maximum entropy;0,837;0,568;11,09%;-11,25%;"Валентин Попов - Вотан, ""Брод през световете"""
+;;Minimum complexity;0,837;0,568;11,09%;-11,25%;"Валентин Попов - Вотан, ""Брод през световете"""
+;;Mean complexity;0,78;0,64;3,52%;-0,02%;"Антон Антонов — Тонич, ""Откраднатият влак"""
+;;Maximum complexity;0,743;0,66;-1,39%;3,13%;"Владимир Колев, ""Спокойствието на хаоса"""
+;;Mean entropy and complexity;0,746;0,651;-1,01%;1,65%;"Цончо Родев, ""Мечът на непримиримите"""
+;;;;;;;
+Punjabi;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;3;Minimum entropy;0,571;0,428;-16,74%;2,32%;"???? ???? ??? ??, ""??????"""
+;;Mean entropy;0,686;0,421;0,00%;0,74%;???? ??? ???? ??
+;;Maximum entropy;0,819;0,335;19,43%;-19,91%;"???? ?????? ???, ""???-??-????"""
+;;Minimum complexity;0,801;0,335;16,80%;-19,91%;"???? ??? ???, ""??????"""
+;;Mean complexity;0,712;0,418;3,78%;0,00%;"???? ????????, ""?????? ?????"""
+;;Maximum complexity;0,626;0,45;-8,72%;7,58%;"???? ?????? ???? ??, ""???? ?? ???"""
+;;Mean entropy and complexity;0,68;0,432;-0,80%;3,35%;"???? ???????? ???, ""??????? ?????"""
+3;4;Minimum entropy;0,44;0,411;-18,48%;-12,99%;"??? ???? ????, ""?????? ????????"""
+;;Mean entropy;0,54;0,476;0,00%;0,81%;"???? ??? ??? ??, ""????"""
+;;Maximum entropy;0,651;0,51;20,62%;7,97%;"??? ??? ??? ????, ""?????-?-???? (?????)"""
+;;Minimum complexity;0,441;0,392;-18,29%;-17,01%;"??????? ?????, ""??? ???"""
+;;Mean complexity;0,541;0,472;0,15%;0,00%;"??? ?????? ???, ""???? ?????? (?.) (?????? ???????)"""
+;;Maximum complexity;0,649;0,516;20,25%;9,24%;"??? ??? ?????, ""?????? ????????"""
+;;Mean entropy and complexity;0,539;0,469;-0,21%;-0,70%;"????? ???? ????, ""???????? ????????"""
+4;2;Minimum entropy;0,521;0,451;-16,22%;-5,07%;"???????? ???? ????, ""?????? ?????"""
+;;Mean entropy;0,622;0,481;0,00%;1,15%;"?????? ??? ?????, ""????????"""
+;;Maximum entropy;0,734;0,442;18,04%;-6,97%;"????? ?????, ""?????? ????????"""
+;;Minimum complexity;0,723;0,387;16,27%;-18,54%;"??? ???? ???????, ""????????"""
+;;Mean complexity;0,605;0,483;-2,79%;1,66%;"???? ???? ??? ??, ""????"""
+;;Maximum complexity;0,649;0,488;4,37%;2,72%;"??? ????? ??????, ""?????"""
+;;Mean entropy and complexity;0,621;0,48;-0,17%;0,94%;"??? ??? ?????, ""?????? ????????"""
+5;1;Minimum entropy;0,661;0,419;-13,43%;17,87%;"?????? ????, ""?????? ????/?????"""
+;;Mean entropy;0,763;0,365;-0,01%;2,62%;"???? ???? ???, ""??? ???? ?? ?????"""
+;;Maximum entropy;0,847;0,281;10,93%;-20,95%;"??? ???? ???????, ""????? ????????"""
+;;Minimum complexity;0,838;0,28;9,75%;-21,23%;"????, ""?????? ???????? ?? ???"""
+;;Mean complexity;0,777;0,355;1,82%;0,00%;"????? ????? ???? ???????, ""????-??-??? ????? ????? ??????"""
+;;Maximum complexity;0,664;0,42;-13,04%;18,15%;???? ??????? ???
+;;Mean entropy and complexity;0,763;0,362;-0,06%;1,82%;"??? ?????, ""??????"""
+;;;;;;;
+Tagalog;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece 
+3;3;Minimum entropy;0,548;0,423;-12,80%;0,14%;"Jos? Coraz?n de Jes?s, ""Kamay ng Birhen"""
+;;Mean entropy;0,629;0,417;0,04%;-1,21%;"""Pagbubuksan Ka ng Pinto"""
+;;Maximum entropy;0,737;0,35;17,25%;-17,06%;"""Tagalog: Ang Dating Biblia"", Judges 1 "
+;;Minimum complexity;0,66;0,343;5,09%;-18,82%;"Jos? Rizal, ""Paalaala sa mga Mapagusapin"""
+;;Mean complexity;0,677;0,423;7,80%;0,14%;"""Bolang Apoy"""
+;;Maximum complexity;0,596;0,441;-5,16%;4,41%;"Amado V. Hernandez, ""Inang Wika"""
+;;Mean entropy and complexity;0,638;0,41;1,53%;-2,96%;"Amado V. Hernandez, ""Ang Baboy at ang Punong Mangga"""
+3;4;Minimum entropy;0,46;0,42;-12,48%;-9,07%;"Jos? Coraz?n de Jes?s, ""Agaw-Dilim"""
+;;Mean entropy;0,526;0,468;0,13%;1,38%;"""Tapat na Handog sa Pilipina"""
+;;Maximum entropy;0,566;0,398;7,69%;-13,83%;"Jos? Rizal, ""Paalaala sa mga Mapagusapin"""
+;;Minimum complexity;0,566;0,398;7,69%;-13,83%;"Jos? Rizal, ""Paalaala sa mga Mapagusapin"""
+;;Mean complexity;0,515;0,462;-2,05%;0,12%;"Eyji Noblesmith, ""Inang Maralita"""
+;;Maximum complexity;0,618;0,504;17,50%;9,08%;"Rio Alma, ""Sa Daigdig Ng Metapora"""
+;;Mean entropy and complexity;0,521;0,468;-0,84%;1,25%;"Amado V. Hernandez, ""Inang Wika"""
+3;5;Minimum entropy;0,386;0,379;-10,21%;-9,23%;"Jose Corazon de Jesus, ""Sa Pamilihan ng Puso"""
+;;Mean entropy;0,429;0,418;-0,23%;0,03%;"Amado V. Hernandez, ""Magandang araw po"""
+;;Maximum entropy;0,515;0,488;19,69%;16,82%;"Rio Alma, ""Sa Daigdig Ng Metapora"""
+;;Minimum complexity;0,382;0,375;-11,13%;-10,15%;"""Pagdampi ng Uyayi sa Haraya"""
+;;Mean complexity;0,429;0,417;-0,31%;-0,16%;"Lamberto E. Antonio, ""Napagawi Ako sa Mababang Paaralan"""
+;;Maximum complexity;0,515;0,489;19,78%;17,02%;"Ildefonso Santos, ""Ang Guryon"" "
+;;Mean entropy and complexity;0,43;0,419;0,05%;0,39%;"Amado V. Hernandez, ""Inang Wika"""
+4;2;Minimum entropy;0,524;0,451;-10,93%;-3,15%;"""Ang Kawayan At Anahaw"""
+;;Mean entropy;0,589;0,464;0,03%;-0,31%;"Kris Monta?eza, ""Pagbubuksan Ka ng Pinto"""
+;;Maximum entropy;0,701;0,406;19,15%;-12,82%;"Balbino B. Nanong, ""Hiwaga ng Pagibig"""
+;;Minimum complexity;0,701;0,406;19,15%;-12,82%;"Balbino B. Nanong, ""Hiwaga ng Pagibig"""
+;;Mean complexity;0,565;0,466;-4,03%;0,00%;"""Unang Damdamin"""
+;;Maximum complexity;0,618;0,479;5,01%;2,96%;"""Magulang"""
+;;Mean entropy and complexity;0,583;0,47;-0,87%;0,98%;"""Ang Lalaki’t Babae Kung Umibig"""
+;;;;;;;
+Japanese;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;4;Minimum entropy;0,7;0,505;-10,31%;16,47%;????,
+;;;;;;;?????
+;;Mean entropy;0,78;0,449;0,00%;3,47%;??,
+;;;;;;;????
+;;Maximum entropy;0,856;0,345;9,68%;-20,43%;??????,
+;;;;;;;?????
+;;Minimum complexity;0,836;0,345;7,11%;-20,43%;?????,
+;;;;;;;?????
+;;Mean complexity;0,771;0,434;-1,25%;-0,01%;??,
+;;;;;;;????
+;;Maximum complexity;0,702;0,51;-10,06%;17,62%;????????,
+;;;;;;;??? 
+;;Mean entropy and complexity;0,802;0,398;2,71%;-8,28%;??,
+;;;;;;;????
+3;6;Minimum entropy;0,501;0,49;-17,31%;-13,08%;?????,
+;;;;;;;????
+;;Mean entropy;0,606;0,571;0,00%;1,25%;????,
+;;;;;;;????
+;;Maximum entropy;0,723;0,608;19,33%;7,85%;??????,
+;;;;;;;????
+;;Minimum complexity;0,501;0,49;-17,31%;-13,08%;????,
+;;;;;;;?????
+;;Mean complexity;0,595;0,564;-1,87%;0,00%;???,
+;;;;;;;???
+;;;0,595;0,563;-1,87%;-0,14%;??????,
+;;;;;;;????
+;;Maximum complexity;0,701;0,611;15,70%;8,39%;???,
+;;;;;;;????,
+;;;;;;;????
+;;Mean entropy and complexity;0,603;0,57;-0,42%;1,18%;??????,
+;;;;;;;?????
+4;3;Minimum entropy;0,57;0,534;-16,32%;-5,67%;???,
+;;;;;;;????
+;;Mean entropy;0,681;0,584;0,00%;3,15%;???,
+;;;;;;;???
+;;Maximum entropy;0,8;0,514;17,44%;-9,20%;????????,
+;;;;;;;???
+;;Minimum complexity;0,799;0,463;17,30%;-18,21%;?????????,
+;;;;;;;????
+;;Mean complexity;0,631;0,566;-7,32%;0,00%;?????,
+;;;;;;;????
+;;Maximum complexity;0,699;0,586;2,62%;3,51%;????,
+;;;;;;;???
+;;Mean entropy and complexity;0,673;0,58;-1,27%;2,42%;??????,
+;;;;;;;????
+5;2;Minimum entropy;0,6;0,554;-15,21%;-2,20%;?????,
+;;;;;;;??? 
+;;Mean entropy;0,708;0,586;0,00%;3,38%;?????,
+;;;;;;;????
+;;Maximum entropy;0,849;0,455;19,98%;-19,68%;?????,
+;;;;;;;???
+;;Minimum complexity;0,819;0,45;15,74%;-20,56%;?????,
+;;;;;;;???
+;;Mean complexity;0,767;0,566;8,33%;0,00%;?????,
+;;;;;;;?????
+;;Maximum complexity;0,698;0,588;-1,36%;3,80%;?????,
+;;;;;;;????
+;;Mean entropy and complexity;0,694;0,587;-1,90%;3,58%;????,
+;;;;;;;????
+7;1;Minimum entropy;0,703;0,558;-10,38%;10,20%;????,
+;;;;;;;?????
+;;Mean entropy;0,784;0,519;-0,01%;2,45%;??,
+;;;;;;;????
+;;Maximum entropy;0,867;0,4;10,53%;-21,00%;????,
+;;;;;;;?????
+;;Minimum complexity;0,867;0,4;10,53%;-21,00%;??????
+;;;;;;;????
+;;Mean complexity;0,798;0,506;1,73%;0,00%;??
+;;;;;;;???
+;;Maximum complexity;0,703;0,559;-10,38%;10,40%;????
+;;;;;;;????
+;;Mean entropy and complexity;0,771;0,53;-1,68%;4,71%;??????
+;;;;;;;????
+;;;;;;;
+Chinese;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;4;Minimum entropy;0,643;0,509;-12,83%;6,57%;???, ?????? 
+;;Mean entropy;0,738;0,497;0,05%;4,07%;??????????5???????????
+;;Maximum entropy;0,845;0,379;14,56%;-20,65%;??? - ????
+;;Minimum complexity;0,845;0,379;14,56%;-20,65%;??? - ????
+;;Mean complexity;0,763;0,477;3,46%;-0,06%;???? - _????
+;;Maximum complexity;0,664;0,517;-9,98%;8,25%;?? - ???????
+;;Mean entropy and complexity;0,723;0,504;-2,03%;5,51%;????? - ?????????
+3;6;Minimum entropy;0,43;0,425;-15,86%;-14,45%;?? - _????? ??????
+;;Mean entropy;0,511;0,499;0,00%;0,42%;?? - _???? ? ?????
+;;Maximum entropy;0,611;0,575;19,47%;15,81%;??????? - ????? ????????????????? 
+;;Minimum complexity;0,43;0,425;-15,86%;-14,45%;?? - _????? ??????
+;;Mean complexity;0,509;0,49;-0,49%;-1,46%;???, ???, ??, ???? - ??????
+;;Maximum complexity;0,611;0,575;19,47%;15,81%;??????? - ????? ????????????????? 
+;;Mean entropy and complexity;0,512;0,5;0,22%;0,61%;??? - ?????
+4;2;Minimum entropy;0,711;0,475;-9,17%;14,76%;?? - ??????
+;;Mean entropy;0,783;0,427;0,00%;3,14%;???? - _??????????????????????? 4?4
+;;Maximum entropy;0,855;0,33;9,23%;-20,27%;?????????——?????????
+;;Minimum complexity;0,855;0,33;9,23%;-20,27%;?????????——?????????
+;;Mean complexity;0,794;0,414;1,39%;-0,01%;?? ? - ??????(???????????????)
+;;Maximum complexity;0,711;0,475;-9,17%;14,76%;?? - ??????
+;;Mean entropy and complexity;0,776;0,43;-0,84%;3,93%;???????
+4;3;Minimum entropy;0,5;0,482;-14,90%;-10,82%;???? - ?????——???????????????
+;;Mean entropy;0,587;0,546;-0,05%;0,95%;??? - ?????_??????????-???????? (2016)
+;;Maximum entropy;0,701;0,587;19,31%;8,61%;?? - _???????-???????
+;;Minimum complexity;0,5;0,482;-14,90%;-10,82%;???? - ?????——???????????????
+;;Mean complexity;0,578;0,54;-1,70%;-0,01%;
+;;;;;;;GTS?????? ???????????????????
+;;Maximum complexity;0,7;0,587;19,14%;8,61%;?? - ????? ? ?6.29???
+;;Mean entropy and complexity;0,585;0,545;-0,36%;0,88%;???, ??? - ?????-??? (??), ??? 
+6;1;Minimum entropy;0,706;0,486;-9,56%;13,42%;????? - ?????“?”???? 
+;;Mean entropy;0,781;0,436;-0,01%;1,71%;??? - ?????????????-?????????? (2018)
+;;Maximum entropy;0,856;0,341;9,65%;-20,42%;???? - ???
+;;Minimum complexity;0,856;0,341;9,65%;-20,42%;???? - ???
+;;Mean complexity;0,791;0,428;1,35%;-0,02%;???? - ????
+;;Maximum complexity;0,709;0,487;-9,18%;13,65%;?? - ??????? ? ?11.1???
+;;Mean entropy and complexity;0,772;0,448;-1,11%;4,49%;?? ?? - ??????????
+;;;;;;;
+Swedish;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;6;Minimum entropy;0,683;0,607;-12,89%;12,41%;"Per Hasselberg, ""Sveriges Allm?nna Konstf?renings Album VI"""
+;;Mean entropy;0,784;0,568;0,00%;5,18%;"Mikael Lybeck, ""Samtal med Lackau under hans levnads sista halv?r :efterl?mnade anteckningar av Klas Uggelberg"""
+;;Maximum entropy;0,859;0,431;9,55%;-20,18%;"August Strindberg, ""Till Damaskus"""
+;;Minimum complexity;0,852;0,43;8,66%;-20,37%;"A. G. Nathorst, ""Polarforskningen"""
+;;Mean complexity;0,795;0,54;1,33%;-0,01%;"Anders Berge, ""Att begripa det f?rflutna: f?rklaring, klassificering och kolligation inom historievetenskapen"""
+;;Maximum complexity;0,708;0,613;-9,71%;13,52%;"Carl Gustaf af Leopold , ""Samlade skrifter"""
+;;Mean entropy and complexity;0,788;0,538;0,44%;-0,28%;"Fernow, Erik, ""Beskrifning ?fver V?rmland : afdelad i sex tidehvarf : tv?nne under hedendomen och lika m?nga under p?fved?met och lutherska tiden : jemte en kort inledning om landets l?ge, namn, vattendrag, bergstr?ckningar, skogar m.m."""
+3;8;Minimum entropy;0,544;0,54;-17,10%;-13,94%;"Johan Henrik Chronwall, ""Vaktkonstaplars och f?ngelsedirekt?rers ber?ttelser om Lifvet p? L?ngholmen"""
+;;Mean entropy;0,656;0,634;-0,02%;0,99%;"L. M. Hjertstedt, ""Ber?ttelse om Wadstena centralhospital r?rande helsotillst?ndet i allm?nhet"""
+;;Maximum entropy;0,768;0,654;17,04%;4,23%;"A. Carlstr?m, ""Oraklet eller Fr?ga du, s? svarar jag! """
+;;Minimum complexity;0,549;0,531;-16,33%;-15,37%;"""Sl?gten Aschan"""
+;;Mean complexity;0,646;0,627;-1,60%;-0,01%;"Ola Hansson, ""Liter?ra silhouetter. I. A.U. B??th: Henrik Pontoppidan: Adda Ravnkilde: Albert Gellerstedt: Gustav Esmann: »Ernst Ahlgren»: Gustaf af Geijerstam: Pietari P?iv?rinta"""
+;;Maximum complexity;0,748;0,674;13,99%;7,42%;"Karl Johan Warburg, ""Viktor Rydberg, en lefnadsteckning"""
+;;Mean entropy and complexity;0,654;0,633;-0,30%;0,82%;"Henning Berger, ""Ur en ensams dagbok"""
+4;4;Minimum entropy;0,615;0,594;-14,36%;-5,59%;"Carl Gustaf Laurin, ""Alla ha r?tt : samt andra uppsatser med anledning av v?rldskriget"""
+;;Mean entropy;0,718;0,62;0,00%;-1,52%;"Gunnar Hellstr?m, ""Stockholms stads herdaminne, fr?n reformationen intill tillkomsten av Stockholms stift: biofrafisk matrikel"""
+;;Maximum entropy;0,834;0,512;16,14%;-18,62%;"Henning Berger, ""Fata Morgana :en Stockholmsnovell /af Henning Berger"""
+;;Minimum complexity;0,819;0,508;14,05%;-19,26%;"Ferdinand Paul Schulthess, ""Svensk-fransk ordbok"""
+;;Mean complexity;0,692;0,629;-3,62%;0,00%;"Verner von Heidenstam, ""Skogen susar"""
+;;Maximum complexity;0,728;0,65;1,38%;3,31%;"John Vilhelm Personne, ""Strindbergs-litteraturen och osedligheten bland skolungdomen"""
+;;Mean entropy and complexity;0,716;0,633;-0,27%;0,65%;"Carl G. Laurin, ""P.A. Norstedt & S?ner, Jubileumsskrift 1823-1923"""
+4;5;Minimum entropy;0,502;0,501;-17,42%;-16,40%;"Bernh Estlander, ""Allm?nna historien i ber?ttelser"""
+;;Mean entropy;0,608;0,601;0,00%;0,34%;"Hilma Angered-Strandberg, ""?desglimtar"""
+;;Maximum entropy;0,72;0,679;18,44%;13,30%;"Cla?s Lundin, ""Nya Stockholm"""
+;;Minimum complexity;0,502;0,501;-17,42%;-16,40%;"Bernh Estlander, ""Allm?nna historien i ber?ttelser"""
+;;Mean complexity;0,605;0,599;-0,41%;0,00%;"Gustaf Janson, ""Kotteriet: En Sommarbok"""
+;;Maximum complexity;0,717;0,683;17,95%;13,97%;"Atterdag Wermelin, ""Karl Marx' v?rdeteori popul?rt framst?ld"""
+;;Mean entropy and complexity;0,609;0,602;0,13%;0,46%;"Jonas Jonsson Stadling, ""En Chung-Chus Anforare"""
+5;3;Minimum entropy;0,553;0,546;-16,98%;-14,12%;"Gustaf Janson, ""Gustaf Jansons skrifter"""
+;;Mean entropy;0,666;0,642;0,00%;1,05%;"Gustaf Edvard Klemming, ""Sveriges bibliografi 1481-1600. Band I, h?ft. 1-4. 1481-1530"""
+;;Maximum entropy;0,771;0,663;15,75%;4,28%;"Maria Sandel, ""Vid sv?ltgr?nsen och andra ber?ttelser :skildringar ur stockholmslifvet"""
+;;Minimum complexity;0,553;0,546;-16,98%;-14,12%;"Gustaf Janson, ""Gustaf Jansons skrifter"""
+;;Mean complexity;0,66;0,636;-0,99%;-0,01%;"Johan Wilhelm Warholm, ""Skara stifts herdaminne"""
+;;Maximum complexity;0,755;0,68;13,35%;6,95%;"Emanuel S. Ekman, ""W?rmeland i sitt ?mne och i sin uppodling"""
+;;Mean entropy and complexity;0,664;0,641;-0,31%;0,80%;"Johan Levin Carlbom, ""Magnus Dureels negotiation i K?penhamn 1655-57"""
+6;2;Minimum entropy;0,627;0,607;-14,80%;-6,00%;"""Vid kongl. expeditions-secreteraren Schr?derheims och fr?ken v. Stapelmohrs br?llop 1776."""
+;;Mean entropy;0,736;0,66;0,00%;2,23%;"Elias Magnus Fries, ""Botaniska utflygter. En samling af str?dda tillf?llighets- skrifter"""
+;;Maximum entropy;0,844;0,583;14,69%;-9,71%;"Olof Bergklint, ""Vittra arbeten"""
+;;Minimum complexity;0,843;0,569;14,55%;-11,88%;"B?rje Cederholm, Nils Sund, ""Natur och kulturs handlexikon. Svensk-spanskt"""
+;;Mean complexity;0,688;0,646;-6,49%;0,00%;"Viktor E. Lennstrand, ""Hvad hafva myndigheterna utr?ttat med sitt straff?"""
+;;Maximum complexity;0,747;0,662;1,50%;2,52%;"""Vem ?r vem inom handel och industri? 1944-45"""
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;Mean entropy and complexity;0,726;0,659;-1,35%;2,07%;"Elin W?gner, ""Kvarteret Oron. En Stockholmshistoria"""
+;;;;;;;
+Indonesian;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;4;Minimum entropy;0,681;0,389;-13,66%;2,24%;"Agus Sunyoto, ""Eksistensi Islam Nusantara"""
+;;Mean entropy;0,789;0,387;-0,01%;1,58%;"Danarto, ""Proses, proses, proses, proses, proses, proses, proses"""
+;;Maximum entropy;0,857;0,31;8,62%;-18,59%;"""Laporan SDKI 2017 Kesehatan Reproduksi Remaja"""
+;;Minimum complexity;0,857;0,31;8,62%;-18,59%;"""Laporan SDKI 2017 Kesehatan Reproduksi Remaja"""
+;;Mean complexity;0,78;0,381;-1,12%;-0,01%;"Badan Litbang Kemenkes, ""Pedoman Pelaksanaan Pendampingan Penanggulangan Daerah Bencana Kesehatan (PDBK) - Buku 2"""
+;;Maximum complexity;0,761;0,461;-3,55%;21,07%;"Emha Ainun Nadjib, ""Surat kepada Kanjeng Nabi"""
+;;Mean entropy and complexity;0,807;0,344;2,32%;-9,60%;"""Enigma 2: Menguak Fakta-fakta Misterius Paling Fenomenal di Dunia"""
+3;5;Minimum entropy;0,6;0,539;-14,11%;5,88%;"""Formulir Isian Permohonan Jantung"""
+;;Mean entropy;0,699;0,534;-0,01%;4,80%;"""Hadist 9 imam Lengkap"""
+;;Maximum entropy;0,8;0,409;14,52%;-19,65%;"""Pustaka Ustaka Ilmu Sunni Salagiyah KTB"""
+;;Minimum complexity;0,8;0,409;14,52%;-19,65%;"""Pustaka Ustaka Ilmu Sunni Salagiyah KTB"""
+;;Mean complexity;0,716;0,509;2,52%;0,00%;"""Aktifitas Vulkanik Palsu Gunung Kelud Dan Merapi S"""
+;;Maximum complexity;0,698;0,565;-0,08%;10,99%;"""Buku Annisa 20 Halaman 13c Jan"""
+;;Mean entropy and complexity;0,728;0,47;4,14%;-7,70%;"""Arsip Koran Kompas edisi Agustus 2012"""
+3;6;Minimum entropy;0,56;0,535;-15,26%;-4,75%;"""Kerala muslim navodhanm"""
+;;Mean entropy;0,661;0,581;0,00%;3,38%;"""Humor Orang Madura"""
+;;Maximum entropy;0,76;0,515;15,00%;-8,31%;"H.M. Zainuddin, ""Tarich Atjeh dan Nusantara"""
+;;Minimum complexity;0,562;0,475;-14,96%;-15,43%;"""Pelaksanaan Pencapaian SDGs - 2017"""
+;;Mean complexity;0,595;0,562;-9,91%;0,00%;"""Aktivitas antibakteri getan pohon Kamboja Kuning (Plumeria acuminata) Terhadap Staphylococcus aureus"""
+;;Maximum complexity;0,706;0,602;6,83%;7,18%;"""Pertemuan 14 - Kitab Fadhlul Islam - KETERASINGAN ISLAM - Ustadz Rian Abu Rabbany hafizhahullah"""
+;;Mean entropy and complexity;0,646;0,582;-2,31%;3,58%;"""Kecubung Pengasihan"" Bengkel Muda Surabaya: Beban Ide yang Tak Tersangga (Bengkel Muda Surabaya's ""Kecubung Pengasihan"""
+5;2;Minimum entropy;0,685;0,581;-10,24%;11,32%;"""PISS-KTB - Kumpulan Tanya-Jawab Keagamaan - 2015"""
+;;Mean entropy;0,763;0,556;-0,02%;6,49%;"""Cerita Rakyat Nusantara & Sejarah"""
+;;Maximum entropy;0,862;0,433;12,95%;-17,04%;"""Sankara Pada Bhushna"""
+;;Minimum complexity;0,817;0,42;7,05%;-19,53%;"""Kumpulan Buku Islami"""
+;;Mean complexity;0,799;0,522;4,68%;-0,01%;"""Poema Para Lavar Palabras"""
+;;Maximum complexity;0,698;0,587;-8,54%;12,47%;"""Kamus Besar Bahasa Indonesia"""
+;;Mean entropy and complexity;0,787;0,49;3,07%;-6,05%;"Daun Malam, ""Panduan Ringkas Gerilya Kota"""
+7;1;Minimum entropy;0,828;0,467;-4,45%;19,44%;"Ustadz Benjamin Az Zohiri hafidzahulloh, ""Putra Putra Khalifah"""
+;;Mean entropy;0,866;0,399;-0,02%;2,13%;Kumpulan kisah biographi & Sejarah dalam islam
+;;Maximum entropy;0,905;0,308;4,43%;-21,22%;"""Senopati Pamungkas"""
+;;Minimum complexity;0,894;0,308;3,16%;-21,22%;"Budi Wijayanto, Anang Sucahyo, Siwitri Munambar, Joko Triyono, ""Analisis Budidaya Melon Dengan Menggunakan Sistem Irigasi Tetes (infus) di Lahan Pasir"""
+;;Mean complexity;0,87;0,391;0,34%;-0,08%;"""AKuI Awards 2022"""
+;;Maximum complexity;0,828;0,468;-4,45%;19,70%;"Sanento Yuliman, ""The Silent World is welcomed by many"""
+;;Mean entropy and complexity;0,875;0,375;0,96%;-3,98%;"Sangkakalam, ""Kita Semua Adalah Penyintas, Kita Semua Adalah Pelaku"""
+;;;;;;;
+Icelandic;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;4;Minimum entropy;0,622;0,508;-17,61%;10,93%;"Helgi Gr?msson, ""?ri? 1918 kennslulei?beiningar"""
+;;Mean entropy;0,755;0,473;0,00%;3,22%;"Hl?n Agnarsd?ttir, ""Bl?min fr? Ma?"" "
+;;Maximum entropy;0,844;0,368;11,80%;-19,64%;"Fri?rik Gunnar Olgeirsson, ""R?ktun f?lks og foldar"""
+;;Minimum complexity;0,837;0,365;10,87%;-20,29%;"Anna Hinriksd?ttir, ""?stin ? t?mum ?mmu og afa"""
+;;Mean complexity;0,774;0,458;2,46%;0,00%;"?lafur Haukur S?monarson, ""L?ki? ? rau?a b?lnum"""
+;;Maximum complexity;0,658;0,516;-12,84%;12,68%;"Helgi Hallgr?msson, ""Sveppab?kin"""
+;;Mean entropy and complexity;0,736;0,492;-2,45%;7,50%;"?orgr?mur ?r?insson, ""Bak vi? bl?u augun"""
+3;6;Minimum entropy;0,487;0,478;-17,09%;-13,48%;"Svanhildur Kr. Sverrisd?ttir, ""Heimir : handb?k um heimildaritun"""
+;;Mean entropy;0,587;0,558;0,00%;1,02%;"""Einn handlaginn : og 9 a?rar er?t?skar sm?s?gur ? samstarfi vi? Eriku Lust."""
+;;Maximum entropy;0,71;0,6;20,88%;8,60%;"Ragnar Ingi A?alsteinsson, ""Gullv?r : kennslub?k ? m?lfr??i fyrir unglingastig"""
+;;Minimum complexity;0,487;0,477;-17,09%;-13,66%;"?orsteinn Antonsson, ""? ja?rinum : afm?lisrit ?orsteins Antonssonar / sami? af honum sj?lfum."""
+;;Mean complexity;0,578;0,553;-1,53%;0,08%;"Gu?ni L?ndal Benediktsson, ""?a? kom a? nor?an - Au?lesin s?gub?k"""
+;;Maximum complexity;0,693;0,607;17,98%;9,87%;"Bjarni F. Einarsson, ""Landn?m og landn?msf?lk"""
+;;Mean entropy and complexity;0,586;0,558;-0,30%;1,01%;"Gu?mundur S. Brynj?lfsson, ""T?magar?urinn : e?a Leitin a? fegur?inni"""
+4;3;Minimum entropy;0,561;0,529;-16,24%;-6,70%;"Ragnar Ingi A?alsteinsson, ""Limrur fyrir unglingastig grunnsk?la"""
+;;Mean entropy;0,67;0,581;0,00%;2,43%;"Hallgr?mur Helgason , ""10 r?? til a? h?tta a? drepa f?lk og byrja a? vaska upp"""
+;;Maximum entropy;0,799;0,509;19,29%;-10,23%;"Birgir R?nar Dav??sson, ""Fyrstur a? altarinu"""
+;;Minimum complexity;0,783;0,478;16,91%;-15,69%;"Hei?ur ?ttarsd?ttir, ""Sj?krasaga Br?a"""
+;;Mean complexity;0,627;0,567;-6,43%;0,00%;"??r?ur Kristinsson, ?orger?ur J. Einarsd?ttir, Kolbr?n Hrund Sigurgeirsd?ttir, ""Kynl?fsmenning framhaldssk?lanema fr? sj?narhorni ungra karla"""
+;;Maximum complexity;0,701;0,585;4,66%;3,18%;"J?n ?rnason, ?lafur Ingi Sigurgeirsson, Bjarni J?nasson, Helgi Thorarensen, Rannveig Bj?rnsd?ttir, ""Pl?ntuhr?efni ? bleikjuf??ri ? sta? fiskimj?ls og l?sis"""
+;;Mean entropy and complexity;0,662;0,579;-1,11%;2,12%;"Sixxxi, ""Leitin : hugrenningar ge?sj?klings"""
+5;2;Minimum entropy;0,544;0,517;-17,63%;-8,84%;"""Einst?k ?slensk upplifun : vegur til vaxtar."""
+;;Mean entropy;0,66;0,58;-0,01%;2,29%;"""Ungt f?lk utan sk?la 2009 : f?lagsleg sta?a 16-20 ?ra ungmenna ? ?slandi sem ekki stunda n?m vi? framhaldssk?la ?ri? 2009"""
+;;Maximum entropy;0,786;0,545;19,01%;-3,90%;"""Unglingar og sykurs?ki"""
+;;Minimum complexity;0,544;0,517;-17,63%;-8,84%;"H?kon S?berg Bj?rnsson, ?sa Helga Ragnarsd?ttir, ""S?rfr??ingsk?pan - n?m ? hlutverki : ranns?kn ? notkun kennslua?fer?a leiklistar ? sk?lastarfi me? ungum b?rnum"""
+;;Mean complexity;0,756;0,567;14,51%;0,00%;"P?tur Haf??r J?nsson, ""Hlj??spor"""
+;;Maximum complexity;0,697;0,587;5,53%;3,50%;"""Varna?armerktar efnav?rur : k?nnun ? framhaldssk?lum ? merkingum efnavara og ? a?st??u til a? geyma og nota ??r."""
+;;Mean entropy and complexity;0,654;0,579;-1,03%;2,02%;"Halld?r Laxness Halld?rsson, ""?rar, martra?ir og hlutir sem ?g hugsa um ?egar ?g er a? keyra"""
+7;1;Minimum entropy;0,626;0,548;-14,92%;2,53%;"??ra Valsd?ttir, "" ?slenskur barnamatur : marka?ur og opinberar kr?fur"""
+;;Mean entropy;0,736;0,551;0,00%;3,10%;"Bjarni F. Einarsson, ""B?ta ? ?skalista"
+;;;;;;;"B?rinn sem hvarf: ? ?sku og eldi 1362"""
+;;Maximum entropy;0,853;0,426;15,93%;-20,30%;"""Uppl?singa?ryggi, net?ryggi og pers?nuvernd - Uppl?singa?ryggisst?ringar = Information security, cybersecurity and privacy protection - Information security controls """
+;;Minimum complexity;0,852;0,426;15,79%;-20,30%;"Krist?n Steinsd?ttir, ""Ekki vera s?r"""
+;;Mean complexity;0,765;0,534;3,93%;0,00%;"J?l?a Magn?sd?ttir, ""Sektarlaus s?tindi sem gefa lj?ma"""
+;;Maximum complexity;0,684;0,56;-7,04%;4,78%;"Sigur?ur ?rnason, Gu?mundur Gu?mundsson, Einar ?rn Hreinsson, ""Atvinnutekjur 2008-2016 : eftir atvinnugreinum og landshlutum"" "
+;;Mean entropy and complexity;0,724;0,554;-1,61%;3,70%;"Helgi Gr?msson, ""Au?vita? : kennslulei?beiningar : heimili?"""
+;;;;;;;
+Polish;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;3;Minimum entropy;0,662;0,385;-11,48%;10,00%;"W. Ludwik Anczyc, ""Wiersz do Kr?la Pruskiego"""
+;;Mean entropy;0,748;0,357;-0,06%;1,84%;"Maciej Їerdziсski, ""Krew i deszcz"""
+;;Maximum entropy;0,851;0,28;13,73%;-19,99%;"Artur Oppman, ""Szopka"""
+;;Minimum complexity;0,851;0,28;13,73%;-19,99%;"Artur Oppman, ""Szopka"""
+;;Mean complexity;0,712;0,35;-4,83%;-0,05%;"Jan Kochanowski, ""Threny"" "
+;;Maximum complexity;0,715;0,421;-4,37%;20,11%;Kazimierz Nitsch, Jan Nepomucen and Jan
+;;;;;;;"Micha? Rozwadowski, ""J?zyk Polski"""
+;;Mean entropy and complexity;0,724;0,337;-3,21%;-3,76%;"Wac?aw Aleksander Maciejowski, ""Legendy i pie?ni ludu polskiego nowo odkryte"""
+3;4;Minimum entropy;0,651;0,509;-14,17%;16,44%;"Wiesіaw Gwiazdowski, ""Transmisja do..."""
+;;Mean entropy;0,769;0,378;1,39%;-13,61%;"Juliusz Slowacki, ""Anhelli"""
+;;Maximum entropy;0,838;0,382;10,53%;-12,67%;"Karol Langie, ""O Sprawie Glodowej W Galicyi 1866 Luzne Uwagi"""
+;;Minimum complexity;0,838;0,382;10,53%;-12,67%;"Karol Langie, ""O Sprawie Glodowej W Galicyi 1866"
+;;;;;;;"Luzne Uwagi"""
+;;Mean complexity;0,788;0,438;3,86%;0,03%;"Bruno Schulz, ""Sklepy cynamonowe"""
+;;Maximum complexity;0,656;0,512;-13,56%;17,09%;"Adam Mickiewicz, ""Pan Tadeusz"""
+;;Mean entropy and complexity;0,685;0,425;-9,75%;-2,77%;"Adam Mickiewicz, ""Bajki"""
+3;6;Minimum entropy;0,481;0,461;-15,08%;-14,02%;"K. Wachtel, ""Przyjaciel Dziatek"
+;;;;;;;"Wierszyki dla -- Dziatwy Polskiej w Ameryce"""
+;;Mean entropy;0,562;0,522;-0,68%;-2,76%;"Adam Mickiewicz, ""Zywila"
+;;;;;;;"Powiastka z Dziej?w Litewskich"""
+;;Maximum entropy;0,677;0,576;19,61%;7,40%;"Adam Mickiewicz, ""Pan Tadeusz"""
+;;Minimum complexity;0,481;0,461;-15,08%;-14,02%;"K. Wachtel, ""Przyjaciel Dziatek Wierszyki dla -- Dziatwy Polskiej w Ameryce"""
+;;Mean complexity;0,585;0,536;3,29%;-0,21%;"Adam Mickiewicz, ""Balady i romanse"""
+;;Maximum complexity;0,634;0,586;12,05%;9,21%;"Maciej ?ubie?ski, ""Ironia Pozor?w"""
+;;Mean entropy and complexity;0,57;0,547;0,78%;1,84%;"Zygmunt Krasi?ski, ""Moja Beatrice"""
+4;2;Minimum entropy;0,625;0,455;-15,92%;16,04%;"Krzysztof Kochacski, ""D. L. Net"""
+;;Mean entropy;0,741;0,369;-0,34%;-5,91%;"Jan Gnatowski, ""Na Smierc"
+;;;;;;;"1863"""
+;;Maximum entropy;0,854;0,318;14,81%;-18,96%;"Karol Langie, ""O Sprawie Glodowej W Galicyi 1866"""
+;;Minimum complexity;0,854;0,318;14,81%;-18,96%;"Karol Langie, ""O Sprawie Glodowej W Galicyi 1866"""
+;;Mean complexity;0,718;0,392;-3,45%;-0,05%;"Bogus?aw Sujkowski, ""Miasto przebudzone"" "
+;;Maximum complexity;0,702;0,472;-5,58%;20,35%;"Gabriela Zapolska, ""Menazerya ludzka"""
+;;Mean entropy and complexity;0,819;0,372;10,13%;-5,14%;"Kazimierz Brodzi?ski, ""Wies?aw"""
+7;1;Minimum entropy;0,723;0,555;-10,69%;15,88%;"Maciej Їerdziсski, ""Krew i deszcz"""
+;;Mean entropy;0,808;0,495;-0,22%;3,39%;"Ludwik Bruner, ""Jeden miesi?c ?ycia"""
+;;Maximum entropy;0,872;0,388;7,66%;-18,95%;"Zygmunt Krasi?ski, ""Moja Beatrice"""
+;;Minimum complexity;0,872;0,388;7,66%;-18,95%;"Zygmunt Krasi?ski, ""Moja Beatrice"""
+;;Mean complexity;0,824;0,473;1,84%;-1,11%;"Maciej ?ubie?ski, ""Ironia Pozor?w"""
+;;Maximum complexity;0,723;0,555;-10,69%;15,88%;"Ludwik Bruner, ""Jeden miesi?c ?ycia"""
+;;Mean entropy and complexity;0,789;0,516;-2,54%;7,79%;"Gabriela Zapolska, ""Menazerya ludzka"""
+;;;;;;;
+Kabyle;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+3;2;Minimum entropy;0,528;0,363;-18,52%;6,96%;Age??uf
+;;Mean entropy;0,649;0,332;-0,01%;-2,20%;Asamar alemmas
+;;Maximum entropy;0,777;0,288;19,74%;-15,16%;Aremma?
+;;Minimum complexity;0,77;0,271;18,70%;-20,16%;L?eyya?i Berbas
+;;Mean complexity;0,608;0,339;-6,26%;-0,01%;Mhenni Xalifi
+;;Maximum complexity;0,58;0,372;-10,53%;9,59%;Ad?es
+;;Mean entropy and complexity;0,665;0,313;2,54%;-7,84%;Agraw n Euro
+3;3;Minimum entropy;0,345;0,311;-20,67%;-16,46%;Le?wa?
+;;Mean entropy;0,435;0,363;-0,02%;-2,58%;Edu
+;;Maximum entropy;0,584;0,427;34,05%;14,66%;Azara
+;;Minimum complexity;0,346;0,311;-20,43%;-16,60%;Tasmekta
+;;Mean complexity;0,441;0,373;1,34%;-0,02%;Brasilia
+;;Maximum complexity;0,532;0,429;22,11%;15,04%;Ikeffis
+;;Mean entropy and complexity;0,435;0,377;-0,12%;1,11%;Adfel
+5;1;Minimum entropy;0,698;0,403;-8,74%;12,87%;L?egla Lmal?a
+;;Mean entropy;0,765;0,361;-0,02%;1,09%;?a?a
+;;Maximum entropy;0,841;0,284;9,86%;-20,32%;Mehdi Serba?
+;;Minimum complexity;0,841;0,284;9,86%;-20,32%;Mehdi Serba?
+;;Mean complexity;0,773;0,356;0,96%;-0,12%;Ooredoo (Lezzayer)
+;;Maximum complexity;0,703;0,407;-8,09%;14,05%;Akerrer
+;;Mean entropy and complexity;0,77;0,351;0,59%;-1,70%;Ami?ur
+;;;;;;;
+Atikamekw;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+3;2;Minimum entropy;0,424;0,328;-15,44%;-6,14%;Ka wapak masinahikinatikw 
+;;Mean entropy;0,5;0,349;-0,28%;-0,09%;Arowepi kamok
+;;Maximum entropy;0,605;0,355;20,64%;1,47%;Ickoterew
+;;Minimum complexity;0,427;0,324;-14,89%;-7,27%;Mikwetc
+;;Mean complexity;0,561;0,349;11,88%;0,00%;E icihonaniwok e niminaniwok
+;;Maximum complexity;0,58;0,372;15,73%;6,43%;Misiwe
+;;Mean entropy and complexity;0,497;0,359;-0,93%;2,71%;Iskito
+3;3;Minimum entropy;0,36;0,327;-17,07%;-11,93%;E aistakok
+;;Mean entropy;0,434;0,366;-0,16%;-1,37%;Eva Ottawa
+;;Maximum entropy;0,524;0,414;20,72%;11,60%;Mantcoc
+;;Minimum complexity;0,366;0,327;-15,79%;-11,95%;Jean-Baptiste Dub?
+;;Mean complexity;0,443;0,371;1,96%;-0,02%;Amiskw opitcikai
+;;Maximum complexity;0,523;0,423;20,46%;14,12%;Osawaskamikwaapi
+;;Mean entropy and complexity;0,434;0,375;0,06%;0,97%;Kinepikocic
+5;1;Minimum entropy;0,686;0,404;-9,58%;11,71%;Cicip
+;;Mean entropy;0,758;0,371;-0,11%;2,67%;Huntingdon
+;;Maximum entropy;0,839;0,288;10,61%;-20,40%;Apikocic
+;;Minimum complexity;0,834;0,288;9,95%;-20,47%;Ga'axstal'as, Jane Constance Cook
+;;Mean complexity;0,759;0,361;0,12%;-0,11%;Nehirowisiw
+;;Maximum complexity;0,696;0,41;-8,22%;13,29%;Akimaskw orakeskw
+;;Mean entropy and complexity;0,752;0,379;-0,82%;4,69%;Ocawasko mikowapi
+;;;;;;;
+Coptic;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;3;Minimum entropy;0,747;0,334;-10,55%;14,99%;24 Jeremiah 44
+;;Mean entropy;0,835;0,289;0,00%;-0,35%;44 Acts of the Apostles 13
+;;Maximum entropy;0,881;0,235;5,43%;-19,16%;23 Isaiah 8
+;;Minimum complexity;0,868;0,234;3,96%;-19,41%;Life of Longinus and Lucius part 1
+;;Mean complexity;0,844;0,29;1,08%;-0,01%;67 Tobit 13
+;;Maximum complexity;0,793;0,351;-5,07%;20,70%;The Life of John the Kalybites part 1
+;;Mean entropy and complexity;0,83;0,307;-0,59%;5,60%;On Mercy and Judgment
+3;4;Minimum entropy;0,61;0,504;-14,64%;5,21%;09 I Samuel 22
+;;Mean entropy;0,715;0,493;-0,01%;2,74%;God Says Through Those Who Are His: GF 259-262
+;;Maximum entropy;0,823;0,383;15,12%;-20,12%;On the End of the World and on Temple of Solomon
+;;Minimum complexity;0,813;0,38;13,78%;-20,70%;Pistis Sophia Book 1 Part 3
+;;Mean complexity;0,745;0,479;4,25%;-0,02%;47 2 Corinthians 1
+;;Maximum complexity;0,659;0,514;-7,87%;7,19%;19 Psalms 84
+;;Mean entropy and complexity;0,698;0,506;-2,31%;5,60%;Pistis Sophia Book 1 Part 6
+3;5;Minimum entropy;0,5;0,478;-16,73%;-10,50%;23 Isaiah 11
+;;Mean entropy;0,6;0,541;-0,05%;1,38%;42 Luke 22
+;;Maximum entropy;0,705;0,542;17,35%;1,58%;Pistis Sophia Book 1 Part 7
+;;Minimum complexity;0,501;0,476;-16,60%;-10,80%;Life of Pisentius part 1
+;;Mean complexity;0,597;0,534;-0,61%;0,00%;10 II Samuel 21
+;;Maximum complexity;0,672;0,564;11,87%;5,64%;02 Exodus 21
+;;Mean entropy and complexity;0,599;0,537;-0,22%;0,69%;21 Ecclesiastes 3
+4;2;Minimum entropy;0,701;0,46;-11,50%;16,14%;Life of Longinus and Lucius part 1
+;;Mean entropy;0,792;0,402;-0,02%;1,34%;On the Soul and Body
+;;Maximum entropy;0,857;0,319;8,13%;-19,51%;24 Jeremiah 48
+;;Minimum complexity;0,85;0,316;7,30%;-20,16%;On Penitence and Abstinence, part 2
+;;Mean complexity;0,798;0,396;0,66%;-0,10%;Инструкции Апы Пахомия в MERC.AR в Budge ed. - часть 1
+;;Maximum complexity;0,703;0,476;-11,31%;20,05%;24 Jeremiah 47
+;;Mean entropy and complexity;0,787;0,41;-0,64%;3,51%;23 Isaiah 3
+6;1;Minimum entropy;0,687;0,492;-13,78%;20,00%;05 Deuteronomy 4
+;;Mean entropy;0,796;0,422;0,00%;2,90%;71 Sirach 47
+;;Maximum entropy;0,865;0,324;8,59%;-20,97%;05 Deuteronomy 4
+;;Minimum complexity;0,864;0,324;8,46%;-20,98%;46 1 Corinthians 10
+;;Mean complexity;0,804;0,41;0,95%;-0,02%;71 Sirach 45
+;;Maximum complexity;0,687;0,492;-13,78%;20,00%;05 Deuteronomy 4
+;;Mean entropy and complexity;0,79;0,428;-0,83%;4,38%;19 Psalms 93
+;;;;;;;
+Czech;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;4;Minimum entropy;0,724;0,414;-8,84%;20,06%;"Vaclav Havel, ""Audience"""
+;;Mean entropy;0,794;0,342;0,05%;-0,75%;"Peter M. Jolin, ""Harry Trottel a ta jemn? tenata"" 
+"
+;;Maximum entropy;0,849;0,297;6,99%;-13,92%;"Ludv?k Sou?ek, ""Nebesk? detektivky, senzace a z?hady""
+"
+;;Minimum complexity;0,848;0,292;6,81%;-15,26%;"Allan a Barbara Peasovi, ""Pro? mu?i neposlouchaj? a ?eny neum? ??st v map?ch"""
+;;Mean complexity;0,785;0,346;-1,13%;0,34%;"Jaroslav Havl??ek, ""Ta t?et?"""
+;;Maximum complexity;0,746;0,417;-6,02%;20,99%;"Lip?ansk? Jan, ""Invaze p?edt?m, te? a potom"""
+;;Mean entropy and complexity;0,8;0,333;0,76%;-3,31%;"Miloslav ?vandrl?k, ""100 nejlep??ch horor?"""
+3;6;Minimum entropy;0,588;0,549;-14,48%;6,42%;"Ji?? Charv?t, ""Z?klady mezilidsk? komunikace"""
+;;Mean entropy;0,689;0,533;0,15%;3,23%;"Miloslav ?vandrl?k, ""Dracul?v temn? st?n"""
+;;Maximum entropy;0,777;0,466;13,00%;-9,67%;"Ludv?k Sou?ek, ""Tu?en? souvislosti"""
+;;Minimum complexity;0,713;0,455;3,75%;-11,74%;"Franti?ek Novotn?, ""Dlouh? den Valhaly"""
+;;Mean complexity;0,659;0,516;-4,21%;0,11%;"Inna Rottov?, ""P??pad and?lsk? ko?ile"""
+;;Maximum complexity;0,691;0,594;0,50%;15,18%;"Stanislav Hoferek, ""Einsteinove h?danky"""
+;;Mean entropy and complexity;0,693;0,513;0,76%;-0,47%;"Jaroslav Ku??k, ""Zlo?in na golfu"""
+3;8;Minimum entropy;0,481;0,479;-17,31%;-14,48%;"Milan Cile?ek, ""Blue Girl"""
+;;Mean entropy;0,582;0,564;0,00%;0,77%;"""Kam jsi do?el Krasav?e"""
+;;Maximum entropy;0,68;0,617;16,91%;10,16%;"Ludv?k Sou?ek, ""Tu?en? souvislosti"""
+;;Minimum complexity;0,481;0,479;-17,31%;-14,48%;"Milan Cile?ek, ""Blue Girl"""
+;;Mean complexity;0,588;0,56;1,17%;0,02%;"Magda V??ov?, ""Neb?t s?m"""
+;;Maximum complexity;0,653;0,618;12,30%;10,25%;"Vlastimil Vondru?ka, ""?ivot ve stalet?ch - 13. stolet?"""
+;;Mean entropy and complexity;0,582;0,561;0,10%;0,17%;"Vlasta Javo?ick?, ""Vykoupen? ?t?st? 1. d?l"""
+4;3;Minimum entropy;0,702;0,553;-11,59%;19,22%;"Vaclav Havel, ""Audience"""
+;;Mean entropy;0,794;0,446;0,00%;-3,78%;"Josef ?kvoreck?, ""Prima sez?na, Zbab?lci, Konec"""
+;;Maximum entropy;0,837;0,41;5,42%;-11,54%;"Ludv?k Sou?ek, ""Tu?en? souvislosti"""
+;;Minimum complexity;0,837;0,41;5,42%;-11,54%;"Ludv?k Sou?ek, ""Tu?en? souvislosti"""
+;;Mean complexity;0,786;0,464;-0,93%;0,01%;"Karel Pol??ek, ""Mu?i v ofsajdu"""
+;;Maximum complexity;0,721;0,561;-9,17%;20,80%;"V?clav Pravda, ""Rion- Dobrodru?stv? v Morini III"""
+;;Mean entropy and complexity;0,809;0,441;1,93%;-5,02%;"Veis Jaroslav, ""P?ist?n? na ??pu"""
+6;2;Minimum entropy;0,655;0,626;-13,15%;-2,75%;"Zuzana Haj?manov?, ""Legenda o smaragdov?ch o??ch"""
+;;Mean entropy;0,754;0,641;0,00%;-0,45%;"Hana Pro?kov?, ""Zl? panenka"""
+;;Maximum entropy;0,825;0,589;9,40%;-8,50%;"Jan Drnek, ""??by v ml?ku / Fantazie o jin? II. sv?tov? v?lce (1) / knihovna"""
+;;Minimum complexity;0,797;0,574;5,65%;-10,85%;"Franti?ek Novotn?, ""Dlouh? den Valhaly"""
+;;Mean complexity;0,756;0,644;0,21%;0,06%;"Franti?ek Niedl, ""N?vrat mistra"""
+;;Maximum complexity;0,746;0,66;-1,05%;2,47%;"Josef Nesvadba, ""Vyn?lez proti sebe"""
+;;Mean entropy and complexity;0,753;0,647;-0,23%;0,42%;"Jind?i?ka Pt??kov?, ""Dva kroky od st?nu"""
+;;;;;;;
+Quechua;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+3;3;Minimum entropy;0,686;0,394;-12,58%;17,80%;Kawsay yachay
+;;Mean entropy;0,784;0,354;-0,05%;5,81%;Chamber C3 AD distritu
+;;Maximum entropy;0,852;0,274;8,57%;-18,08%;Distrito de Chorrillos
+;;Minimum complexity;0,819;0,273;4,36%;-18,38%;Wisk'achay
+;;Mean complexity;0,783;0,334;-0,27%;-0,02%;Jancarurish
+;;Maximum complexity;0,704;0,403;-10,29%;20,49%;Lawsuyu
+;;Mean entropy and complexity;0,8;0,302;1,92%;-9,77%;Saqaqa
+3;4;Minimum entropy;0,538;0,457;-15,91%;-5,49%;Suwit hu C3 B1u
+;;Mean entropy;0,64;0,49;-0,02%;1,31%;Qullqa mayu
+;;Maximum entropy;0,748;0,464;16,91%;-4,04%;Llallagua
+;;Minimum complexity;0,683;0,41;6,75%;-15,21%;UNMSM
+;;Mean complexity;0,705;0,484;10,22%;0,00%;Orcoma kantun
+;;Maximum complexity;0,646;0,515;0,97%;6,51%;Iskanwaya
+;;Mean entropy and complexity;0,631;0,499;-1,42%;3,26%;Zumbi
+4;2;Minimum entropy;0,604;0,479;-14,73%;8,21%;Kau-hiyun
+;;Mean entropy;0,708;0,469;-0,06%;5,88%;Gir C3 B3n phaqcha
+;;Maximum entropy;0,834;0,352;17,74%;-20,48%;Willkapampa distritu
+;;Minimum complexity;0,799;0,35;12,80%;-20,94%;Suchi llaqta 28Franz Tamayo 29
+;;Mean complexity;0,757;0,443;6,87%;0,00%;San Ransisku 28Ampatu 29
+;;Maximum complexity;0,66;0,486;-6,83%;9,79%;Jos C3 A9 Mat C3 ADas Manzanilla
+;;Mean entropy and complexity;0,694;0,471;-1,99%;6,36%;Eladio Reyes
+6;1;Minimum entropy;0,64;0,494;-14,23%;10,38%;Santa Rusa
+;;Mean entropy;0,746;0,465;-0,01%;3,88%;Fedor Dostoievski
+;;Maximum entropy;0,846;0,355;13,38%;-20,68%;Willka qhichwa
+;;Minimum complexity;0,841;0,354;12,71%;-20,90%;Amerika
+;;Mean complexity;0,754;0,447;1,10%;-0,03%;Usiyanu qucha
+;;Maximum complexity;0,658;0,497;-11,81%;11,05%;Passiflora umbilicata
+;;Mean entropy and complexity;0,734;0,472;-1,58%;5,49%;Ruray rimana
+;;;;;;;
+Navajo;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece (wiki)
+3;2;Minimum entropy;0.631;0.347;-13.77%;15.38%;At???? yin????n? bin??? ?igaa?g??
+;;Mean entropy;0.731;0.303;0,00%;0.62%;Naakaii Bik?yahd????? at?a? yilt?????tah t??iish
+;;Maximum entropy;0.835;0.241;14.17%;-20.12%;Nahat?e?iitsoh Bik?yahd????? tsineeshb?zhii yisht?izh?g??
+;;Minimum complexity;0.835;0.241;14.17%;-20.12%;Nahat?e?iitsoh Bik?yahd????? tsineeshb?zhii yisht?izh?g??
+;;Mean complexity;0.733;0.301;0.22%;0,00%;T? w?naan?d????? ch?a? k?aasd?h? bin?ghah ?itsoo?g??
+;;Maximum complexity;0.669;0.359;-8.48%;19.34%;Hod??ch?iltah ay?n?chil?
+;;Mean entropy and complexity;0.731;0.313;0.01%;4.03%;Na?ageed? biza?azis h?l?n?
+3;3;Minimum entropy;0.487;0.41;-17.41%;-4.82%;Dah Woozh Bikooh
+;;Mean entropy;0.589;0.434;-0.02%;0.74%;Naakaii ?izhin? Bik?yahd????? n??ts?? ch?a?
+;;Maximum entropy;0.711;0.422;20.74%;-1.98%;Ch?iy??t?ogii dib??ch??? bitsiit???d dinilgaa?g??
+;;Minimum complexity;0.711;0.422;20.74%;-1.98%;Ch?iy??t?ogii dib??ch??? bitsiit???d dinilgaa?g??
+;;Mean complexity;0.578;0.434;-1.98%;0.66%;T??h d??? yist??in?g??
+;;Maximum complexity;0.633;0.45;7.39%;4.36%;Atseent?l? ?izhin?g??
+;;Mean entropy and complexity;0.592;0.436;0.4%;1.11%;Naakaii Bik?yahd????? na?ash???ii ch????shk??h? dinilzhin?g??
+4;3;Minimum entropy;0.289;0.287;-19.87%;-19.35%;Gaan??n?chil? d?? Gaan??n? doo yit??inii
+;;Mean entropy;0.36;0.356;-0.13%;-0.02%;Ts?dii bit?atah h?zh??n y?zh?
+;;Maximum entropy;0.432;0.423;19.85%;18.9%;T?b??h ch?osh bik?g? nt??iz
+;;Minimum complexity;0.289;0.287;-19.87%;-19.35%;Gaan??n?chil? d?? Gaan??n? doo yit??inii
+;;Mean complexity;0.36;0.356;-0.13%;-0.02%;Ch?il bijeeh yidl?n? bit??l ?ikizh?g??
+;;Maximum complexity;0.436;0.427;20.95%;19.91%;Toohj?? noo?nahii bitsiit???d halzhin?g??
+;;Mean entropy and complexity;0.363;0.359;0.8%;0.87%;Ts? ?t?i?? Bikooh
+5;1;Minimum entropy;0.576;0.412;-15.01%;4.58%;??? Neishoodii Bikin ??ts???s? Bi? Hahoodzo
+;;Mean entropy;0.678;0.41;0,00%;4.19%;Nanist?n? Bi? Ts?koohdi chid? naat?a?? ?dinib??h?gi
+;;Maximum entropy;0.812;0.321;19.86%;-18.34%;Ts?diiy??ti??daa?? bitsii? dib??ch???g??
+;;Minimum complexity;0.812;0.321;19.86%;-18.34%;Ts?diiy??ti??daa?? bitsii? dib??ch???g??
+;;Mean complexity;0.715;0.394;5.55%;-0.01%;Na?ashj??ii haalzheehii biz??? halb?h?g??
+;;Maximum complexity;0.615;0.425;-9.27%;7.93%;E?e?aahj? T?nteeld????? na?ash???iilk??h? yisht?izh?g??
+;;Mean entropy and complexity;0.682;0.399;0.66%;1.38%;Nashkaadii Bighan
+;;;;;;;
+Arabic;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;7;Minimum entropy;0,611;0,591;-19,45%;-5,82%;???? ????????
+;;Mean entropy;0,758;0,644;-0,06%;2,65%;????? ?????
+;;Maximum entropy;0,851;0,512;12,25%;-18,33%;??? ?????
+;;Minimum complexity;0,851;0,512;12,25%;-18,33%;??? ?????
+;;Mean complexity;0,791;0,626;4,33%;-0,10%;??? ???
+;;Maximum complexity;0,735;0,649;-3,02%;3,43%;????? ????
+;;Mean entropy and complexity;0,744;0,646;-1,87%;2,99%;???? ??????
+3;8;Minimum entropy;0,543;0,538;-20,05%;-16,33%;???? ?????
+;;Mean entropy;0,679;0,65;-0,04%;0,95%;???????
+;;Maximum entropy;0,785;0,658;15,67%;2,32%;??? ?????
+;;Minimum complexity;0,537;0,533;-20,89%;-17,16%;???? ????????
+;;Mean complexity;0,669;0,643;-1,47%;0,00%;???? ?????
+;;Maximum complexity;0,751;0,675;10,62%;4,87%;???????
+;;Mean entropy and complexity;0,677;0,648;-0,35%;0,75%;??????????
+4;4;Minimum entropy;0,608;0,59;-19,74%;-7,05%;???? ????????
+;;Mean entropy;0,757;0,65;-0,02%;2,40%;???????
+;;Maximum entropy;0,856;0,524;13,08%;-17,41%;??? ?????
+;;Minimum complexity;0,856;0,524;13,08%;-17,41%;??? ?????
+;;Mean complexity;0,781;0,634;3,18%;-0,06%;???? ?????? ?????????????
+;;Maximum complexity;0,741;0,652;-2,16%;2,85%;???? ??????
+;;Mean entropy and complexity;0,748;0,647;-1,23%;1,97%;?????? ?????? ???? ??? ????? ???????
+4;5;Minimum entropy;0,496;0,494;-20,62%;-19,41%;???? ?????
+;;Mean entropy;0,624;0,616;-0,04%;0,39%;???????
+;;Maximum entropy;0,74;0,694;18,59%;13,07%;??? ?????
+;;Minimum complexity;0,496;0,494;-20,62%;-19,41%;???? ?????
+;;Mean complexity;0,621;0,614;-0,48%;0,00%;???? ???
+;;Maximum complexity;0,74;0,694;18,59%;13,07%;??? ?????
+;;Mean entropy and complexity;0,624;0,616;-0,04%;0,39%;???????
+5;3;Minimum entropy;0,549;0,544;-20,45%;-16,33%;???? ?????
+;;Mean entropy;0,689;0,658;-0,08%;1,08%;???????
+;;Maximum entropy;0,811;0,658;17,63%;1,09%;??? ?????
+;;Minimum complexity;0,549;0,544;-20,45%;-16,33%;???? ?????
+;;Mean complexity;0,677;0,65;-1,81%;-0,02%;??? ??? ???
+;;Maximum complexity;0,757;0,68;9,70%;4,57%;????????
+;;Mean entropy and complexity;0,687;0,656;-0,44%;0,87%;???????????
+;;;;;;;
+Dholuo;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;5;Minimum entropy;0,615;0,55;-19,65%;15,87%;Filemon
+;;Mean entropy;0,754;0,531;-1,43%;11,85%;Jo-Efeso
+;;Maximum entropy;0,846;0,393;10,56%;-17,29%;Injili Mar Johana
+;;Minimum complexity;0,831;0,387;8,63%;-18,54%;Isaya
+;;Mean complexity;0,805;0,466;5,21%;-1,77%;Jo-Hibrania
+;;Maximum complexity;0,694;0,564;-9,34%;18,70%;Nahum
+;;Mean entropy and complexity;0,791;0,443;3,33%;-6,79%;Ngeche
+3;6;Minimum entropy;0,507;0,495;-20,42%;-12,30%;Obadia
+;;Mean entropy;0,628;0,578;-1,43%;2,45%;Jo-Efeso
+;;Maximum entropy;0,733;0,551;15,00%;-2,45%;Rapar Mar Chik
+;;Minimum complexity;0,507;0,495;-20,42%;-12,30%;Obadia
+;;Mean complexity;0,6;0,564;-5,95%;-0,05%;2 Jo-Thesalonika
+;;Maximum complexity;0,687;0,589;7,74%;4,30%;Fweny
+;;Mean entropy and complexity;0,634;0,569;-0,59%;0,86%;Ezra
+4;3;Minimum entropy;0,634;0,57;-18,32%;14,70%;Juda
+;;Mean entropy;0,752;0,572;-3,03%;14,95%;1 Petro
+;;Maximum entropy;0,861;0,401;10,95%;-19,32%;Isaya
+;;Minimum complexity;0,861;0,401;10,95%;-19,32%;Isaya
+;;Mean complexity;0,825;0,494;6,40%;-0,69%;Jo-Hibrania
+;;Maximum complexity;0,688;0,585;-11,36%;17,58%;Habakuk
+;;Mean entropy and complexity;0,722;0,583;-6,98%;17,16%;2 Jo-Thesalonika
+4;4;Minimum entropy;0,498;0,494;-20,16%;-19,55%;Hagai
+;;Mean entropy;0,596;0,58;-4,46%;-5,39%;Jo-Efeso
+;;Maximum entropy;0,74;0,646;18,56%;5,27%;Chakruok
+;;Minimum complexity;0,498;0,494;-20,16%;-19,55%;Hagai
+;;Mean complexity;0,596;0,58;-4,46%;-5,39%;Jo-Efeso
+;;Maximum complexity;0,734;0,651;17,64%;6,08%;Tich Joote
+;;Mean entropy and complexity;0,6;0,583;-3,95%;-4,97%;Jo-Galatia
+5;2;Minimum entropy;0,634;0,572;-19,26%;16,15%;3 Johana
+;;Mean entropy;0,757;0,571;-3,63%;15,96%;1 Timotheo
+;;Maximum entropy;0,876;0,4;11,46%;-18,77%;Injili Mar Johana
+;;Minimum complexity;0,876;0,4;11,46%;-18,77%;Injili Mar Johana
+;;Mean complexity;0,833;0,49;5,98%;-0,42%;Jo-Hibrania
+;;Maximum complexity;0,702;0,586;-10,61%;19,03%;Zekaria
+;;Mean entropy and complexity;0,73;0,583;-7,08%;18,38%;Ruth
+5;3;Minimum entropy;0,448;0,447;-20,68%;-19,01%;Hagai
+;;Mean entropy;0,562;0,556;-0,48%;0,79%;Zekaria
+;;Maximum entropy;0,678;0,648;20,05%;17,54%;Jeremia
+;;Minimum complexity;0,448;0,447;-20,68%;-19,01%;Hagai
+;;Mean complexity;0,536;0,532;-4,99%;-3,45%;Jo-Galatia
+;;Maximum complexity;0,677;0,65;20,04%;17,79%;Chakruok
+;;Mean entropy and complexity;0,565;0,559;0,03%;1,33%;Eklesiastes
+;;;;;;;
+Oromo;;;;;;;
+n;d;Category;Entropy;Complexity;Mean deviation (Entropy) %;Mean deviation (Complexity) %;Literature masterpiece
+3;5;Minimum entropy;0,622;0,554;-20,94%;18,60%;Filemon
+;;Mean entropy;0,778;0,521;-1,10%;11,53%;Jo-Efeso
+;;Maximum entropy;0,86;0,38;9,38%;-18,68%;Macaafa Isaayaas Raajichaa
+;;Minimum complexity;0,86;0,38;9,38%;-18,68%;Macaafa Isaayaas Raajichaa
+;;Mean complexity;0,832;0,456;5,81%;-2,37%;Jo-Hibrania
+;;Maximum complexity;0,687;0,564;-12,71%;20,71%;Macaafa Haagee Raajichaa
+;;Mean entropy and complexity;0,737;0,552;-6,24%;18,11%;Gara Warra Tasaloniqee
+3;6;Minimum entropy;0,518;0,505;-20,94%;-12,30%;Obadia
+;;Mean entropy;0,648;0,59;-1,10%;2,51%;Jo-Efeso
+;;Maximum entropy;0,741;0,588;13,01%;2,09%;Hojii Ergamootaa
+;;Minimum complexity;0,518;0,505;-20,94%;-12,30%;Obadia
+;;Mean complexity;0,682;0,575;4,09%;-0,18%;Macaafa Seenaa Baraa Isa Duraa
+;;Maximum complexity;0,703;0,603;7,22%;4,74%;Bara Ibrootaa
+;;Mean entropy and complexity;0,644;0,59;-1,75%;2,51%;Ezra
+4;4;Minimum entropy;0,498;0,493;-19,76%;-15,45%;Macaafa Sefaaniyaa Raajichaa
+;;Mean entropy;0,611;0,592;-1,49%;1,45%;1 Petro
+;;Maximum entropy;0,747;0,649;20,43%;11,32%;Isaya
+;;Minimum complexity;0,498;0,493;-19,76%;-15,45%;Macaafa Sefaaniyaa Raajichaa
+;;Mean complexity;0,596;0,58;-3,85%;-0,46%;Jo-Hibrania
+;;Maximum complexity;0,747;0,649;20,43%;11,32%;Habakuk
+;;Mean entropy and complexity;0,611;0,592;-1,49%;1,45%;Macaafa Lallabaa
+5;2;Minimum entropy;0,639;0,574;-17,95%;15,57%;Ergaa Yihudaa
+;;Mean entropy;0,773;0,561;-0,81%;13,00%;Gara Warra Galaatiyaa
+;;Maximum entropy;0,873;0,401;12,01%;-19,29%;Macaafa Saamu'el Isa Lammaffaa
+;;Minimum complexity;0,873;0,401;12,01%;-19,29%;Macaafa Saamu'el Isa Lammaffaa
+;;Mean complexity;0,833;0,493;6,89%;-0,82%;Bara Ibrootaa
+;;Maximum complexity;0,714;0,586;-8,38%;18,07%;Macaafa Miilkiyaas Raajichaa
+;;Mean entropy and complexity;0,723;0,584;-7,19%;17,68%;Jo-Galatia
+5;3;Minimum entropy;0,441;0,44;-20,62%;-19,40%;Macaafa Sefaaniyaa Raajichaa
+;;Mean entropy;0,546;0,541;-1,78%;-0,86%;Macaafa Lallabaa
+;;Maximum entropy;0,672;0,646;20,99%;18,38%;Injili Mar Johana
+;;Minimum complexity;0,441;0,44;-20,62%;-19,40%;Macaafa Sefaaniyaa Raajichaa
+;;Mean complexity;0,546;0,541;-1,78%;-0,86%;Macaafa Lallabaa
+;;Maximum complexity;0,672;0,646;20,99%;18,38%;Zekaria
+;;Mean entropy and complexity;0,559;0,554;0,64%;1,43%;Macaafa Asteer
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
+;;;;;;;
